@@ -7,13 +7,30 @@ tags:
 
 # Examenindex
 
-> Deze index wordt inhoudelijk aangevuld zodra de lesinhoud is verwerkt. De links hieronder bieden al een navigatiestructuur.
+> Deze index bevat de verwerkte inhoud van de module Introductie Start 2 Coach. De overige modules worden aangevuld zodra hun lessen zijn verwerkt.
 
-## Modules
+## Verwerkte onderwerpen
+
+| Zoekterm | Kernpunt | Verwijzing |
+|---|---|---|
+| Verantwoord trainen | Motiverend, veilig en op maat van de sporter trainen | [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#wat-mag-ik-inhoudelijk-verwachten]] |
+| Didactisch model | De rode draad met vijf bouwstenen | [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#wat-is-de-rode-draad-in-de-start-2-coach-inhoud]] |
+| Bouwstenen | Trainer, sporters, omgeving, leerdoelen en methoden | [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#wat-is-de-rode-draad-in-de-start-2-coach-inhoud]] |
+| Relatie trainer en sporters | Staat centraal in het didactisch model | [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#wat-is-de-rode-draad-in-de-start-2-coach-inhoud]] |
+| Pedagogische Pijlers | Motiveren, veilig sportklimaat, voorbeeldfunctie, ontwikkeling en inclusie | [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#wat-is-de-rode-draad-in-de-start-2-coach-inhoud]] |
+| Motiveren | Nadruk binnen bouwsteen Trainer | [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#wat-is-de-rode-draad-in-de-start-2-coach-inhoud]] |
+| Veilig sportklimaat | Nadruk binnen bouwsteen Trainer | [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#wat-is-de-rode-draad-in-de-start-2-coach-inhoud]] |
+| Voorbeeldfunctie | Nadruk binnen bouwsteen Trainer | [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#wat-is-de-rode-draad-in-de-start-2-coach-inhoud]] |
+| Ontwikkeling | Nadruk binnen bouwsteen Sporters | [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#wat-is-de-rode-draad-in-de-start-2-coach-inhoud]] |
+| Inclusie | Nadruk binnen bouwsteen Sporters | [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#wat-is-de-rode-draad-in-de-start-2-coach-inhoud]] |
+| Omgeving | Bouwsteen voor het vormgeven van training | [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#wat-is-de-rode-draad-in-de-start-2-coach-inhoud]] |
+| Leerdoelen | Bouwsteen voor het vormgeven van training | [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#wat-is-de-rode-draad-in-de-start-2-coach-inhoud]] |
+| Methoden | Bouwsteen voor het vormgeven van training | [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#wat-is-de-rode-draad-in-de-start-2-coach-inhoud]] |
+
+## Nog te verwerken
 
 | Thema | Module | Startpunt |
 |---|---|---|
-| Start 2 Coach en zelfinschatting | Introductie Start 2 Coach | [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie]] |
 | Motiveren | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen]] |
 | Veiligheid en blessures | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen]] |
 | Incidenten en foutlopen | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/03 - Wat als het foutloopt]] |

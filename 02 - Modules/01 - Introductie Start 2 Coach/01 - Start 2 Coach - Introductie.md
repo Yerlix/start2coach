@@ -2,13 +2,14 @@
 title: Start 2 Coach - Introductie
 module: Introductie Start 2 Coach
 onderdeel: Start 2 Coach - Introductie
-status: gedeeltelijk verwerkt
+status: inhoudelijk verwerkt
 bron: E-learning screenshots
 tags:
   - start2coach
   - introductie
   - verantwoord-trainen
   - trainerrol
+  - didactisch-model
 ---
 
 # Start 2 Coach - Introductie
@@ -44,6 +45,33 @@ Tijdens de theorie-uren kadert een docent de basisprincipes. Tijdens de praktijk
 
 verantwoord trainen · motiverend coachen · veilig sportklimaat · voorbeeldfunctie · ontwikkelingstempo · individuele verschillen · achtergronden · inclusie · omgeving · leerdoelen · methoden · differentiatie · blessures · lastige situaties
 
-## Volgende hoofdstukken
+## Wat is de rode draad in de Start 2 Coach-inhoud?
 
-> Nog te verwerken.
+![Didactisch model van Start 2 Coach](../../../assets/didactisch-model-start-2-coach.jpg)
+
+*Het didactisch model van Start 2 Coach: Trainer, Sporters, Omgeving, Leerdoelen en Methoden.*
+
+De inhoud van Start 2 Coach bouwen we op rond het didactisch model — onze rode draad. Dat model bestaat uit vijf bouwstenen: **Trainer, Sporters, Omgeving, Leerdoelen en Methoden**. Samen vormen ze het fundament waarmee je elke training vormgeeft.
+
+De relatie tussen **Sporters** en **Trainer** staat daarbij centraal.
+
+- In de bouwsteen **Trainer** leggen we de nadruk op **Motiveren**, het creëren van een **Veilig sportklimaat** en jouw **Voorbeeldfunctie**.
+- In de bouwsteen **Sporters** staan de **Ontwikkeling** en **Inclusie** van elke sporter voorop.
+
+Deze vijf thema’s — **Motiveren, Veilig sportklimaat, Voorbeeldfunctie, Ontwikkeling en Inclusie** — vatten we samen in de **Pedagogische Pijlers**. Doorheen Start 2 Coach duik je op basis van het model in de verschillende thema’s. Dit gebeurt via korte e-modules in VTS Connect.
+
+### Examenkort
+
+- De rode draad is het didactisch model met vijf bouwstenen: trainer, sporters, omgeving, leerdoelen en methoden.
+- Die vijf bouwstenen vormen samen de basis voor het vormgeven van elke training.
+- De relatie tussen trainer en sporters staat centraal.
+- De pedagogische pijlers zijn: motiveren, veilig sportklimaat, voorbeeldfunctie, ontwikkeling en inclusie.
+- Trainer behandelt vooral motiveren, veilig sportklimaat en voorbeeldfunctie; sporters behandelt vooral ontwikkeling en inclusie.
+
+### Zoekwoorden
+
+rode draad · didactisch model · bouwstenen · trainer · sporters · omgeving · leerdoelen · methoden · pedagogische pijlers · motiveren · veilig sportklimaat · voorbeeldfunctie · ontwikkeling · inclusie · VTS Connect
+
+## Niet-opgenomen hoofdstuk
+
+Het derde hoofdstuk over het gebruik van het e-learningplatform is niet inhoudelijk verwerkt, omdat het geen relevante cursusinhoud voor het examen bevat.
