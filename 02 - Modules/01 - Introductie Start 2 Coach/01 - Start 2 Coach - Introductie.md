@@ -47,7 +47,7 @@ verantwoord trainen · motiverend coachen · veilig sportklimaat · voorbeeldfun
 
 ## Wat is de rode draad in de Start 2 Coach-inhoud?
 
-![Didactisch model van Start 2 Coach](../../../assets/didactisch-model-start-2-coach.jpg)
+![Didactisch model van Start 2 Coach](../../assets/didactisch-model-start-2-coach.jpg)
 
 *Het didactisch model van Start 2 Coach: Trainer, Sporters, Omgeving, Leerdoelen en Methoden.*
 
