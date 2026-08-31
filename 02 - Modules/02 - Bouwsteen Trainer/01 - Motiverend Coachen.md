@@ -2,7 +2,7 @@
 title: Motiverend Coachen
 module: Bouwsteen Trainer
 onderdeel: Motiveren
-status: gedeeltelijk verwerkt
+status: inhoudelijk voltooid
 bron: E-learning screenshots; theorievideo-transcripties
 tags:
   - start2coach
@@ -19,6 +19,7 @@ tags:
   - basisbehoeften
   - belang-van-motivatie
   - motivatietypes
+  - synthese
 ---
 
 # Motiverend Coachen
@@ -340,3 +341,39 @@ De 'wil om te sporten' noemen we **autonome motivatie**. Deze motivatie komt voo
 ### Zoekwoorden
 
 belang van motivatie · intensiteit motivatie · type motivatie · willen versus moeten versus niet kunnen · amotivatie · gecontroleerde motivatie · autonome motivatie · externe druk · interne druk · persoonlijk zinvol · plezier · passie · Pieter Timmers · Gianni · Jolien · Jules · Nina Derwael · beloning · straf · schaamte · trots · schuld · zelfwaarde · nut en zin
+
+## Synthese: De Puzzel (Koppeling van Coachgedrag en Motivatie)
+
+Nu de **vier dimensies van coachgedrag**, de **drie basisbehoeften** en de **drie soorten motivatie** zijn behandeld, vallen alle puzzelstukken samen:
+
+```text
+COACHGEDRAG                    BASISBEHOEFTEN (ABC)              MOTIVATIETYPE
+
+Autonomie-ondersteuning  ──┬─►  Autonomie (A)         ──┐
+                           │                            ├─►  Autonome Motivatie
+                           ├─►  Verbondenheid (B)     ──┤    (Duurzaam / Willen)
+                           │                            │
+Structuur                ──┴─►  Competentie (C)       ──┘
+```
+
+### De mechaniek achter de puzzel
+
+1. **Autonomie-ondersteunend gedrag** geeft sporters het gevoel van **vrijheid en zelfbeschikking** (vervult Autonomie). Controlerend gedrag daarentegen wekt het gevoel dat ze gedwongen worden.
+2. **Structuur** die de trainer biedt, helpt sporters om hun **competenties snel te ontwikkelen** (vervult Competentie). Waar chaos verwarring zaait en vooruitgang blokkeert, zorgt structuur voor helderheid en vlotte progressie.
+3. **Zowel autonomie-ondersteuning als structuur** versterken de **verbondenheid**, doordat sporters merken dat de coach met hen meeleeft en oprecht tijd voor hen neemt.
+
+### Het resultaat
+
+Wanneer het coachgedrag de drie basisbehoeften van sporters vervult, ontstaat **autonome motivatie**. Sporters willen dan van nature sporten, zonder druk of verplichting. Ze voelen zich gemotiveerd, betrokken en empowered in hun dagelijkse trainingen en wedstrijden.
+
+---
+
+### Examenkort (Samenvatting hele les Motiverend Coachen)
+
+- **4 dimensies coachgedrag:** Autonomie (motiverend/weinig sturing), Structuur (motiverend/veel sturing), Controle (demotiverend/veel sturing), Chaos (demotiverend/weinig sturing).
+- **3 basisbehoeften (ABC):** Autonomie (vrijheid/keuze), Verbondenheid (warme band/tijd maken), Competentie (ontwikkeling/progressie).
+- **Samenhang ("De Puzzel"):** 
+  - Autonomie-ondersteuning vervult *Autonomie* & *Verbondenheid*.
+  - Structuur vervult *Competentie* & *Verbondenheid*.
+  - Gezamenlijk leidt dit tot *Autonome Motivatie* (duurzaam, weerbaar, passie, willen).
+- **Valkuilen:** Controle leidt tot gevoel van moeten/druk; Chaos zaait verwarring en blokkeert vooruitgang.

@@ -7,7 +7,7 @@ tags:
 
 # Examenindex
 
-> Deze index bevat de verwerkte inhoud van de module Introductie Start 2 Coach. De overige modules worden aangevuld zodra hun lessen zijn verwerkt.
+> Deze index bevat de verwerkte inhoud van de modules Introductie Start 2 Coach en Bouwsteen Trainer (Inleiding & Motiverend Coachen).
 
 ## Verwerkte onderwerpen
 
@@ -18,20 +18,26 @@ tags:
 | Bouwstenen | Trainer, sporters, omgeving, leerdoelen en methoden | [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#wat-is-de-rode-draad-in-de-start-2-coach-inhoud]] |
 | Relatie trainer en sporters | Staat centraal in het didactisch model | [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#wat-is-de-rode-draad-in-de-start-2-coach-inhoud]] |
 | Pedagogische Pijlers | Motiveren, veilig sportklimaat, voorbeeldfunctie, ontwikkeling en inclusie | [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#wat-is-de-rode-draad-in-de-start-2-coach-inhoud]] |
-| Motiveren | Nadruk binnen bouwsteen Trainer | [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#wat-is-de-rode-draad-in-de-start-2-coach-inhoud]] |
-| Veilig sportklimaat | Nadruk binnen bouwsteen Trainer | [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#wat-is-de-rode-draad-in-de-start-2-coach-inhoud]] |
-| Voorbeeldfunctie | Nadruk binnen bouwsteen Trainer | [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#wat-is-de-rode-draad-in-de-start-2-coach-inhoud]] |
-| Ontwikkeling | Nadruk binnen bouwsteen Sporters | [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#wat-is-de-rode-draad-in-de-start-2-coach-inhoud]] |
-| Inclusie | Nadruk binnen bouwsteen Sporters | [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#wat-is-de-rode-draad-in-de-start-2-coach-inhoud]] |
-| Omgeving | Bouwsteen voor het vormgeven van training | [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#wat-is-de-rode-draad-in-de-start-2-coach-inhoud]] |
-| Leerdoelen | Bouwsteen voor het vormgeven van training | [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#wat-is-de-rode-draad-in-de-start-2-coach-inhoud]] |
-| Methoden | Bouwsteen voor het vormgeven van training | [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#wat-is-de-rode-draad-in-de-start-2-coach-inhoud]] |
+| 3 rollen trainer | Motivator, veiligheid, voorbeeld | [[02 - Modules/02 - Bouwsteen Trainer/00 - Inleiding]] |
+| Coachkompas | 4 kwadranten van coachgedrag (Autonomie, Structuur, Controle, Chaos) | [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#coachkompas]] |
+| Autonomie (Coachstijl) | Weinig sturing, sterke inbreng, motiverend; perspectief sporter centraal | [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#autonomie]] |
+| Structuur (Coachstijl) | Veel sturing, beperkte inbreng, motiverend; duidelijkheid, houvast, feedback | [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#structuur]] |
+| Controle (Coachstijl) | Veel sturing, demotiverend; dwang, coach is de baas, gevoel van druk | [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#controle]] |
+| Chaos (Coachstijl) | Weinig sturing, demotiverend; onberekenbaar, geen regels/houvast | [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#chaos]] |
+| ABC van motivatie | Drie psychologische basisbehoeften (Autonomie, Verbondenheid, Competentie) | [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#abc-van-motivatie]] |
+| Autonomie (Basisbehoefte) | Zichzelf mogen zijn / psychologische vrijheid in denken en doen | [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#1-autonomie-a]] |
+| Verbondenheid (Basisbehoefte) | Warme, hechte relatie met trainer en medesporters | [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#2-verbondenheid--binding-b]] |
+| Competentie (Basisbehoefte) | Gevoel van bekwaamheid, eigen vooruitgang en zelfvertrouwen | [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#3-competentie-c]] |
+| Kwaliteit van motivatie | Meer ≠ Beter; type/vorm is bepalend voor duurzaamheid | [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#kwaliteit-van-motivatie-meer--beter]] |
+| Autonome motivatie | 'Willen' (Plezier/passie & Persoonlijk zinvol); duurzaam, weerbaar | [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#3-autonome-motivatie-willen]] |
+| Gecontroleerde motivatie | 'Moeten' (Externe druk & Interne druk/schuld/schaamte/trots); kortetermijn | [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#2-gecontroleerde-motivatie-moeten]] |
+| Amotivatie | 'Niet kunnen'; gebrek aan zelfvertrouwen/succesbeleving | [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#1-amotivatie-niet-kunnen]] |
+| De Puzzel (Synthese) | Koppeling: Coachgedrag -> ABC basisbehoeften -> Autonome motivatie | [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#synthese-de-puzzel-koppeling-van-coachgedrag-en-motivatie]] |
 
 ## Nog te verwerken
 
 | Thema | Module | Startpunt |
 |---|---|---|
-| Motiveren | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen]] |
 | Veiligheid en blessures | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen]] |
 | Incidenten en foutlopen | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/03 - Wat als het foutloopt]] |
 | Pesten | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/04 - Omgaan met Pesten]] |
