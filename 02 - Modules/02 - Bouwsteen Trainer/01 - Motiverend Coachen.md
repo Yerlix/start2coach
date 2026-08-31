@@ -3,7 +3,7 @@ title: Motiverend Coachen
 module: Bouwsteen Trainer
 onderdeel: Motiveren
 status: gedeeltelijk verwerkt
-bron: E-learning screenshot; theorievideo-transcripties
+bron: E-learning screenshots; theorievideo-transcripties
 tags:
   - start2coach
   - trainer
@@ -15,6 +15,8 @@ tags:
   - structuur
   - chaos
   - controle
+  - abc-van-motivatie
+  - basisbehoeften
 ---
 
 # Motiverend Coachen
@@ -186,3 +188,88 @@ Chaos is niet hetzelfde als autonomie. Bij autonomieondersteuning blijft de coac
 #### Zoekwoorden
 
 chaos · chaotische coach · onvoldoende structuur · demotiverend · onberekenbaar · duidelijke regels · handhaven · tegenstrijdige informatie · overdosis hulp · beklemmend · sporadisch ingrijpen · uitstellen · op hun beloop laten · gebrek aan houvast · aan hun lot overgelaten
+
+## ABC van motivatie
+
+### Inleiding
+
+Je hebt ondertussen al door dat je als trainer een cruciale rol speelt in het **aanwakkeren van de motivatie** bij jouw sporters. Jouw **aanpak** tijdens trainingen en wedstrijden, hoe je met hen **communiceert**, hen **uitdaagt en ondersteunt**, kan het verschil maken tussen een team dat doorzet en een team dat opgeeft.
+
+Nu we hebben besproken welke coachgedragingen bijdragen aan optimale motivatie, gaan we een stap verder. We duiken dieper in op de **onderliggende processen** die verklaren hoe en waarom deze motivatie ontstaat, en hoe jij als coach dit **proces kunt versterken**.
+
+De basisidee van een **autonomie-ondersteunende en structurerende trainer** is dat er een **motiverende leeromgeving** gecreëerd wordt door in te spelen op **drie psychologische basisbehoeften** van de sporter: het **ABC van motivatie**.
+
+| Basisbehoefte | Korte omschrijving (Infographic) |
+|---|---|
+| **Autonomie (A)** | Zichzelf mogen zijn |
+| **Verbondenheid (B)** | Goede, hechte relaties hebben |
+| **Competentie (C)** | Beter worden |
+
+---
+
+### De drie psychologische basisbehoeften
+
+#### 1. Autonomie (A)
+
+- **Theorie:** Autonomie is het ervaren van **vrijheid en keuze** in denken, voelen en doen. Sporters voelen dat hun behoefte aan autonomie ondersteund wordt wanneer ze **zichzelf kunnen zijn**, zowel op als naast het veld, en hun **leerproces** zelf kunnen vormgeven.
+- **Individuele invulling:** De invulling van autonomie verschilt per persoon. Sommigen voelen zich vrijer als ze **initiatief** mogen nemen; anderen geven de voorkeur aan **duidelijke keuzes** van de coach. Zo kun je op verschillende manieren tegemoetkomen aan de behoefte aan autonomie.
+- **Praktijkvoorbeeld:** Voetbaltrainer José laat zijn spelers de vrijheid om zelf te kiezen welke oefening ze willen doen om hun techniek te verbeteren. Terwijl de ene speler graag een specifieke oefening kiest, kan een andere speler het belangrijk vinden dat de trainer een duidelijke structuur biedt (zoals het uitleggen van de oefeningen en het maken van de keuzes voor het team).
+
+#### 2. Verbondenheid / Binding (B)
+
+- **Theorie:** Binding of verbondenheid wijst op het ervaren van een **warme en hechte relatie met anderen**. Bij je sportclub is zowel de band met **medesporters** als met de **trainer** belangrijk. Als coach neem je een respectvolle en eerlijke houding aan, leef je mee en maak je tijd vrij.
+- **Praktijkvoorbeeld:** Lucas is al enkele weken geblesseerd. Hij werkt zeer gedreven aan zijn terugkeer, maar de revalidatie loopt niet helemaal zoals gepland. Lucas heeft het er bijzonder moeilijk mee dat hij geen deel kan uitmaken van het team. De trainer merkt de frustraties van Lucas en neemt hem even apart om te vragen hoe het met hem gaat en om te praten over zijn situatie.
+
+#### 3. Competentie (C)
+
+- **Theorie:** Sporters voelen zich competent wanneer ze merken dat ze een gewenst resultaat behalen en **vertrouwen hebben in hun eigen kunnen**. Sporters moeten niet noodzakelijk beter presteren dan anderen om zich bekwaam te voelen; hun gevoel van competentie is veeleer afhankelijk van het behalen van **vooropgestelde doelen** (bv. persoonlijk record verspringen verbreken of de vooraf ingeoefende sprong technisch goed uitvoeren en landen).
+- **Praktijkvoorbeeld:** Louis voelt zich competent wanneer hij zijn **persoonlijk record** in de verspringwedstrijd verbetert, zelfs als hij niet wint. Het feit dat hij zijn eigen doel heeft bereikt, zoals het verbeteren van zijn techniek of het verder springen dan ooit tevoren, geeft hem het vertrouwen in zijn eigen kunnen, wat zijn gevoel van competentie versterkt.
+
+---
+
+### Koppeling met het Coachkompas
+
+Een coach die **autonomie-ondersteunend** is en **voldoende structuur** biedt (de twee motiverende stijlen van het coachkompas), zorgt ervoor dat de noden aan **Autonomie, Verbondenheid en Competentie** ondersteund worden. Wanneer daaraan voldaan is, zal de motivatie van sporters verhogen.
+
+---
+
+### Kwaliteit van motivatie: Meer ≠ Beter
+
+Bij motivatie is **meer niet altijd gelijk aan beter**. Met het ABC wordt ingezet op **kwalitatief goede vormen van motivatie**.
+
+```text
+AMOTIVATIE  <---------  GECONTROLEERDE MOTIVATIE  <---------  AUTONOME MOTIVATIE
+(Geen motivatie)           (Moeten / Druk)                      (Willen / Kwalitatief)
+                           ├── Externe druk                     ├── Persoonlijk zinvol
+                           └── Interne druk                     └── Plezier & Passie
+```
+
+#### 1. Autonome motivatie (Kwalitatief / "Willen")
+Gekenmerkt door een gevoel van **willen**. Dit is de meest kwalitatieve en duurzame vorm van motivatie.
+- **Plezier:** De sporter vindt wat hij/zij doet leuk en haalt plezier/passie uit de sport.
+- **Persoonlijk zinvol:** De sporter vindt een oefening op zich misschien niet leuk (bv. krachttraining), maar begrijpt en aanvaardt het nut en het belang ervan in functie van de eigen ontwikkeling.
+- **Effect:** Duurzamer en stabiel over langere tijd. Sporters zijn meer betrokken bij hun leerproces, zijn weerbaarder en houden langer vol.
+
+#### 2. Gecontroleerde motivatie (Minder kwalitatief / "Moeten")
+Gekenmerkt door een gevoel van **druk en verplichting**.
+- **Interne druk:** Komt van de sporter zelf (zich willen bewijzen, gedreven door schuld, schaamte of trots).
+- **Externe druk:** Opgelegd van buitenaf (coach, ouders). Gedrag stellen om aan verwachtingen te voldoen, beloond te worden of straf te ontlopen.
+- **Effect:** Kan kortetermijneffecten opleveren, maar is minder duurzaam. Zodra de externe factoren/druk wegvallen, verdwijnt ook de motivatie.
+
+#### 3. Amotivatie (Geen motivatie)
+- **Definitie:** Een totaal gebrek aan motivatie.
+- **Oorzaak:** Komt voort uit een gebrek aan zelfvertrouwen of het gevoel dat ondernomen acties weinig tot geen kans op succes hebben.
+
+---
+
+### Examenkort
+
+- **ABC:** Autonomie (zichzelf mogen zijn / keuze), VerBondenheid (warme band / hechte relaties), Competentie (beter worden / eigen vooruitgang).
+- **Kwaliteit boven kwantiteit:** Meer motivatie is niet per definitie beter; autonome motivatie ("willen") is duurzamer dan gecontroleerde motivatie ("moeten").
+- **Autonome motivatie** ontstaat uit *plezier/passie* of het *persoonlijk zinvol* inzien van het nut (bv. krachttraining voor ontwikkeling).
+- **Gecontroleerde motivatie** ontstaat uit *interne druk* (schuld, schaamte, trots) of *externe druk* (beloning, straf, verwachtingen van anderen).
+- **Amotivatie** ontstaat wanneer succesbeleving of zelfvertrouwen volledig ontbreekt.
+
+### Zoekwoorden
+
+ABC van motivatie · psychologische basisbehoeften · autonomie · verbondenheid · competentie · zichzelf mogen zijn · hechte relaties · beter worden · autonome motivatie · gecontroleerde motivatie · amotivatie · willen versus moeten · plezier · persoonlijk zinvol · krachttraining · interne druk · externe druk · schuld · schaamte · trots · beloning · straf · duurzaamheid · weerbaarheid
