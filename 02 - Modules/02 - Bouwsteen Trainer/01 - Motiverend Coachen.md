@@ -186,7 +186,3 @@ Chaos is niet hetzelfde als autonomie. Bij autonomieondersteuning blijft de coac
 #### Zoekwoorden
 
 chaos · chaotische coach · onvoldoende structuur · demotiverend · onberekenbaar · duidelijke regels · handhaven · tegenstrijdige informatie · overdosis hulp · beklemmend · sporadisch ingrijpen · uitstellen · op hun beloop laten · gebrek aan houvast · aan hun lot overgelaten
-
-## Volgende hoofdstukken
-
-> Coachkompas: praktijkvoorbeelden nog te verwerken.
