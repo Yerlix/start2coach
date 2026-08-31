@@ -3,7 +3,7 @@ title: Motiverend Coachen
 module: Bouwsteen Trainer
 onderdeel: Motiveren
 status: gedeeltelijk verwerkt
-bron: E-learning screenshot; theorievideo-transcriptie
+bron: E-learning screenshot; theorievideo-transcripties
 tags:
   - start2coach
   - trainer
@@ -12,6 +12,7 @@ tags:
   - coachstijl
   - coachkompas
   - autonomieondersteuning
+  - structuur
 ---
 
 # Motiverend Coachen
@@ -59,7 +60,7 @@ Het coachkompas plaatst coachgedrag op twee assen:
 | Kwadrant | Sturing coach | Inbreng sporters | Effect | Verwerkingsstatus |
 |---|---|---|---|---|
 | Autonomie | Beperkt | Sterk | Motiverend | Theorie verwerkt |
-| Structuur | Groot | Beperkt | Motiverend | Nog te verwerken |
+| Structuur | Groot | Beperkt | Motiverend | Theorie verwerkt |
 | Controle | Groot | Beperkt | Demotiverend | Nog te verwerken |
 | Chaos | Beperkt | Sterk | Demotiverend | Nog te verwerken |
 
@@ -95,6 +96,37 @@ Autonomie betekent doelgerichte inspraak en uitleg binnen een coachende context.
 
 autonomie · autonomieondersteuning · autonomieondersteunende coachstijl · perspectief van sporters · denkproces · keuzes maken · dialoog · verwachtingen · interesses · noden · uitleg · nut · belang · chaos
 
+### Structuur
+
+**Plaats op het coachkompas:** grote sturing door de coach, beperkte inbreng van sporters en een motiverende coachstijl.
+
+#### Theorie
+
+Sturing van de coach hoeft niet noodzakelijk een taboe te zijn. Coachgedrag kan sturend zijn en toch motiverend werken voor sporters. We spreken in dat geval over **structuur**.
+
+Structuur betekent dat je als coach vooral heel duidelijk bent. Sporters ontwikkelen zich met vallen en opstaan. Als coach help je hen daarbij door:
+
+- feedback te geven wanneer dat nodig is;
+- op tijd en stond te helpen;
+- hen voldoende uit te dagen.
+
+Je zorgt voor houvast. Je communiceert helder je verwachtingen en bedoelingen, en volgt die ook nauwgezet op. Daardoor weten sporters wat van hen verwacht wordt en wat ze kunnen doen om een bepaald doel te bereiken.
+
+#### Kernonderscheid
+
+Structuur is sturend én motiverend: de coach biedt duidelijkheid, houvast, gepaste hulp, feedback en uitdaging. Het is dus niet hetzelfde als controle; het onderscheid zit niet enkel in de mate van sturing, maar in de ondersteunende, heldere manier waarop die sturing gebeurt.
+
+#### Examenkort
+
+- Sturing door de coach kan motiverend zijn wanneer zij structuur biedt.
+- Structuur betekent duidelijke verwachtingen en bedoelingen communiceren én opvolgen.
+- De coach ondersteunt het leerproces met tijdige hulp, noodzakelijke feedback en voldoende uitdaging.
+- Door structuur weten sporters wat van hen verwacht wordt en hoe ze een doel kunnen bereiken.
+
+#### Zoekwoorden
+
+structuur · sturing · duidelijkheid · houvast · verwachtingen · bedoelingen · opvolgen · feedback · hulp · uitdaging · vallen en opstaan · doel bereiken · controle
+
 ## Volgende hoofdstukken
 
-> Coachkompas: structuur, controle, chaos en praktijkvoorbeelden nog te verwerken.
+> Coachkompas: controle, chaos en praktijkvoorbeelden nog te verwerken.
