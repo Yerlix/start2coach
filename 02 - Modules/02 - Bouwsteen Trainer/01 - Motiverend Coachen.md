@@ -13,6 +13,7 @@ tags:
   - coachkompas
   - autonomieondersteuning
   - structuur
+  - chaos
 ---
 
 # Motiverend Coachen
@@ -62,7 +63,7 @@ Het coachkompas plaatst coachgedrag op twee assen:
 | Autonomie | Beperkt | Sterk | Motiverend | Theorie verwerkt |
 | Structuur | Groot | Beperkt | Motiverend | Theorie verwerkt |
 | Controle | Groot | Beperkt | Demotiverend | Nog te verwerken |
-| Chaos | Beperkt | Sterk | Demotiverend | Nog te verwerken |
+| Chaos | Beperkt | Sterk | Demotiverend | Theorie verwerkt |
 
 ### Autonomie
 
@@ -127,6 +128,36 @@ Structuur is sturend én motiverend: de coach biedt duidelijkheid, houvast, gepa
 
 structuur · sturing · duidelijkheid · houvast · verwachtingen · bedoelingen · opvolgen · feedback · hulp · uitdaging · vallen en opstaan · doel bereiken · controle
 
+### Chaos
+
+**Plaats op het coachkompas:** beperkte sturing door de coach, sterke inbreng van sporters en een demotiverende coachstijl.
+
+#### Theorie
+
+Wanneer de sturing aan de sporter overgelaten wordt, maar er onvoldoende structuur is vanwege de coach, kan dat zeer demotiverend werken. We spreken in dat geval van **chaos**.
+
+Chaotische coaches zijn onberekenbaar en slagen er niet in om duidelijke regels op te stellen en te handhaven.
+
+- Het ene moment overladen ze de sporter met een overdosis aan tegenstrijdige informatie en hulp. Dat kan overbodig of beklemmend overkomen.
+- Op andere momenten doen ze net niets: ze grijpen niet of slechts sporadisch in en hebben de neiging om zaken uit te stellen of helemaal op hun beloop te laten.
+
+Er is met andere woorden een gebrek aan houvast, waardoor sporters het gevoel hebben dat ze aan hun lot worden overgelaten.
+
+#### Kernonderscheid
+
+Chaos is niet hetzelfde als autonomie. Bij autonomieondersteuning blijft de coach betrokken, biedt die uitleg en ondersteunt die doelgerichte keuzes. Chaos ontstaat wanneer de coach onvoldoende structuur biedt, onvoorspelbaar is en sporters geen houvast geeft.
+
+#### Examenkort
+
+- Chaos is demotiverend coachgedrag met beperkte coachsturing en onvoldoende structuur.
+- Een chaotische coach is onberekenbaar en stelt geen duidelijke regels op of handhaaft ze niet.
+- De coach wisselt tegenstrijdige of overmatige hulp af met nauwelijks of niet ingrijpen.
+- Het gevolg is een gebrek aan houvast en het gevoel bij sporters dat zij aan hun lot worden overgelaten.
+
+#### Zoekwoorden
+
+chaos · chaotische coach · onvoldoende structuur · demotiverend · onberekenbaar · duidelijke regels · handhaven · tegenstrijdige informatie · overdosis hulp · beklemmend · sporadisch ingrijpen · uitstellen · op hun beloop laten · gebrek aan houvast · aan hun lot overgelaten
+
 ## Volgende hoofdstukken
 
-> Coachkompas: controle, chaos en praktijkvoorbeelden nog te verwerken.
+> Coachkompas: controle en praktijkvoorbeelden nog te verwerken.
