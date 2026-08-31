@@ -143,3 +143,63 @@ Fysieke veiligheid betekent daarom meer dan alleen uitkijken. Het betekent bewus
 ### Zoekwoorden
 
 fysieke veiligheid · veilige sportomgeving · lichamelijk welzijn · verantwoord sporten · gezond sporten · gezonde geest en gezond lichaam · bewegingsdriehoek · voedingsdriehoek · geluksdriehoek · beweging · stilzitten · evenwichtige voeding · mentaal welzijn · conditie · immuunsysteem · gelukshormonen · stress · zelfvertrouwen · slaap · sociale ontwikkeling · blessurepreventie · overbelasting · ongevallen · opbouw · weerstand
+
+## Sportblessures voorkomen
+
+### Sportblessures
+
+Een blessure kan **plots toeslaan**, zoals een verzwikte enkel, een ontwrichte schouder of een spierscheur. Maar ook een **langzaam sluimerende overbelasting** kan een sporter uitschakelen, zoals een peesontsteking, springersknie (*jumper’s knee*) of stressfractuur.
+
+Geleidelijke blessures vragen vaak het langste herstel. Soms is er een duidelijk contactmoment, zoals een schop, botsing of slag met een stick, maar vaak ook niet. Veel blessures ontstaan gewoon door **herhaling en overbelasting**.
+
+Welke blessure je tegenkomt, hangt sterk af van de sport. Toch zijn **enkel en knie** het vaakst de pineut. Verstuikingen, verrekkingen, kneuzingen en spierscheuren zijn daarbij de meest voorkomende sportblessures. Daarnaast heeft elke sport ook zijn typische blessures.
+
+#### Hoe ontstaan sportblessures?
+
+Een blessure ontstaat zelden puur door pech. Vaak is ze het gevolg van een combinatie van **persoonlijke risicofactoren** en **omgevingsrisicofactoren**, waarna één verkeerd moment het letsel veroorzaakt.
+
+| Persoonlijke risicofactoren | Omgevingsrisicofactoren |
+|---|---|
+| Liggen bij de sporter zelf en verschillen van persoon tot persoon | Hebben te maken met de omstandigheden waarin gesport wordt |
+| Leeftijd en ontwikkelingsfase | Trainingsbelasting en intensiteit |
+| Geslacht | Slecht of ongeschikt sportmateriaal |
+| Lichaamsbouw, gewicht of fysieke beperking | Onveilige accommodatie |
+| Fitheid en trainingsniveau | Slechte weersomstandigheden |
+| Gezondheidstoestand, bv. koorts of vroegere blessures | Gebrekkige spelregels, begeleiding of sfeer |
+| Mentale ingesteldheid, voeding en verzorging | — |
+
+**Voorbeeld persoonlijke factor:** Rudy keert na zijn pensioen enthousiast terug naar judo. Zijn lichaam is echter niet meer dat van een 18-jarige en hij voelt dat al na de eerste training.
+
+**Voorbeeld omgevingsfactor:** Skiër Vanessa vermijdt op ijzige dagen de moeilijke pistes met beginners. Zo beperkt ze het risico op vallen en blessures.
+
+#### Gevolgen van een sportblessure
+
+De impact van een sportblessure kan groot zijn en reikt verder dan de sporttraining. Een blessure kan gevolgen hebben op én naast het veld.
+
+| Gevolg | Wat betekent dit? |
+|---|---|
+| **Lichamelijk ongemak** | Pijn en beperkte mobiliteit maken dagelijkse activiteiten lastiger. Gemiste trainingen en wedstrijden kunnen ontwikkeling, welzijn en prestaties onder druk zetten. |
+| **Leven op pauze** | School of werk moet soms wijken, sociale activiteiten vallen weg en zelfs huishoudelijke taken worden moeilijk. Langdurige blessures kunnen leiden tot somberheid en minder goed presteren op school of werk. |
+| **Financiële last** | Medische kosten, behandelingen en gemiste kansen kunnen snel oplopen. Werkverlet betekent vaak ook minder inkomen. |
+
+#### Niet alleen maar negatief
+
+Tijdelijk niet kunnen sporten door een blessure hoeft niet uitsluitend negatief te zijn. Het lichaam krijgt de kans om te herstellen en uit te rusten. Een sporter kan deze periode ook gebruiken om zich op andere aspecten van de sport te richten, bijvoorbeeld door vaker blessurepreventieve oefeningen te doen.
+
+> Blessures kunnen pijn doen, trainingen verstoren en zelfs carrières beïnvloeden. Hoe minder blessures, hoe meer plezier, progressie en prestaties. De sleutel is **preventie**: slim afstemmen wat je van het lichaam vraagt op wat het aankan.
+
+### Examenkort
+
+- Een sportblessure kan **acuut** ontstaan (plots) of **geleidelijk** door herhaling en overbelasting.
+- Voorbeelden van acute blessures zijn een verzwikte enkel, ontwrichte schouder en spierscheur.
+- Voorbeelden van overbelastingsblessures zijn peesontsteking, springersknie en stressfractuur.
+- Enkel en knie zijn vaak getroffen; verstuikingen, verrekkingen, kneuzingen en spierscheuren komen veel voor.
+- Blessures ontstaan vaak door een combinatie van **persoonlijke factoren** en **omgevingsfactoren**.
+- Persoonlijke factoren betreffen onder andere leeftijd, ontwikkelingsfase, lichaamsbouw, fitheid, gezondheid, eerdere blessures, mentale ingesteldheid, voeding en verzorging.
+- Omgevingsfactoren betreffen onder andere trainingsbelasting, materiaal, accommodatie, weer, spelregels, begeleiding en sfeer.
+- De gevolgen kunnen lichamelijk, sociaal/mentaal en financieel zijn.
+- Preventie betekent de belasting die je van het lichaam vraagt verstandig afstemmen op wat het lichaam aankan.
+
+### Zoekwoorden
+
+sportblessure · acute blessure · geleidelijke blessure · overbelasting · contactmoment · verzwikte enkel · ontwrichte schouder · spierscheur · peesontsteking · springersknie · jumper’s knee · stressfractuur · knie · enkel · verstuiking · verrekking · kneuzing · persoonlijke risicofactoren · omgevingsrisicofactoren · trainingsbelasting · trainingsintensiteit · sportmateriaal · accommodatie · weersomstandigheden · begeleiding · sfeer · lichamelijk ongemak · leven op pauze · financiële last · herstel · preventie
