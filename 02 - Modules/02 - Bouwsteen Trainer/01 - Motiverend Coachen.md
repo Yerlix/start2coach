@@ -14,6 +14,7 @@ tags:
   - autonomieondersteuning
   - structuur
   - chaos
+  - controle
 ---
 
 # Motiverend Coachen
@@ -62,7 +63,7 @@ Het coachkompas plaatst coachgedrag op twee assen:
 |---|---|---|---|---|
 | Autonomie | Beperkt | Sterk | Motiverend | Theorie verwerkt |
 | Structuur | Groot | Beperkt | Motiverend | Theorie verwerkt |
-| Controle | Groot | Beperkt | Demotiverend | Nog te verwerken |
+| Controle | Groot | Beperkt | Demotiverend | Theorie verwerkt |
 | Chaos | Beperkt | Sterk | Demotiverend | Theorie verwerkt |
 
 ### Autonomie
@@ -128,6 +129,34 @@ Structuur is sturend én motiverend: de coach biedt duidelijkheid, houvast, gepa
 
 structuur · sturing · duidelijkheid · houvast · verwachtingen · bedoelingen · opvolgen · feedback · hulp · uitdaging · vallen en opstaan · doel bereiken · controle
 
+### Controle
+
+**Plaats op het coachkompas:** grote sturing door de coach, beperkte inbreng van sporters en een demotiverende coachstijl.
+
+#### Theorie
+
+Het tegenovergestelde van autonomieondersteuning noemen we **controle**. Dit is gedrag waarbij de coach strak de touwtjes in handen heeft en sporters op een dwingende en verplichtende manier aanstuurt. Dat werkt demotiverend.
+
+Bij controlerend coachen staat de visie van de coach centraal en is er weinig ruimte voor de mening van de sporter. De coach is de baas en zijn wil is wet.
+
+Sporters kunnen het gevoel krijgen dat ze aan veel eisen en verplichtingen moeten voldoen om goed te staan bij hun coach. Dat leidt tot een gevoel van druk.
+
+#### Kernonderscheid
+
+Controle is niet hetzelfde als structuur. Beide coachstijlen hebben veel sturing door de coach, maar structuur geeft sporters houvast, ondersteuning en duidelijkheid om een doel te bereiken. Controle is dwingend en verplichtend, laat weinig ruimte voor het perspectief van de sporter en veroorzaakt druk.
+
+#### Examenkort
+
+- Controle is het tegenovergestelde van autonomieondersteuning.
+- Bij controlerend coachen houdt de coach strak de touwtjes in handen.
+- De coach stuurt dwingend en verplichtend, wat demotiverend werkt.
+- De visie van de coach staat centraal; de mening van sporters krijgt weinig ruimte.
+- Sporters ervaren eisen en verplichtingen en kunnen daardoor druk voelen.
+
+#### Zoekwoorden
+
+controle · controlerend coachen · tegenovergestelde autonomieondersteuning · strak de touwtjes in handen · dwingend · verplichtend · demotiverend · visie van de coach · weinig inspraak · coach is de baas · eisen · verplichtingen · druk · structuur
+
 ### Chaos
 
 **Plaats op het coachkompas:** beperkte sturing door de coach, sterke inbreng van sporters en een demotiverende coachstijl.
@@ -160,4 +189,4 @@ chaos · chaotische coach · onvoldoende structuur · demotiverend · onberekenb
 
 ## Volgende hoofdstukken
 
-> Coachkompas: controle en praktijkvoorbeelden nog te verwerken.
+> Coachkompas: praktijkvoorbeelden nog te verwerken.
