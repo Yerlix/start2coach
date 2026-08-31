@@ -203,3 +203,51 @@ Tijdelijk niet kunnen sporten door een blessure hoeft niet uitsluitend negatief 
 ### Zoekwoorden
 
 sportblessure · acute blessure · geleidelijke blessure · overbelasting · contactmoment · verzwikte enkel · ontwrichte schouder · spierscheur · peesontsteking · springersknie · jumper’s knee · stressfractuur · knie · enkel · verstuiking · verrekking · kneuzing · persoonlijke risicofactoren · omgevingsrisicofactoren · trainingsbelasting · trainingsintensiteit · sportmateriaal · accommodatie · weersomstandigheden · begeleiding · sfeer · lichamelijk ongemak · leven op pauze · financiële last · herstel · preventie
+
+### Preventie van sportblessures
+
+Als trainer wil je dat je sporters gezond en sterk blijven. Daarom probeer je blessures te voorkomen én grijp je in voordat kleine klachten groter worden. Dat noemen we **sportblessurepreventie**.
+
+De kern van blessurepreventie is één cruciaal evenwicht:
+
+> wat het lichaam **aankan** (*belastbaarheid*) tegenover wat je van het lichaam **vraagt** (*belasting*).
+
+#### Belasting en belastbaarheid
+
+| Begrip | Betekenis | Voorbeelden |
+|---|---|---|
+| **Belasting** | Alles wat je van het lichaam vraagt tijdens en rond sport | Trainingsvolume, intensiteit, aantal trainingen, wedstrijdbelasting, herhalingen, fysieke en mentale inspanning |
+| **Belastbaarheid** | Wat het lichaam van een sporter op dat moment kan verdragen of aankan | Conditie, kracht, techniek, herstel, slaap, gezondheid, leeftijd, blessureverleden en trainingsniveau |
+
+De ideale situatie is dat belasting en belastbaarheid in evenwicht zijn:
+
+```text
+BELASTING ≤ BELASTBAARHEID → kleiner risico op blessure
+BELASTING > BELASTBAARHEID → hoger risico op blessure
+```
+
+Wanneer de belasting hoger is dan de belastbaarheid, raakt de balans verstoord en ligt een blessure op de loer. Als trainer heb je een belangrijke rol in het bewaken van die balans.
+
+**Voorbeeld:** een sporter die na ziekte onvoldoende hersteld is, heeft tijdelijk een lagere belastbaarheid. Een zware intervaltraining kan dan een te hoge belasting vormen, ook wanneer die training voor fitte ploeggenoten wel passend is.
+
+#### Get Fit 2 Sport-model
+
+Om samen met sporters blessures te voorkomen, gebruiken we het **Get Fit 2 Sport-model**. Dit model bundelt de tien belangrijkste strategieën om blessures te vermijden.
+
+Door deze tien strategieën toe te passen tijdens je trainingen creëer je een veilige omgeving voor je sporters. Dat verkleint de kans op blessures, zodat zij langer en met meer plezier kunnen blijven sporten.
+
+> Preventie betekent niet sporters zo weinig mogelijk laten doen. Preventie betekent de trainingsbelasting slim afstemmen op de belastbaarheid van elke sporter.
+
+### Examenkort
+
+- **Sportblessurepreventie** betekent blessures helpen voorkomen en ingrijpen vóór kleine klachten groter worden.
+- **Belasting** is wat je van het lichaam vraagt.
+- **Belastbaarheid** is wat het lichaam op een bepaald moment aankan.
+- Bij belasting lager dan of gelijk aan belastbaarheid is het blessurerisico kleiner.
+- Wanneer belasting hoger is dan belastbaarheid, raakt de balans verstoord en neemt het blessurerisico toe.
+- De trainer bewaakt dit evenwicht door de training af te stemmen op de individuele sporter.
+- Het **Get Fit 2 Sport-model** bundelt tien strategieën om sportblessures te voorkomen.
+
+### Zoekwoorden
+
+sportblessurepreventie · preventie · belasting · belastbaarheid · belasting-belastbaarheid · trainingsvolume · trainingsintensiteit · wedstrijdbelasting · herstel · slaap · conditie · kracht · techniek · gezondheid · trainingsniveau · individuele afstemming · Get Fit 2 Sport · tien strategieën
