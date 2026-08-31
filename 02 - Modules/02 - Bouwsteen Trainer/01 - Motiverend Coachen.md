@@ -17,13 +17,15 @@ tags:
   - controle
   - abc-van-motivatie
   - basisbehoeften
+  - belang-van-motivatie
+  - motivatietypes
 ---
 
 # Motiverend Coachen
 
 ## Motiverend coachen
 
-Wat drijft een sporter om dagelijks te trainen? Vaak wordt **motivatie** gezien als iets dat je wel of niet hebt. Veel mensen wachten tot ze gemotiveerd zijn voordat ze beginnen, alsof motivatie een magisch ingrediënt is. Heb je het, dan is heel veel mogelijk. Ben je het kwijt, dan is het lastig terug te vinden.
+Wat drijft een sporter om dagelijks te trainen? Vaak wordt **motivatie** gezien als iets dat je wel of niet hebt. Veel mensen wachten tot ze gemotiveerd zijn voordat ze beginnen, alsof motivatie een magisch ingredënt is. Heb je het, dan is heel veel mogelijk. Ben je het kwijt, dan is het lastig terug te vinden.
 
 Er zijn heel wat verschillende **factoren** die bepalen of je sporters gemotiveerd zijn voor hun training of wedstrijd.
 
@@ -273,3 +275,68 @@ Gekenmerkt door een gevoel van **druk en verplichting**.
 ### Zoekwoorden
 
 ABC van motivatie · psychologische basisbehoeften · autonomie · verbondenheid · competentie · zichzelf mogen zijn · hechte relaties · beter worden · autonome motivatie · gecontroleerde motivatie · amotivatie · willen versus moeten · plezier · persoonlijk zinvol · krachttraining · interne druk · externe druk · schuld · schaamte · trots · beloning · straf · duurzaamheid · weerbaarheid
+
+## Belang van motivatie
+
+### Inleiding: Intensiteit versus Type motivatie
+
+Hoe meer je als trainer inspeelt op de **drie basisbehoeften** van je sporters, hoe sterker hun motivatie zal zijn. Hun drive komt niet voort uit de druk om te presteren, maar uit hun oprechte verlangen om te sporten.
+
+Dit maakt duidelijk dat motivatie niet alleen verschilt in **intensiteit** (van zeer sterk tot zwak), maar ook in het **type motivatie**. Sommige vormen zijn op de lange termijn minder krachtig.
+
+Sporters die de juiste stimulansen ervaren, **willen** sporten met enthousiasme en passie, in plaats van zich gedwongen te voelen om te **moeten** sporten. Het is zelfs nog zorgwekkender wanneer het sporters volledig ontbreekt aan motivatie.
+
+---
+
+### Overzicht van de Motivatievormen (Infographic)
+
+| Hoofdcategorie | 'Niet kunnen' | 'Moeten' (Gecontroleerd) | 'Moeten' (Gecontroleerd) | 'Willen' (Autonoom) | 'Willen' (Autonoom) |
+|---|---|---|---|---|---|
+| **Drijfveer** | Gebrek aan geloof of zelfvertrouwen, onverschilligheid | Straf, beloning, verwachting | Schaamte, schuld, trots, zelfwaarde | Persoonlijk, relevant, zinvol | Plezier, passie, interesse |
+| **Subvorm** | — | **Externe druk** | **Interne druk** | **Persoonlijk zinvol** | **Plezier** |
+| **Motivatievorm** | **Amotivatie** | **Gecontroleerde motivatie** | **Gecontroleerde motivatie** | **Autonome motivatie** | **Autonome motivatie** |
+
+---
+
+### Vormen van motivatie in detail
+
+#### 1. Amotivatie ('Niet kunnen')
+- **Theorie:** Wanneer een sporter volledig zonder motivatie is. Dit kan ontstaan door een gebrek aan **zelfvertrouwen** of het gevoel dat hij niet in staat is om zijn doelen te bereiken. Het kan ook komen door de overtuiging dat, hoe hard hij ook werkt, zijn inspanningen toch **niet zullen leiden tot succes**.
+- **Praktijkvoorbeeld:** Zwemmer Pieter Timmers (goed voor zilver op de Spelen van Rio 2016) geeft in het filmfragment aan waarom hij stopt met zwemmen indien de Olympische Spelen van Tokio 2020 met een jaar uitgesteld worden.
+
+#### 2. Gecontroleerde motivatie ('Moeten')
+Motivatie kan naast de wil om te sporten ook voortkomen uit een **gevoel van moeten** of **externe druk**. Deze druk kan van binnenuit komen of van buitenaf worden opgelegd.
+
+- **Externe druk:**
+  - **Theorie:** Sporters worden vooral gedreven door factoren die van buitenaf worden opgelegd (zoals van ouders, de trainer, vrienden of andere invloeden). Ze stellen een bepaald gedrag om de **verwachtingen in te lossen** van bijvoorbeeld hun coach, om **beloond te worden**, of net om een **straf te ontlopen**.
+  - **Praktijkvoorbeeld:** Voetballer Gianni is nog maar net hersteld van een voetblessure, maar is toch onderweg naar een stage voor voetballers van de topsportschool.
+- **Interne druk:**
+  - **Theorie:** Druk die van de sporter zelf komt. De sporter wil zich bewijzen en laat het gedrag sturen door eigen gevoelens van **schuld**, **schaamte**, **trots** of **zelfwaarde**.
+  - **Praktijkvoorbeeld:** Schermster Jolien is aan het werk tijdens een belangrijke wedstrijd op een hoog aangeschreven internationaal jeugdtoernooi.
+
+#### 3. Autonome motivatie ('Willen')
+De 'wil om te sporten' noemen we **autonome motivatie**. Deze motivatie komt voort uit plezier, passie of de behoefte aan uitdaging, maar kan ook ontstaan uit activiteiten die sporters niet per se leuk vinden — zolang ze maar het nut en de zin ervan inzien.
+
+- **Persoonlijk zinvol:**
+  - **Theorie:** Sporters kunnen autonoom gemotiveerd zijn voor zaken die ze in eerste instantie niet leuk vinden. Wanneer ze inzien en begrijpen **waarom** ze iets aan het doen zijn en er het **nut** van inzien, willen sporters dit ook doen.
+  - **Praktijkvoorbeeld:** Beloftevol snowboarder Jules gaat om met zware krachttrainingen op de topsportschool omdat hij het belang ervan inziet voor zijn sportontwikkeling.
+- **Plezier:**
+  - **Theorie:** Autonome motivatie kan voortkomen uit het **plezier** dat de sporter haalt uit de sport of door de **passie** en interesse die hij of zij ervoor heeft. Met andere woorden: de sporter vindt wat hij doet oprecht leuk.
+  - **Praktijkvoorbeeld:** Gymnaste Nina Derwael wordt gevolgd tijdens haar laatste training in de aanloop naar de wereldbekerwedstrijd aan de brug met ongelijke leggers in Parijs.
+
+---
+
+### Examenkort
+
+- Motivatie verschilt in **intensiteit** (sterk vs. zwak) én in **type/kwaliteit** (autonoom vs. gecontroleerd vs. amotivatie).
+- **'Niet kunnen' (Amotivatie):** gebrek aan zelfvertrouwen of perspectief op succes (voorbeeld: *Pieter Timmers*).
+- **'Moeten' (Gecontroleerd):**
+  - *Externe druk:* verwachtingen van coach/ouders inlossen, beloning najagen, straf vermijden (voorbeeld: *voetballer Gianni*).
+  - *Interne druk:* zelfwaarde bewijzen, schuld, schaamte, trots (voorbeeld: *schermster Jolien*).
+- **'Willen' (Autonoom):**
+  - *Persoonlijk zinvol:* nut en zin van een taak begrijpen (voorbeeld: *snowboarder Jules*).
+  - *Plezier:* intrinsieke passie, interesse en plezier in de sport (voorbeeld: *gymnaste Nina Derwael*).
+
+### Zoekwoorden
+
+belang van motivatie · intensiteit motivatie · type motivatie · willen versus moeten versus niet kunnen · amotivatie · gecontroleerde motivatie · autonome motivatie · externe druk · interne druk · persoonlijk zinvol · plezier · passie · Pieter Timmers · Gianni · Jolien · Jules · Nina Derwael · beloning · straf · schaamte · trots · schuld · zelfwaarde · nut en zin
