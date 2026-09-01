@@ -7,7 +7,7 @@ tags:
 
 # Examenindex
 
-> Deze index bevat de verwerkte inhoud van de modules Introductie Start 2 Coach en Bouwsteen Trainer (Inleiding & Motiverend Coachen).
+> Deze index bevat de verwerkte inhoud van de modules Introductie Start 2 Coach en Bouwsteen Trainer (Inleiding, Motiverend Coachen & Hoe blessures voorkomen).
 
 ## Verwerkte onderwerpen
 
@@ -33,12 +33,19 @@ tags:
 | Gecontroleerde motivatie | 'Moeten' (Externe druk & Interne druk/schuld/schaamte/trots); kortetermijn | [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#2-gecontroleerde-motivatie-moeten]] |
 | Amotivatie | 'Niet kunnen'; gebrek aan zelfvertrouwen/succesbeleving | [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#1-amotivatie-niet-kunnen]] |
 | De Puzzel (Synthese) | Koppeling: Coachgedrag -> ABC basisbehoeften -> Autonome motivatie | [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#synthese-de-puzzel-koppeling-van-coachgedrag-en-motivatie]] |
+| Fysieke veiligheid | Ongevallen en blessures voorkomen én correct handelen wanneer ze zich voordoen | [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen#fysieke-veiligheid]] |
+| Gezondheidsdriehoeken | Bewegings-, voedings- en geluksdriehoek ondersteunen samen gezond sporten | [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen#de-drie-gezondheidsdriehoeken]] |
+| Sportblessures | Acuut (plots) of geleidelijk (door herhaling en overbelasting) | [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen#sportblessures]] |
+| Risicofactoren blessures | Persoonlijke factoren (bv. leeftijd, fitheid) en omgevingsfactoren (bv. materiaal, weer) | [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen#hoe-ontstaan-sportblessures]] |
+| Gevolgen van een sportblessure | Lichamelijk, sociaal ("leven op pauze") en financieel | [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen#gevolgen-van-een-sportblessure]] |
+| Belasting en belastbaarheid | Kern van blessurepreventie: wat het lichaam aankan tegenover wat je ervan vraagt | [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen#belasting-en-belastbaarheid]] |
+| Get Fit 2 Sport-model | Tien strategieën om sportblessures te voorkomen | [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen#get-fit-2-sport-model]] |
+| 10%-regel | Trainingsbelasting, oefeningen of hervatting na herstel geleidelijk opbouwen | [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen#de-10-strategieën-van-get-fit-2-sport]] |
 
 ## Nog te verwerken
 
 | Thema | Module | Startpunt |
 |---|---|---|
-| Veiligheid en blessures | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen]] |
 | Incidenten en foutlopen | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/03 - Wat als het foutloopt]] |
 | Pesten | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/04 - Omgaan met Pesten]] |
 | Discriminatie | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie]] |
