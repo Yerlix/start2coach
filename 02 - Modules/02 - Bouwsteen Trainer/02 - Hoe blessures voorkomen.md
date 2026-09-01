@@ -238,16 +238,146 @@ Door deze tien strategieën toe te passen tijdens je trainingen creëer je een v
 
 > Preventie betekent niet sporters zo weinig mogelijk laten doen. Preventie betekent de trainingsbelasting slim afstemmen op de belastbaarheid van elke sporter.
 
+#### De 10 strategieën van Get Fit 2 Sport
+
+| Nr. | Strategie | Essentie |
+|---:|---|---|
+| 1 | **Zorg voor aangepast sportmateriaal, -kledij, -schoeisel en -omgeving** | Beperk vermijdbare risico’s door veilig en passend materiaal, schoeisel, kledij en een veilige sportomgeving |
+| 2 | **Voer een opwarming en cooling-down uit** | Bereid het lichaam gericht voor op inspanning en bouw achteraf gecontroleerd af |
+| 3 | **Doe aan stretching** | Pas dynamisch stretchen toe in de opwarming en statisch stretchen in de cooling-down |
+| 4 | **Doe aan rompstabilisatietraining** | Train controle en stabiliteit van de romp, met aandacht voor houding en spiergroepen |
+| 5 | **Doe aan balanstraining** | Train evenwicht, controle en een stabiele lichaamshouding |
+| 6 | **Doe aan functionele krachttraining** | Versterk alle spiergroepen technisch correct en evenwichtig |
+| 7 | **Voer sprong- en landingstaken technisch correct uit** | Leer veilig springen en landen met correcte uitlijning en houding |
+| 8 | **Luister naar het lichaam** | Respecteer signalen en de individuele belastbaarheid van sporters |
+| 9 | **Vermijd hervalblessures** | Grijp tijdig in, volg revalidatie correct op en bouw na herstel geleidelijk terug op |
+| 10 | **Hanteer een multifactoriële aanpak** | Combineer alle strategieën regelmatig; één maatregel alleen volstaat niet |
+
+##### Strategie 1 — Zorg voor aangepast sportmateriaal, -kledij, -schoeisel en -omgeving
+
+Een veilige sportcontext begint bij degelijk en aangepast materiaal, correcte kledij en geschikt schoeisel. Ook de omgeving en de weersomstandigheden kunnen het blessurerisico vergroten of verkleinen.
+
+- Informeer je sporters over passend en veilig materiaal, kledij en schoeisel.
+- Vervang sportmateriaal, -kledij en -schoeisel tijdig wanneer dat nodig is.
+- Sport in een veilige omgeving.
+- Houd rekening met de weersomstandigheden.
+
+##### Strategie 2 — Voer een opwarming en cooling-down uit
+
+Een goede opwarming bereidt het lichaam geleidelijk en sportspecifiek voor op de inspanning. Een cooling-down helpt het lichaam na de training opnieuw gecontroleerd afbouwen.
+
+- Bouw de opwarming geleidelijk op.
+- Stretch dynamisch tijdens een sportspecifieke opwarming, ongeveer 10 tot 20 seconden.
+- Bouw na de inspanning geleidelijk af tijdens een cooling-down.
+- Stretch statisch tijdens de cooling-down, ongeveer 5 tot 15 seconden.
+
+##### Strategie 3 — Doe aan stretching
+
+Stretching gebeurt doelgericht en op het juiste moment. De aard van het stretchen verschilt tussen de voorbereiding en het herstel na een inspanning.
+
+- Stretch **dynamisch** tijdens de opwarming.
+- Stretch **statisch** tijdens de cooling-down, ongeveer 30 seconden per spier.
+- Stretch los van de sportactiviteit in functie van lenigheidstraining, gedurende \(2 \times 60\) seconden per spier.
+- Bouw de oefeningen geleidelijk op: eerst statisch, daarna dynamisch, volgens de **10%-regel**.
+
+##### Strategie 4 — Doe aan rompstabilisatietraining
+
+Rompstabiliteit helpt sporters hun lichaam gecontroleerd en efficiënt te bewegen. Correcte houding en een stabiele romp verminderen onnodige belasting.
+
+- Behoud een neutrale rugkromming.
+- Let op een correcte hoofd- en bekkenpositie.
+- Zorg voor **lumbale bracing**.
+- Doe oefeningen voor zowel buik-, rug- als flankspieren.
+- Bouw de training geleidelijk op: eerst statisch, daarna dynamisch, volgens de 10%-regel.
+
+##### Strategie 5 — Doe aan balanstraining
+
+Balanstraining ondersteunt lichaamscontrole en helpt sporters stabieler bewegen, landen en van richting veranderen.
+
+- Doe oefeningen voor zowel het linker- als het rechterbeen.
+- Bouw de oefeningen geleidelijk op: eerst statisch, daarna dynamisch, volgens de 10%-regel.
+- Behoud een neutrale rugkromming.
+
+##### Strategie 6 — Doe aan functionele krachttraining
+
+Functionele krachttraining focust op kracht die sporters kunnen gebruiken in hun eigen sportbewegingen. De kwaliteit van de uitvoering is belangrijker dan enkel meer gewicht of meer herhalingen.
+
+- Voer oefeningen technisch correct uit.
+- Versterk evenwichtig alle spiergroepen.
+- Bouw geleidelijk op volgens de 10%-regel.
+
+##### Strategie 7 — Voer sprong- en landingstaken technisch correct uit
+
+Correcte techniek bij springen en landen vermindert onnodige belasting op voeten, enkels, knieën, heupen en rug.
+
+- Plaats de voeten op heupbreedte.
+- Zorg ervoor dat voeten, knieën en schouders op één lijn staan.
+- Buig voldoende diep door knieën en heupen.
+- Behoud een neutrale rugkromming.
+
+##### Strategie 8 — Luister naar het lichaam
+
+Belasting moet altijd afgestemd zijn op wat het lichaam van de individuele sporter aankan. Signalen zoals pijn, vermoeidheid of terugkerende klachten verdienen aandacht.
+
+- Bouw geleidelijk op volgens de 10%-regel.
+- Respecteer de belastbaarheid van je sporters.
+- Sta open voor signalen van je sporters.
+
+##### Strategie 9 — Vermijd hervalblessures
+
+Een sporter die te snel hervat, riskeert opnieuw geblesseerd te raken. Herstel en revalidatie moeten daarom volledig gerespecteerd worden.
+
+- Grijp tijdig in bij klachten.
+- Verwijs een sporter correct door wanneer dat nodig is.
+- Respecteer de duur van de revalidatie.
+- Bouw geleidelijk opnieuw op na herstel, volgens de 10%-regel.
+
+##### Strategie 10 — Hanteer een multifactoriële aanpak
+
+Sportblessures hebben meestal meerdere oorzaken. Daarom werkt preventie het best wanneer je verschillende maatregelen combineert en consequent herhaalt.
+
+- Pas alle strategieën regelmatig en in samenhang toe.
+- Beschouw blessurepreventie als een totaalpakket, niet als één losse oefening of maatregel.
+
+#### Kernbegrippen en verbanden
+
+| Begrip | Betekenis |
+|---|---|
+| **10%-regel** | Bouw oefeningen, trainingsbelasting, complexiteit of hervatting na herstel geleidelijk op. De cursus gebruikt dit als basisprincipe: eerst statisch, daarna dynamisch en nooit te snel verhogen |
+| **Dynamisch stretchen** | Rekken met beweging; toepassen tijdens de opwarming |
+| **Statisch stretchen** | Een rekpositie aanhouden zonder beweging; toepassen tijdens de cooling-down of afzonderlijke lenigheidstraining |
+| **Neutrale rugkromming** | De natuurlijke, gecontroleerde stand van de rug behouden tijdens oefeningen, balansoefeningen, sprongen en landingen |
+| **Lumbale bracing** | De romp doelgericht aanspannen om de onderrug en romp te stabiliseren |
+| **Multifactoriële aanpak** | Blessurepreventie bestaat uit een combinatie van meerdere strategieën en niet uit één afzonderlijke maatregel |
+
+> **De rode draad:** pas alle strategieën regelmatig toe, stem belasting af op belastbaarheid en bouw trainingen systematisch en geleidelijk op. Zo verklein je de kans op blessures én vergroot je de kans dat sporters gezond, sterk en met plezier blijven sporten.
+
 ### Examenkort
 
-- **Sportblessurepreventie** betekent blessures helpen voorkomen en ingrijpen vóór kleine klachten groter worden.
-- **Belasting** is wat je van het lichaam vraagt.
-- **Belastbaarheid** is wat het lichaam op een bepaald moment aankan.
-- Bij belasting lager dan of gelijk aan belastbaarheid is het blessurerisico kleiner.
-- Wanneer belasting hoger is dan belastbaarheid, raakt de balans verstoord en neemt het blessurerisico toe.
-- De trainer bewaakt dit evenwicht door de training af te stemmen op de individuele sporter.
-- Het **Get Fit 2 Sport-model** bundelt tien strategieën om sportblessures te voorkomen.
+- **Sportblessurepreventie** betekent blessures voorkomen en ingrijpen vóór kleine klachten groter worden.
+- **Belasting** is wat je van het lichaam vraagt tijdens en rond sport.
+- **Belastbaarheid** is wat het lichaam van een sporter op dat moment aankan.
+- Wanneer de belasting hoger is dan de belastbaarheid, neemt het risico op overbelasting en blessures toe.
+- De trainer bewaakt de balans tussen belasting en belastbaarheid door trainingen af te stemmen op de individuele sporter.
+- Het **Get Fit 2 Sport-model** bevat tien strategieën voor blessurepreventie.
+- De tien strategieën zijn:
+  1. Aangepast sportmateriaal, -kledij, -schoeisel en -omgeving.
+  2. Opwarming en cooling-down.
+  3. Stretching.
+  4. Rompstabilisatietraining.
+  5. Balanstraining.
+  6. Functionele krachttraining.
+  7. Technisch correcte sprong- en landingstaken.
+  8. Luisteren naar het lichaam.
+  9. Hervalblessures vermijden.
+  10. Een multifactoriële aanpak hanteren.
+- **Dynamisch stretchen** hoort bij de opwarming; **statisch stretchen** hoort bij de cooling-down.
+- Bij rompstabiliteit, balansoefeningen en landingen is een **neutrale rugkromming** belangrijk.
+- **Lumbale bracing** betekent de romp doelgericht aanspannen.
+- De **10%-regel** betekent geleidelijk opbouwen: eerst statisch, daarna dynamisch, en belasting niet te snel verhogen.
+- Herval voorkom je door tijdig in te grijpen, correct door te verwijzen, revalidatie te respecteren en geleidelijk te hervatten.
+- Een **multifactoriële aanpak** betekent dat je alle preventiestrategieën gecombineerd en regelmatig toepast.
 
 ### Zoekwoorden
 
-sportblessurepreventie · preventie · belasting · belastbaarheid · belasting-belastbaarheid · trainingsvolume · trainingsintensiteit · wedstrijdbelasting · herstel · slaap · conditie · kracht · techniek · gezondheid · trainingsniveau · individuele afstemming · Get Fit 2 Sport · tien strategieën
+sportblessurepreventie · preventie · belasting · belastbaarheid · belasting-belastbaarheid · trainingsvolume · trainingsintensiteit · wedstrijdbelasting · herstel · slaap · conditie · kracht · techniek · gezondheid · trainingsniveau · individuele afstemming · Get Fit 2 Sport · tien strategieën · aangepast sportmateriaal · sportkledij · sportschoeisel · veilige sportomgeving · weersomstandigheden · opwarming · cooling-down · dynamisch stretchen · statisch stretchen · lenigheidstraining · rompstabiliteit · rompstabilisatietraining · neutrale rugkromming · lumbale bracing · buikspieren · rugspieren · flankspieren · balanstraining · functionele krachttraining · sprongtechniek · landingstechniek · voet-knie-heup-as · luisteren naar het lichaam · signalen van sporters · hervalblessure · revalidatie · 10%-regel · multifactoriële aanpak
