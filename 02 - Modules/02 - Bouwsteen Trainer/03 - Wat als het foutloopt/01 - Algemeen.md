@@ -136,8 +136,65 @@ De meeste mensen voelen zich zelfzeker en terecht nuttig nadat ze iemand hebben 
 
 eerste hulp · principes van eerste hulp · blijf rustig · noodsituatie · stress · Noodcentrale 112 · vermijd besmetting · wegwerphandschoenen · zakmasker · lichaamsvocht · scherpe voorwerpen · handel als eerstehulpverlener · vooroordelen eerste hulp · hulpplicht · Belgische wetgeving · geloof in jezelf · comfort van het slachtoffer · privacy slachtoffer · psychosociale hulp · eerste hulp bij kinderen · vertrouwde persoon · emotionele reacties nadien · schuldgevoel · vertrouwenspersoon sportclub
 
+## Vier stappen in eerste hulp
+
+Iedere noodsituatie is verschillend. Met een gestructureerde aanpak zorg je ervoor dat je steeds alle belangrijke stappen zet. Die aanpak bestaat uit vier stappen die zich steeds herhalen: ze bieden je in iedere situatie een houvast en een overzicht, zodat je niets vergeet.
+
+```text
+1. ZORG VOOR DE VEILIGHEID
+        ↓
+2. BEOORDEEL DE TOESTAND VAN HET SLACHTOFFER
+        ↓
+3. RAADPLEEG GESPECIALISEERDE HULP
+        ↓
+4. VERLEEN VERDERE EERSTE HULP
+        ↓
+   (terug naar stap 1)
+```
+
+### Stap 1: Zorg voor veiligheid
+
+De veiligheid van een situatie nagaan is steeds je eerste taak wanneer je een ongeval of noodsituatie benadert. Bekijk de situatie grondig voor je gaat helpen. Ga na wat de risico's zijn voor jezelf, het slachtoffer en de omstanders. Neem deze risico's zo mogelijk weg en probeer de situatie veilig te maken.
+
+Pas als het veilig is, benader je het slachtoffer. Zo voorkom je overhaaste beslissingen die schadelijke of gevaarlijke gevolgen kunnen hebben.
+
+> De richtlijnen rond eerstehulpverlening kunnen worden aangepast naargelang uitzonderlijke situaties. Bij een pandemie gelden bijvoorbeeld extra maatregelen. Informeer je dan bij officiële overheidsbronnen en volg de geldende maatregelen.
+
+### Stap 2: Beoordeel de toestand van het slachtoffer
+
+Nadat je hebt gezorgd voor je eigen veiligheid, die van het slachtoffer en van de omstanders, beoordeel je de toestand van het slachtoffer. Ga kort na wat er mis is. Controleer het bewustzijn en de ademhaling van het slachtoffer: zo kan je nagaan of hij in levensgevaar verkeert.
+
+**Controleer het bewustzijn.** Controleer of het slachtoffer nog reageert. Schud voorzichtig aan beide schouders en vraag luid: "Gaat het?"
+
+**Open de luchtweg en controleer de ademhaling.** Bij een bewusteloos slachtoffer is er geen spierspanning meer: de spieren verslappen. Daardoor kan de tong in de keelholte zakken en de luchtweg afsluiten, waardoor geen ademhaling meer mogelijk is. Je schakelt dat gevaar uit door de luchtweg te openen. Houd de luchtweg open en controleer of het slachtoffer normaal ademt door te kijken, te luisteren en te voelen.
+
+### Stap 3: Raadpleeg gespecialiseerde hulp
+
+Als eerstehulpverlener heb je kennis van zaken. Beschik je over het juiste materiaal, dan kan je heel wat kleine letsels zelf verzorgen, bijvoorbeeld een eenvoudige huidwonde verzorgen of een bloedneus stelpen.
+
+In andere gevallen is het aangewezen om gespecialiseerde hulp in te schakelen: bij een ernstig letsel, of als je twijfelt of het slachtoffer gevaccineerd is tegen tetanus. Raadpleeg dan een arts.
+
+Is het slachtoffer ernstig gewond of is de situatie levensbedreigend? Alarmeer dan zo snel mogelijk de Noodcentrale 112, via de app 112 BE of het telefoonnummer 112. Zijn er omstanders, laat dan één van hen alarmeren, zodat jij je kan concentreren op het slachtoffer.
+
+### Stap 4: Verleen verdere eerste hulp
+
+Weet je zeker dat de situatie veilig is? Heb je het bewustzijn en de ademhaling gecontroleerd? Heb je zicht op wat er mis is met het slachtoffer? Heb je zo nodig de Noodcentrale 112 gealarmeerd? Dan kan je overgaan tot verdere eerste hulp: bijvoorbeeld een brandwonde koelen, een wonde ontsmetten of het slachtoffer in een comfortabele positie helpen.
+
+De vier stappen vormen een cyclus: verandert de situatie tijdens het verlenen van verdere eerste hulp, dan doorloop je het stappenplan opnieuw vanaf stap 1.
+
+### Examenkort
+
+- De vier stappen van eerste hulp zijn: (1) zorg voor de veiligheid, (2) beoordeel de toestand van het slachtoffer, (3) raadpleeg gespecialiseerde hulp, (4) verleen verdere eerste hulp. Ze vormen een cyclus die zich herhaalt zodra de situatie verandert.
+- **Stap 1 - Veiligheid:** ga risico's voor jezelf, het slachtoffer en omstanders na en maak de situatie zo mogelijk veilig vóór je het slachtoffer benadert.
+- **Stap 2 - Toestand slachtoffer:** controleer het bewustzijn (voorzichtig schudden aan de schouders, luid vragen "Gaat het?") en open de luchtweg om de ademhaling te controleren (kijken, luisteren, voelen).
+- **Stap 3 - Gespecialiseerde hulp:** verzorg kleine letsels zelf indien mogelijk; raadpleeg een arts bij twijfel (bv. tetanusvaccinatie) en alarmeer de Noodcentrale 112 bij ernstige of levensbedreigende situaties.
+- **Stap 4 - Verdere eerste hulp:** pas nadat veiligheid, bewustzijn/ademhaling en eventuele alarmering geregeld zijn, verleen je de verdere concrete eerste hulp.
+
+### Zoekwoorden
+
+vier stappen eerste hulp · stappenplan eerste hulp · zorg voor veiligheid · risico's inschatten · beoordeel toestand slachtoffer · bewustzijn controleren · luchtweg openen · ademhaling controleren · kijken luisteren voelen · gespecialiseerde hulp · tetanus · Noodcentrale 112 · app 112 BE · verdere eerste hulp · cyclisch stappenplan
+
 ## Nog te verwerken in dit bestand
 
-- Vier stappen in eerste hulp.
-- Controleren van het bewustzijn en de ademhaling.
+- Controleren van het bewustzijn en de ademhaling (uitgebreide techniek).
 - Stabiele zijligging.
