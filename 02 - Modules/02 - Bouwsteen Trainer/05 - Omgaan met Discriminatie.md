@@ -2,13 +2,14 @@
 title: Omgaan met Discriminatie
 module: Bouwsteen Trainer
 onderdeel: Veiligheid
-status: in verwerking
+status: inhoudelijk voltooid
 bron: E-learning screenshots/HTML
 tags:
   - start2coach
   - trainer
   - veiligheid
   - discriminatie
+  - club-api
 ---
 
 # Omgaan met Discriminatie
@@ -130,3 +131,60 @@ Uiteraard geldt ook hier: voorkomen is beter dan genezen. Preventie is essentiee
 ### Zoekwoorden
 
 herkennen van signalen · aanpakken van discriminatie · opvolgen van een situatie · gesprek met de pleger · gesprek met het slachtoffer · club-API · federatie-API · handelingsprotocol · melding · bemiddeling
+
+## Preventie
+
+### Als trainer
+
+Discriminatie voorkomen begint bij **bewustzijn** en **proactieve actie**. Als trainer, coach of sportbegeleider kun jij een sleutelrol spelen in het creëren van een veilige sportomgeving. Wees goed geïnformeerd over de maatregelen die je club neemt om discriminatie te voorkomen, zoals gedragscodes en het aanspreekpunt integriteit.
+
+Binnen je rol als trainer of sportbegeleider heb je de kans om sporters **eigen verantwoordelijkheid** te geven en hen zo te stimuleren hun gedrag zelf bij te sturen. Moet er toch een sanctie volgen? Zorg dan dat die redelijk, creatief en opbouwend is — nooit vernederend.
+
+> Jongeren zijn extra kwetsbaar voor sociale uitsluiting en discriminatie. Ze begrijpen vaak niet volledig wat hen overkomt, of ze accepteren discriminerend gedrag als normaal. Dit maakt preventie extra belangrijk.
+
+### Als club
+
+Discriminatie binnen een sportclub is een probleem dat niet individueel opgelost kan worden. Het aanpakken ervan vereist een **collectieve inspanning** van de hele club: het is niet voldoende dat alleen trainers, coaches of sportbegeleiders zich inzetten, het is essentieel dat de gehele club — van bestuur tot sporters — samenwerkt om een veilige en inclusieve omgeving te creëren. Dit vraagt om structurele en gezamenlijke acties, gericht op zowel preventie als het creëren van draagvlak.
+
+**Drie stappen voor sportclubs om discriminatie effectief aan te pakken:**
+
+1. **Creëer een inclusief sportklimaat** — zorg voor duidelijke gedragsregels, een aanspreekpunt integriteit (API) en een respectvolle cultuur. Maak sporters verantwoordelijk voor hun gedrag en signaleer risico's tijdig. Zorg dat trainers goed geïnformeerd zijn: zij zijn vaak het eerste aanspreekpunt en spelen een sleutelrol in een veilige, respectvolle sportomgeving.
+2. **Creëer draagvlak** — maak discriminatie bespreekbaar door het op de agenda te zetten bij Algemene Ledenvergaderingen en gedragsnormen op te nemen in gedragscodes. Het aanstellen van een club-API en het organiseren van educatieve sessies helpt om het onderwerp structureel in het clubbeleid te verankeren.
+3. **Samen sta je sterker** — werk samen met andere clubs, lokale organisaties en externe partners om een breder netwerk van steun te creëren. Deelname aan anti-discriminatiecampagnes vergroot de impact en bevordert een inclusieve sportcultuur.
+
+Door deze drie stappen te volgen, kan de sportclub een veilige, inclusieve omgeving bieden waar discriminatie geen plaats heeft.
+
+### Hulp
+
+Wat als je geconfronteerd wordt met discriminatie, of het nu gaat om een melding, een incident of simpelweg een onveilige situatie binnen de sport? Het kan een zware last zijn, maar je staat er niet alleen voor. Als trainer, sportclub en sporter heb je toegang tot een netwerk van hulp en ondersteuning, zowel binnen als buiten de sportwereld.
+
+**Binnen de sportwereld:**
+
+| Organisatie | Info |
+|---|---|
+| Sportclubs (API) | De Aanspreekpersoon Integriteit (API) is je eerste aanspreekpunt binnen de club: behandelt meldingen vertrouwelijk en helpt bij het vinden van een oplossing (persoonlijk, telefonisch of per e-mail). Heeft je club geen API, neem dan contact op met het bestuur voor ondersteuning of doorverwijzing. |
+| Sportfederatie | De sportfederatie-API biedt ondersteuning bij meldingen die de sportclub-API niet kan afhandelen: adviseren, bemiddelen of verdere stappen ondernemen. |
+| Sportieq | Erkende organisatie die sportclubs ondersteunt bij het ontwikkelen van ethisch beleid: hulpmiddelen, trainingen en advies voor een respectvolle en inclusieve sportcultuur. |
+| Dēmos | Kenniscentrum gericht op maatschappelijke thema's zoals gelijkheid en inclusie in de sport; ontwikkelt strategieën om de sportsector toegankelijk en inclusief te maken voor iedereen. |
+
+**Buiten de sportwereld:**
+
+| Organisatie | Info |
+|---|---|
+| Unia | Onafhankelijke instelling die discriminatie bestrijdt en gelijke kansen bevordert: ondersteuning bij meldingen, onderzoek en advies over juridische stappen, bemiddeling of doorverwijzing. Contact: [melding.unia.be/nl/meld-het](https://www.melding.unia.be/nl/meld-het), tel. 0800 12 800. |
+| Andere organisaties voor gelijke kansen | Gericht op specifieke groepen die discriminatie kunnen ervaren, bv. RoSa (gender), Çavaria (holebi/transgender) en Grip vzw (handicap): ondersteuning, advies en informatie. |
+| Vlaams Sporttribunaal | Behandelt tuchtklachten over grensoverschrijdend gedrag binnen de sport; overkoepelend tuchtorgaan met een beschermende en sanctiegerichte aanpak. |
+| Politie | Voor ernstige gevallen van discriminatie die onder de Belgische wet vallen (bv. de Anti-discriminatiewet) kan je aangifte doen bij de politie, eventueel parallel aan interne procedures binnen de club. |
+
+Discriminatie aanpakken vraagt de inzet van meerdere instanties. Of je nu binnen de sportclub of daarbuiten hulp zoekt, er zijn tal van organisaties en professionals die je kunnen begeleiden, adviseren en ondersteunen. Als trainer draag je actief bij aan een sportklimaat waarin discriminatie geen kans krijgt, en waar respect, veiligheid en inclusie de basis vormen — een plek waar iedereen zich gehoord, gewaardeerd en beschermd voelt.
+
+### Examenkort
+
+- Preventie begint bij bewustzijn en proactieve actie van de trainer: op de hoogte zijn van de gedragscodes en het aanspreekpunt integriteit (API) van de club, en sporters eigen verantwoordelijkheid geven voor hun gedrag. Een eventuele sanctie moet redelijk, creatief en opbouwend zijn — nooit vernederend.
+- Discriminatie aanpakken is geen individuele taak: het vraagt een collectieve inspanning van de hele club, van bestuur tot sporters.
+- Drie stappen voor de club: (1) een inclusief sportklimaat creëren (gedragsregels, API, respectvolle cultuur), (2) draagvlak creëren (bespreekbaar maken, gedragscodes, vorming), (3) samenwerken met andere clubs en externe partners.
+- Bij discriminatie sta je er niet alleen voor: binnen de sportwereld kan je terecht bij de club-API, de sportfederatie, Sportieq of Dēmos; daarbuiten o.a. bij Unia, RoSa/Çavaria/Grip vzw, het Vlaams Sporttribunaal of de politie (bij ernstige, wettelijk strafbare feiten).
+
+### Zoekwoorden
+
+preventie · proactieve actie · eigen verantwoordelijkheid · opbouwende sanctie · inclusief sportklimaat · draagvlak · Sportieq · Dēmos · Unia · Vlaams Sporttribunaal · Anti-discriminatiewet
