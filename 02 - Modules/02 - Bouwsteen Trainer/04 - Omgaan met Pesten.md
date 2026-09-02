@@ -2,13 +2,14 @@
 title: Omgaan met Pesten
 module: Bouwsteen Trainer
 onderdeel: Veiligheid
-status: in verwerking
+status: inhoudelijk voltooid
 bron: E-learning screenshots
 tags:
   - start2coach
   - trainer
   - veiligheid
   - pesten
+  - no-blame-aanpak
 ---
 
 # Omgaan met Pesten
@@ -110,3 +111,82 @@ Pesten herkennen is geen exacte wetenschap. Maar wie goed oplet en openstaat voo
 ### Zoekwoorden
 
 pesten · plagen · plagerijtje · machtsonevenwicht · cyberpesten · gedragscodes VTS · signalen van pesten · gepeste sporter · pleger · groepsdynamiek
+
+## Pesten aanpakken
+
+### Als trainer
+
+**Tip 1: Praat erover**
+
+De gouden regel: laat pesten geen taboe zijn. Spreek sporters individueel aan, benoem wat je ziet, en geef aan waarom je grenzen stelt. Focus op gedrag en gevolgen, niet op labels. Ga na of de pester zich bewust is van zijn of haar gedrag. In veel gevallen is het ook belangrijk om de sporters samen te spreken, zodat misverstanden opgehelderd kunnen worden.
+
+Een waardevolle aanpak hierbij is de herstelgerichte **No Blame-aanpak**: een methode zonder beschuldiging, met focus op oplossingen. Meer info: [ethischsporten.be/time-out-tegen-pesten](http://www.ethischsporten.be/time-out-tegen-pesten).
+
+**Tip 2: Werk groepsgericht**
+
+- Betrek de hele ploeg bij de oplossing;
+- Vorm groepjes bewust, zodat uitsluiting geen kans krijgt;
+- Gebruik sport- en groepsspelen om respect en empathie te stimuleren;
+- Geef het goede voorbeeld: toon hoe je met elkaar omgaat.
+
+**Tip 3: Ga in gesprek met ouders**
+
+Bij jonge sporters is het belangrijk ook de ouders te betrekken. Bespreek situaties zorgvuldig, met respect voor hun emoties. Ouders kunnen meedenken én meewerken aan oplossingen. Herinner hen ook aan hun voorbeeldfunctie: hoe zij over anderen praten, beïnvloedt hoe hun kind zich gedraagt.
+
+**Tip 4: Stel grenzen en volg op**
+
+Als een gesprek of bemiddeling geen effect heeft, kan het nodig zijn om gepast en proportioneel te straffen. Leg steeds helder uit waarom je ingrijpt. Straf is nooit een eindpunt, maar wel een duidelijke grens.
+
+### Als club
+
+Een veilige sportomgeving creëren, waarin pesten geen kans krijgt, is niet alleen de verantwoordelijkheid van de trainer, maar van de gehele sportclub. Als club heb je een fundamentele rol in het waarborgen van een inclusieve en respectvolle sfeer, waarin iedereen zich veilig voelt. Dit begint bij het vaststellen van duidelijke richtlijnen en het bieden van de juiste ondersteuning voor zowel trainers als sporters.
+
+Een club die pesten effectief wil voorkomen, moet een cultuur van respect en veiligheid actief bevorderen. Dit kan alleen als er duidelijke afspraken en ondersteunende maatregelen zijn — te beginnen bij het beleid dat de club opstelt rondom pestpreventie.
+
+**Belangrijke elementen die een club kan implementeren:**
+
+| Element | Wat houdt het in? |
+|---|---|
+| Aanspreekpersoon Integriteit (API) | Een vertrouwenspersoon binnen de club die sporters, ouders en trainers helpt met pestpreventie en zorgt voor passende opvolging. |
+| Toegankelijke aanspreekpunten | Sporters, ouders en trainers moeten weten waar ze terecht kunnen bij meldingen of zorgen over pestgedrag — via de API, maar ook via andere duidelijke contactpersonen of instanties. |
+| Gedragscodes en gedragsregels | De club moet duidelijke gedragsregels en richtlijnen hebben die expliciet vermelden wat wel en niet acceptabel is, inclusief regels over pesten. |
+| Actieve communicatie over waarden en verwachtingen | De club communiceert actief over haar waarden en normen, zodat iedereen weet wat er van hen verwacht wordt op het gebied van respect en omgang met elkaar. |
+| Bevordering van een respectvolle cultuur | Respect voor elkaar staat centraal; uitsluiting, agressief gedrag of vernedering worden binnen de sportomgeving niet getolereerd. |
+
+De club als geheel moet zich actief inzetten voor het voorkomen van pesten en zorgen voor een veilige omgeving voor elke sporter. Hoewel trainers een belangrijke rol spelen, ligt de verantwoordelijkheid voor een veilige sportomgeving bij de club zelf: de club moet het juiste kader bieden, trainers ondersteunen en een cultuur van respect uitstralen, zodat sporters zich gehoord voelen en pestgedrag tijdig aangepakt wordt.
+
+### Hulp
+
+Het opvolgen van pestsituaties kan zwaar wegen. Gelukkig sta je er niet alleen voor: binnen en buiten de sportwereld bestaan er organisaties die je ondersteunen met advies, tools of bemiddeling.
+
+**Binnen de sportwereld:**
+
+| Organisatie | Info |
+|---|---|
+| Sportclubs (API) | De Aanspreekpersoon Integriteit (API) van de club is jouw eerste hulplijn. Behandelt meldingen vertrouwelijk, adviseert en verwijst indien nodig door. |
+| Sportfederatie | De sportfederatie-API staat klaar om mee te denken, te bemiddelen of verdere stappen te begeleiden. |
+| Sportieq | Ondersteunt sportclubs met tools, opleidingen en begeleiding om pesten aan te pakken, en helpt API's en federaties bij het opvolgen van dossiers. Contact: info@sportieq.be, tel. 09 243 11 36. |
+
+**Buiten de sportwereld:**
+
+| Organisatie | Info |
+|---|---|
+| 1712 | Voor vragen over pesten kan je bellen of mailen voor advies via 1712. |
+| Grenswijs.be | Verzamelt info rond pesten, incl. tips om te reageren op pesten, en helpt bij het opstellen van een pestbeleid. |
+| Het Vlaamse Netwerk Kies Kleur tegen Pesten | Vrijwillig samenwerkingsverband van organisaties, verenigingen en individuen met expertise rond het pestthema, die de krachten bundelen. |
+| Mediawijs | Vlaams Kenniscentrum Digitale en Mediawijsheid (Vlaamse overheid en imec vzw); tips en tricks bij cyberpesten. Contact: info@mediawijs.be. |
+| Tumult | Komt op tegen pesten, met focus op jeugdwerk (jeugdbewegingen, speelpleinen, sportclubs). Aanbod: vormingen over pesten, tips voor trainers en sportbegeleiders. Contact: info@tumult.be, tel. 015 43 56 96. |
+| Pimento | Versterkt begeleiders van jongeren rond o.a. relaties, seksualiteit, weerbaarheid, pesten en groepsdynamiek. Contact: info@pimento.be, tel. 03 336 99 99. |
+| Childfocus | Expertise in cyberpesten, onder andere het verwijderen van ongewenste (naakt)beelden op sociale media. |
+
+Pesten aanpakken vraagt om een gezamenlijke inspanning. Of je nu binnen de sportclub of daarbuiten op zoek bent naar hulp, er zijn verschillende organisaties en professionals die je kunnen begeleiden, adviseren en ondersteunen. Als trainer én als club speel je een actieve rol in het creëren van een sportklimaat waarin pesten geen plaats krijgt — een plek waar elke sporter zich welkom, gewaardeerd en beschermd voelt.
+
+### Examenkort
+
+- Als trainer pak je pesten aan door erover te praten (o.a. de No Blame-aanpak), groepsgericht te werken, ouders te betrekken en waar nodig grenzen te stellen en op te volgen.
+- Een veilige sportomgeving is niet enkel de verantwoordelijkheid van de trainer, maar van de hele club: de club voorziet een Aanspreekpersoon Integriteit (API), toegankelijke aanspreekpunten, gedragscodes en een respectvolle cultuur.
+- Bij pestsituaties sta je er niet alleen voor: binnen de sportwereld kan je terecht bij de club-API, de sportfederatie of Sportieq; daarbuiten o.a. bij 1712, Grenswijs.be, Kies Kleur tegen Pesten, Mediawijs, Tumult, Pimento en Childfocus.
+
+### Zoekwoorden
+
+No Blame-aanpak · groepsgericht werken · gesprek met ouders · grenzen stellen · Aanspreekpersoon Integriteit · API · gedragscodes · pestbeleid · Sportieq · 1712 · Grenswijs · Kies Kleur tegen Pesten · Mediawijs · Tumult · Pimento · Childfocus
