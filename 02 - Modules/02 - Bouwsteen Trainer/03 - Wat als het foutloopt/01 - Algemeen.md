@@ -180,6 +180,17 @@ Is het slachtoffer ernstig gewond of is de situatie levensbedreigend? Alarmeer d
 
 Weet je zeker dat de situatie veilig is? Heb je het bewustzijn en de ademhaling gecontroleerd? Heb je zicht op wat er mis is met het slachtoffer? Heb je zo nodig de Noodcentrale 112 gealarmeerd? Dan kan je overgaan tot verdere eerste hulp: bijvoorbeeld een brandwonde koelen, een wonde ontsmetten of het slachtoffer in een comfortabele positie helpen.
 
+**Prioriteiten binnen verdere eerste hulp**
+
+Zijn er bij één slachtoffer meerdere letsels tegelijk, of moet je keuzes maken tussen verschillende acties? Stel dan je prioriteiten volgens onderstaande volgorde: begin met de meest levensbedreigende acties en werk af naar de minder dringende.
+
+1. Geef altijd voorrang aan de levensreddende technieken (luchtweg openen, reanimeren).
+2. Stelp ernstige bloedingen.
+3. Koel brandwonden.
+4. Verzorg grote wonden en dek ze af.
+5. Pas eerste hulp toe bij letsels aan botten, spieren en gewrichten.
+6. Verzorg de minder ernstige verwondingen.
+
 De vier stappen vormen een cyclus: verandert de situatie tijdens het verlenen van verdere eerste hulp, dan doorloop je het stappenplan opnieuw vanaf stap 1.
 
 ### Examenkort
@@ -189,10 +200,11 @@ De vier stappen vormen een cyclus: verandert de situatie tijdens het verlenen va
 - **Stap 2 - Toestand slachtoffer:** controleer het bewustzijn (voorzichtig schudden aan de schouders, luid vragen "Gaat het?") en open de luchtweg om de ademhaling te controleren (kijken, luisteren, voelen).
 - **Stap 3 - Gespecialiseerde hulp:** verzorg kleine letsels zelf indien mogelijk; raadpleeg een arts bij twijfel (bv. tetanusvaccinatie) en alarmeer de Noodcentrale 112 bij ernstige of levensbedreigende situaties.
 - **Stap 4 - Verdere eerste hulp:** pas nadat veiligheid, bewustzijn/ademhaling en eventuele alarmering geregeld zijn, verleen je de verdere concrete eerste hulp.
+- **Prioriteiten binnen stap 4** (bij meerdere letsels): (1) levensreddende technieken, (2) ernstige bloedingen stelpen, (3) brandwonden koelen, (4) grote wonden verzorgen en afdekken, (5) letsels aan botten, spieren en gewrichten, (6) minder ernstige verwondingen.
 
 ### Zoekwoorden
 
-vier stappen eerste hulp · stappenplan eerste hulp · zorg voor veiligheid · risico's inschatten · beoordeel toestand slachtoffer · bewustzijn controleren · luchtweg openen · ademhaling controleren · kijken luisteren voelen · gespecialiseerde hulp · tetanus · Noodcentrale 112 · app 112 BE · verdere eerste hulp · cyclisch stappenplan
+vier stappen eerste hulp · stappenplan eerste hulp · zorg voor veiligheid · risico's inschatten · beoordeel toestand slachtoffer · bewustzijn controleren · luchtweg openen · ademhaling controleren · kijken luisteren voelen · gespecialiseerde hulp · tetanus · Noodcentrale 112 · app 112 BE · verdere eerste hulp · cyclisch stappenplan · prioriteiten eerste hulp · levensreddende technieken · ernstige bloeding stelpen
 
 ## Nog te verwerken in dit bestand
 
