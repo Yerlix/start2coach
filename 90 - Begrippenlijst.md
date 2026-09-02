@@ -103,6 +103,12 @@ De rode draad van Start 2 Coach. Het model bestaat uit vijf bouwstenen: trainer,
 
 **Zie ook:** bouwstenen, pedagogische pijlers.
 
+## Discriminatie
+
+Ongewenst onderscheid, uitsluiting of kleinerende behandeling op basis van bv. afkomst, gender, seksuele geaardheid, leeftijd of beperking. Komt vaker voor dan gedacht — ook subtiel of onbewust — en ontstaat vaak uit onwetendheid, stereotypen, generaliseren of een gebrek aan respect.
+
+**Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie#discriminatie]]
+
 ## Dynamisch stretchen
 
 Rekken met beweging, toegepast tijdens de opwarming ter voorbereiding op inspanning.
@@ -138,6 +144,12 @@ Model met de tien belangrijkste strategieën om sportblessures te voorkomen, van
 De **bewegingsdriehoek** (actief bewegen versus stilzitten), **voedingsdriehoek** (voeding en drinken) en **geluksdriehoek** (gevoel, sociale steun, jezelf kunnen zijn), die samen gezond en duurzaam sporten ondersteunen.
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen#de-drie-gezondheidsdriehoeken]]
+
+## Handelingsprotocol
+
+Flexibel, levend stappenplan voor het interventie- en hulpverleningstraject bij een melding — van aankomst van de melding tot nazorg ("van A tot Z"). Wordt na elke afgehandelde zaak geëvalueerd en bijgestuurd.
+
+**Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie#opvolgen-van-een-situatie]]
 
 ## Interne druk
 
@@ -222,6 +234,12 @@ Een rekpositie aanhouden zonder beweging, toegepast tijdens de cooling-down of e
 Motiverende coachstijl met grote coachsturing waarbij de coach duidelijke verwachtingen communiceert, houvast biedt, passende feedback geeft en voldoende uitdaagt.
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#structuur]]
+
+## Unia
+
+Onafhankelijke Belgische instelling die discriminatie bestrijdt en gelijke kansen bevordert: ondersteuning bij meldingen, onderzoek en advies over juridische stappen, bemiddeling of doorverwijzing.
+
+**Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie#hulp]]
 
 ## Verbondenheid (Basisbehoefte)
 

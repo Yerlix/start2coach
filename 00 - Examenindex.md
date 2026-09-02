@@ -7,7 +7,7 @@ tags:
 
 # Examenindex
 
-> Deze index bevat de verwerkte inhoud van de modules Introductie Start 2 Coach en Bouwsteen Trainer (Inleiding, Motiverend Coachen, Hoe blessures voorkomen & Omgaan met Pesten).
+> Deze index bevat de verwerkte inhoud van de modules Introductie Start 2 Coach en Bouwsteen Trainer (Inleiding, Motiverend Coachen, Hoe blessures voorkomen, Omgaan met Pesten & Omgaan met Discriminatie).
 
 ## Verwerkte onderwerpen
 
@@ -47,13 +47,19 @@ tags:
 | No Blame-aanpak | Herstelgerichte, niet-beschuldigende aanpak van pesten, gericht op oplossingen | [[02 - Modules/02 - Bouwsteen Trainer/04 - Omgaan met Pesten#als-trainer]] |
 | Rol van de club bij pesten | API, toegankelijke aanspreekpunten, gedragscodes en een respectvolle cultuur | [[02 - Modules/02 - Bouwsteen Trainer/04 - Omgaan met Pesten#als-club]] |
 | Hulp bij pesten | Organisaties binnen (club-API, sportfederatie, Sportieq) en buiten de sportwereld (1712, Grenswijs, Tumult, ...) | [[02 - Modules/02 - Bouwsteen Trainer/04 - Omgaan met Pesten#hulp]] |
+| Discriminatie | Kleinerende of uitsluitende opmerkingen (bv. gender, huidskleur, geaardheid, leeftijd, beperking); komt vaker voor dan gedacht, ook onbewust | [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie#discriminatie]] |
+| Onbewuste mechanismen bij discriminatie | Onwetendheid, stereotypen, generaliseren, onverdraagzaamheid, kopieergedrag, gebrek aan respect | [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie#discriminatie]] |
+| Herkennen van signalen (discriminatie) | Discriminatie herken je niet altijd meteen: kleine opmerkingen, subtiele uitsluiting, gespannen sfeer | [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie#herkennen-van-signalen]] |
+| Aanpakken van discriminatie | Apart gesprek met pleger (effect i.p.v. intentie) en slachtoffer (steun, gehoord voelen); club-API inschakelen is geen falen | [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie#aanpakken-van-discriminatie]] |
+| Handelingsprotocol | Flexibel stappenplan voor het volledige traject, van melding tot nazorg; na elke zaak geëvalueerd | [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie#opvolgen-van-een-situatie]] |
+| Preventie van discriminatie (club) | Drie stappen: inclusief sportklimaat creëren, draagvlak creëren, samenwerken met andere clubs en partners | [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie#als-club]] |
+| Hulp bij discriminatie | Binnen sportwereld (club-API, sportfederatie, Sportieq, Dēmos) en buiten (Unia, RoSa/Çavaria/Grip vzw, Vlaams Sporttribunaal, politie) | [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie#hulp]] |
 
 ## Nog te verwerken
 
 | Thema | Module | Startpunt |
 |---|---|---|
 | Incidenten en foutlopen | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/03 - Wat als het foutloopt]] |
-| Discriminatie | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie]] |
 | Seksueel grensoverschrijdend gedrag | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag]] |
 | Voorbeeldfunctie | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie]] |
 | Ontwikkeling | Bouwsteen Sporters | [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht]] |

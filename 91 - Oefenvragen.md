@@ -133,3 +133,35 @@ tags:
 ### 27. Bij welke organisaties kan je terecht voor hulp bij pestsituaties?
 **Antwoord:** Binnen de sportwereld: de club-API, de sportfederatie of Sportieq. Buiten de sportwereld: onder andere 1712, Grenswijs.be, Het Vlaamse Netwerk Kies Kleur tegen Pesten, Mediawijs, Tumult, Pimento en Childfocus.  
 **Bron:** [[02 - Modules/02 - Bouwsteen Trainer/04 - Omgaan met Pesten#hulp]]
+
+---
+
+## Bouwsteen Trainer: Omgaan met Discriminatie
+
+### 28. Wat zijn enkele onbewuste mechanismen die aan de basis kunnen liggen van discriminatie?
+**Antwoord:** Onwetendheid over andere culturen of leefwerelden, stereotypen, generaliseren op basis van één ervaring, onverdraagzaamheid voor wat anders is, kopieergedrag ("zo wordt er hier nu eenmaal over gepraat") en een gebrek aan respect, openheid of interesse in de ander.  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie#discriminatie]]
+
+### 29. Wat is de meest gepaste reactie wanneer je als trainer discriminerend gedrag opmerkt tussen sporters?
+**Antwoord:** De pleger meteen en duidelijk aanspreken op zijn gedrag, en duidelijk maken dat dit niet getolereerd wordt — niet op de club en nergens anders. Wachten tot je het kan doorgeven, of er niets mee doen, is geen gepaste reactie.  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie#herkennen-van-signalen]]
+
+### 30. Waarom voer je bij een discriminatie-incident twee aparte gesprekken, en waarop focussen ze elk?
+**Antwoord:** Eén gesprek met de pleger, gericht op het effect van zijn woorden (niet de intentie) en hoe hij in de toekomst beter kan reageren; en één gesprek met het slachtoffer, gericht op volledige aandacht, hem/haar laten voelen dat hij/zij gehoord en geloofd wordt, en samen de vervolgstappen bepalen.  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie#aanpakken-van-discriminatie]]
+
+### 31. Waarom is het geen falen als een trainer een discriminatiesituatie doorgeeft aan de club-API?
+**Antwoord:** Omdat een trainer niet elke situatie zelf hoeft op te lossen; het doorgeven aan de club-API, een vertrouwenspersoon of het bestuur hoort bij een goede opvolging, zolang de trainer niet wegkijkt, het gedrag duidelijk afkeurt en het slachtoffer steunt.  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie#aanpakken-van-discriminatie]]
+
+### 32. Wat is een handelingsprotocol en welke functie heeft het voor een club-API?
+**Antwoord:** Een flexibel, levend stappenplan voor het interventie- en hulpverleningstraject, van het ontvangen van een melding tot de nazorg ("van Aankomst tot Zorg"). Het is een onmisbare tool voor API's en wordt na elke zaak geëvalueerd en verbeterd.  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie#opvolgen-van-een-situatie]]
+
+### 33. Welke drie stappen kunnen sportclubs volgen om discriminatie effectief aan te pakken?
+**Antwoord:** (1) Een inclusief sportklimaat creëren (gedragsregels, API, respectvolle cultuur); (2) draagvlak creëren (bespreekbaar maken op de Algemene Ledenvergadering, gedragscodes, educatieve sessies); (3) samenwerken met andere clubs, lokale organisaties en externe partners.  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie#als-club]]
+
+### 34. Bij welke organisatie kan je terecht als je buiten de sportwereld hulp zoekt bij discriminatie, en wat doet ze?
+**Antwoord:** Unia, de onafhankelijke Belgische instelling die discriminatie bestrijdt en gelijke kansen bevordert: ondersteuning bij meldingen, onderzoek en advies over juridische stappen, bemiddeling of doorverwijzing.  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie#hulp]]
