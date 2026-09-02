@@ -2,7 +2,7 @@
 title: Algemeen - Eerste hulp
 module: Bouwsteen Trainer
 onderdeel: Veiligheid (Eerste hulp)
-status: in verwerking
+status: inhoudelijk voltooid
 bron: E-learning screenshots
 tags:
   - start2coach
@@ -11,6 +11,7 @@ tags:
   - eerste-hulp
   - ehbo
   - principes-eerste-hulp
+  - stabiele-zijligging
 ---
 
 # Algemeen: eerste hulp
@@ -277,6 +278,27 @@ Een volwassene ademt in rust 12 tot 20 keer per minuut; een baby ademt sneller (
 
 bewustzijn controleren · schudden aan schouders · gaat het · bewusteloos · reageert niet · luchtweg openen · kantel-kinmethode · tong keelholte · ademhaling controleren · kijken luisteren voelen · 10 seconden · ademhalingsfrequentie · 12 tot 20 per minuut · baby ademhaling · agonale ademhaling · gasping · circulatiestilstand · stabiele zijligging · wervelletsel · Noodcentrale 112 · AED · reanimatie starten
 
-## Nog te verwerken in dit bestand
+## Stabiele zijligging
 
-- Stabiele zijligging.
+Een bewusteloos slachtoffer met een normale ademhaling leg je in stabiele zijligging, op voorwaarde dat je geen wervelletsel vermoedt. Door die techniek is de luchtweg van het slachtoffer vrij en vermijd je dat hij stikt in bloed of braaksel.
+
+**Techniek in acht stappen:**
+
+1. Verwijder de bril van het slachtoffer.
+2. Zorg ervoor dat beide benen gestrekt zijn.
+3. Leg de arm die het dichtst bij jou ligt in een rechte hoek, met de handpalm naar boven.
+4. Neem de arm die het verste van jou ligt vast bij de hand. Breng die arm over de borstkas heen en druk de handrug tegen de wang van het slachtoffer aan jouw kant. Blijf die hand zo vasthouden (zoals een 'high five').
+5. Neem met je andere hand het verste been net boven de knie vast aan de buitenkant. Trek het been op, maar laat de voet op de grond staan.
+6. Trek het gebogen been naar je toe: het slachtoffer rolt nu naar jou toe en blijft op zijn zij liggen. Blijf ondertussen de handrug tegen de wang drukken.
+7. Trek de knie van het bovenste been naar je toe, zodat zowel de heup als de knie een rechte hoek vormen.
+8. Kantel voorzichtig het hoofd achterover voor een vrije luchtweg. Zorg dat de mond naar de grond gericht is. Verschuif de hand onder de wang als dat nodig is om het hoofd gekanteld te houden.
+
+### Examenkort
+
+- Een bewusteloos slachtoffer met een normale ademhaling leg je in stabiele zijligging, op voorwaarde dat je geen wervelletsel vermoedt.
+- De stabiele zijligging houdt de luchtweg vrij en voorkomt dat het slachtoffer stikt in bloed of braaksel.
+- Kerntechniek: arm dichtbij in een rechte hoek, verste arm als 'high five' tegen de wang, verste been optrekken en het gebogen been naar je toe rollen, heup en knie in een rechte hoek, hoofd achterover kantelen met de mond naar de grond gericht.
+
+### Zoekwoorden
+
+stabiele zijligging · bewusteloos slachtoffer · normale ademhaling · wervelletsel · vrije luchtweg · stikken in bloed of braaksel · high five techniek · been optrekken · hoofd kantelen · mond naar de grond
