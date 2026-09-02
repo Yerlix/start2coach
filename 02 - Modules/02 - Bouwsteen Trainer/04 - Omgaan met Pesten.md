@@ -44,6 +44,27 @@ In sommige situaties lachen omstaanders mee, of zwijgen ze uit angst zelf het vo
 
 > Niet elke vorm van pesten gebeurt fysiek, voor, tijdens of na de training. Ook online pesten (cyberpesten) komt steeds vaker voor: denk aan kwetsende berichten, foto's of memes die gedeeld worden via WhatsApp, Instagram of andere platformen. Cyberpesten gebeurt vaak anoniem en is moeilijker op te merken, maar heeft evenveel impact als 'klassiek' pesten.
 
+### Plagen of pesten?
+
+Niet elk vervelend moment tussen sporters is meteen pesten. Soms plagen sporters elkaar uit vriendschap of voor de grap. Maar wanneer wordt zo'n grap of opmerking te veel? En hoe weet je of er écht sprake is van pestgedrag? Het onderscheid is niet altijd zwart-wit, maar er zijn wel duidelijke verschillen tussen plagen en pesten die helpen om situaties beter te herkennen en gepast te reageren.
+
+| Plagen | Pesten |
+|---|---|
+| Gelijkwaardige relatie tussen de betrokkenen | Machtsonevenwicht: de pleger is sterker, populairder of dominanter |
+| Gebeurt af en toe, spontaan | Herhaalt zich vaak en systematisch, soms weken- of maandenlang |
+| Iedereen kan erom lachen, ook degene die geplaagd wordt | Het slachtoffer voelt zich gekwetst, buitengesloten of bedreigd |
+| Zonder kwade bedoelingen, vaak speels bedoeld | Doelbewust of met duidelijke negatieve gevolgen voor het slachtoffer |
+
+In de sport komt het vaak voor dat teamgenoten elkaar uitdagen of plagerijen over en weer gaan. Dat hoeft niet altijd problematisch te zijn — zolang het speels en wederzijds blijft. Maar soms verschuift de dynamiek ongemerkt: wat begon als een grap, wordt kwetsend en houdt aan.
+
+**Voorbeeld van plagen:** Twee teamgenoten lachen samen omdat iemand tijdens de training struikelt over een bal. Ze plagen elkaar speels, zonder haatdragende woorden. Even later lachen ze om elkaars blunders en gaan ze vrolijk verder.
+
+**Voorbeeld van pesten:** Een speler wordt élke week uitgelachen wanneer hij een fout maakt, telkens door dezelfde teamgenoten. Er worden ook bijnamen gebruikt en hij wordt als laatste gekozen bij groepsoefeningen. De sporter lijkt stiller en onzekerder te worden, en zijn prestaties gaan achteruit.
+
+Als trainer, coach of sportbegeleider is het cruciaal dat je gepast reageert. Te snel roepen dat iets "maar een grapje" was, kan pestgedrag in stand houden. Maar te snel iemand beschuldigen van pesten, kan ook de groepsdynamiek schaden.
+
+> **Kortom:** Wees alert, luister naar signalen van sporters en check hoe opmerkingen of gedrag overkomen. Ga in gesprek met de betrokkenen en stuur bij waar nodig. Sport is pas écht waardevol als iedereen zich gezien, gerespecteerd en veilig voelt.
+
 ## Examenkort
 
 > Nog te verwerken.
