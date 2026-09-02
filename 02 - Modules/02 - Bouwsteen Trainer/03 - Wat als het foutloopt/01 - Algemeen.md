@@ -206,7 +206,74 @@ De vier stappen vormen een cyclus: verandert de situatie tijdens het verlenen va
 
 vier stappen eerste hulp · stappenplan eerste hulp · zorg voor veiligheid · risico's inschatten · beoordeel toestand slachtoffer · bewustzijn controleren · luchtweg openen · ademhaling controleren · kijken luisteren voelen · gespecialiseerde hulp · tetanus · Noodcentrale 112 · app 112 BE · verdere eerste hulp · cyclisch stappenplan · prioriteiten eerste hulp · levensreddende technieken · ernstige bloeding stelpen
 
+## Controleren van het bewustzijn en de ademhaling
+
+In stap 2 van het stappenplan (beoordeel de toestand van het slachtoffer) ga je na wat er mis is met het slachtoffer door zijn bewustzijn en ademhaling te controleren. Hieronder vind je hoe je dat concreet doet.
+
+### Controleer het bewustzijn
+
+Antwoordt het slachtoffer niet op je vragen? Controleer dan het bewustzijn: schud voorzichtig aan beide schouders en vraag luid "Gaat het?"
+
+- **Het slachtoffer reageert** (bijvoorbeeld door de ogen te openen): hij is bewust.
+- **Het slachtoffer reageert niet:** hij is bewusteloos.
+
+**Wat doe je?**
+
+| Het slachtoffer reageert | Het slachtoffer reageert niet |
+|---|---|
+| Laat het slachtoffer zoals je hem vond, op voorwaarde dat hij geen gevaar loopt. | Roep luid om hulp als je alleen bent, of duid iemand aan en vraag hem je te helpen. |
+| Ga na wat er mis is. | Draai het slachtoffer op de rug. |
+| Beoordeel regelmatig opnieuw de toestand van het slachtoffer. | Open de luchtweg en controleer de ademhaling (zie hieronder). |
+| Raadpleeg gespecialiseerde hulp. | |
+
+> Merk je tijdens de controle van het bewustzijn duidelijk dat het bewusteloze slachtoffer normaal ademt? Dan hoef je hem niet op de rug te draaien. Leg hem wel in stabiele zijligging (zie verder), op voorwaarde dat je geen wervelletsel vermoedt.
+
+### Open de luchtweg en controleer de ademhaling
+
+Bij een bewusteloos slachtoffer verslappen de spieren. De tong is een grote spier die een gevaar kan vormen voor de ademhaling: het risico bestaat dat de tong in de keelholte zakt en zo de luchtweg afsluit, waardoor geen ademhaling meer mogelijk is. Je schakelt dat gevaar uit door de luchtweg te openen: kantel het hoofd van het slachtoffer achterover en til de kin op.
+
+**Techniek in vijf stappen:**
+
+1. Kniel op beide knieën naast het slachtoffer, ter hoogte van de borstkas.
+2. Leg een hand op het voorhoofd van het slachtoffer.
+3. Kantel het hoofd voorzichtig achterover.
+4. Plaats twee vingertoppen van je andere hand onder de punt van de kin van het slachtoffer. Druk niet in het zachte gedeelte onder de kin, dat kan de ademhaling bemoeilijken.
+5. Til de kin omhoog om de luchtweg te openen. Blijf de kin omhoog houden.
+
+**Controleer vervolgens de ademhaling:**
+
+- Kijk of de borstkas op en neer gaat.
+- Luister aan de mond en de neus naar ademhalingsgeluiden.
+- Voel met je wang of er luchtstroom is.
+
+Kijk, luister en voel niet langer dan 10 seconden om te bepalen of het slachtoffer normaal ademt.
+
+**Wat stel je vast?**
+
+Een volwassene ademt in rust 12 tot 20 keer per minuut; een baby ademt sneller (20 tot 30 keer per minuut). De ademhalingsfrequentie is problematisch als die langzaam (minder dan 10 keer per minuut) of snel (meer dan 20 keer per minuut) is.
+
+| Het slachtoffer ademt normaal | Het slachtoffer ademt niet normaal |
+|---|---|
+| Leg het slachtoffer in stabiele zijligging (zie verder) als: hij normaal ademt maar geen reactie vertoont; zijn ademhaling bemoeilijkt wordt door bloed, braaksel of andere lichaamsvochten; je hem alleen moet laten om hulp te alarmeren; of je geen wervelletsel vermoedt. | Laat een omstander de Noodcentrale 112 alarmeren en vraag hem je nadien op de hoogte te brengen. Doe het zelf als je alleen bent. |
+| Laat een omstander de Noodcentrale 112 alarmeren en vraag hem je nadien op de hoogte te brengen. Doe het zelf als je alleen bent. | Laat iemand een AED halen, als er een in de buurt is. |
+| Controleer elke minuut of de ademhaling normaal blijft. | Start de reanimatie (zie onderdeel Reanimeren). |
+
+### Examenkort
+
+- Reageert het slachtoffer niet op je vragen, controleer dan het bewustzijn: schud voorzichtig aan beide schouders en vraag luid "Gaat het?"
+- Reageert het slachtoffer: laat hem zoals je hem vond (indien veilig), ga na wat er mis is, herbeoordeel regelmatig en raadpleeg gespecialiseerde hulp.
+- Reageert het slachtoffer niet: roep om hulp, draai hem op de rug, open de luchtweg en controleer de ademhaling.
+- Ademt een bewusteloos slachtoffer duidelijk normaal, dan hoef je hem niet op de rug te draaien — leg hem in stabiele zijligging (tenzij je een wervelletsel vermoedt).
+- Open de luchtweg via de kantel-kinmethode: hand op het voorhoofd, hoofd achterover kantelen, twee vingertoppen onder de kinpunt, kin optillen.
+- Controleer de ademhaling door te kijken (borstkas), te luisteren (mond/neus) en te voelen (wang), maximaal 10 seconden.
+- Een volwassene ademt in rust normaal 12-20 keer per minuut; een baby 20-30 keer per minuut.
+- Ademt het slachtoffer normaal maar reageert hij niet (of dreigt de luchtweg te verstikken door bloed/braaksel): stabiele zijligging, Noodcentrale 112 alarmeren, en elke minuut de ademhaling controleren.
+- Ademt het slachtoffer niet normaal: alarmeer de Noodcentrale 112, laat een AED halen indien beschikbaar, en start de reanimatie.
+
+### Zoekwoorden
+
+bewustzijn controleren · schudden aan schouders · gaat het · bewusteloos · reageert niet · luchtweg openen · kantel-kinmethode · tong keelholte · ademhaling controleren · kijken luisteren voelen · 10 seconden · ademhalingsfrequentie · 12 tot 20 per minuut · baby ademhaling · stabiele zijligging · wervelletsel · Noodcentrale 112 · AED · reanimatie starten
+
 ## Nog te verwerken in dit bestand
 
-- Controleren van het bewustzijn en de ademhaling (uitgebreide techniek).
 - Stabiele zijligging.
