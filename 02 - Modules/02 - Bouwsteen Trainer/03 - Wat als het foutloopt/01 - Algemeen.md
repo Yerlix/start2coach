@@ -252,6 +252,8 @@ Kijk, luister en voel niet langer dan 10 seconden om te bepalen of het slachtoff
 
 Een volwassene ademt in rust 12 tot 20 keer per minuut; een baby ademt sneller (20 tot 30 keer per minuut). De ademhalingsfrequentie is problematisch als die langzaam (minder dan 10 keer per minuut) of snel (meer dan 20 keer per minuut) is.
 
+> **Let op: agonale ademhaling (gasping).** In de eerste minuten na een circulatiestilstand is het mogelijk dat het slachtoffer amper ademt, onregelmatig en/of langzaam ademt, of naar adem snakt. Het lijkt dan alsof het slachtoffer nog probeert te ademen. Dat noemen we **agonale ademhaling of gasping**. Gaspen is geen normale ademhaling, maar een teken van circulatiestilstand: de reanimatie moet snel worden gestart.
+
 | Het slachtoffer ademt normaal | Het slachtoffer ademt niet normaal |
 |---|---|
 | Leg het slachtoffer in stabiele zijligging (zie verder) als: hij normaal ademt maar geen reactie vertoont; zijn ademhaling bemoeilijkt wordt door bloed, braaksel of andere lichaamsvochten; je hem alleen moet laten om hulp te alarmeren; of je geen wervelletsel vermoedt. | Laat een omstander de Noodcentrale 112 alarmeren en vraag hem je nadien op de hoogte te brengen. Doe het zelf als je alleen bent. |
@@ -267,12 +269,13 @@ Een volwassene ademt in rust 12 tot 20 keer per minuut; een baby ademt sneller (
 - Open de luchtweg via de kantel-kinmethode: hand op het voorhoofd, hoofd achterover kantelen, twee vingertoppen onder de kinpunt, kin optillen.
 - Controleer de ademhaling door te kijken (borstkas), te luisteren (mond/neus) en te voelen (wang), maximaal 10 seconden.
 - Een volwassene ademt in rust normaal 12-20 keer per minuut; een baby 20-30 keer per minuut.
+- **Agonale ademhaling (gasping):** amper, onregelmatig, langzaam of snakkend ademen vlak na een circulatiestilstand. Lijkt op ademen, maar is dat niet — het is een teken van circulatiestilstand en de reanimatie moet snel starten.
 - Ademt het slachtoffer normaal maar reageert hij niet (of dreigt de luchtweg te verstikken door bloed/braaksel): stabiele zijligging, Noodcentrale 112 alarmeren, en elke minuut de ademhaling controleren.
-- Ademt het slachtoffer niet normaal: alarmeer de Noodcentrale 112, laat een AED halen indien beschikbaar, en start de reanimatie.
+- Ademt het slachtoffer niet normaal (inclusief gasping): alarmeer de Noodcentrale 112, laat een AED halen indien beschikbaar, en start de reanimatie.
 
 ### Zoekwoorden
 
-bewustzijn controleren · schudden aan schouders · gaat het · bewusteloos · reageert niet · luchtweg openen · kantel-kinmethode · tong keelholte · ademhaling controleren · kijken luisteren voelen · 10 seconden · ademhalingsfrequentie · 12 tot 20 per minuut · baby ademhaling · stabiele zijligging · wervelletsel · Noodcentrale 112 · AED · reanimatie starten
+bewustzijn controleren · schudden aan schouders · gaat het · bewusteloos · reageert niet · luchtweg openen · kantel-kinmethode · tong keelholte · ademhaling controleren · kijken luisteren voelen · 10 seconden · ademhalingsfrequentie · 12 tot 20 per minuut · baby ademhaling · agonale ademhaling · gasping · circulatiestilstand · stabiele zijligging · wervelletsel · Noodcentrale 112 · AED · reanimatie starten
 
 ## Nog te verwerken in dit bestand
 
