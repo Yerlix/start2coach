@@ -65,10 +65,48 @@ Als trainer, coach of sportbegeleider is het cruciaal dat je gepast reageert. Te
 
 > **Kortom:** Wees alert, luister naar signalen van sporters en check hoe opmerkingen of gedrag overkomen. Ga in gesprek met de betrokkenen en stuur bij waar nodig. Sport is pas écht waardevol als iedereen zich gezien, gerespecteerd en veilig voelt.
 
-## Examenkort
+### Signalen van pesten
 
-> Nog te verwerken.
+Pesten aanpakken begint bij het herkennen ervan, en dat is niet altijd makkelijk. Veel pestsituaties spelen zich af buiten het zicht van trainers, coaches of medesporters. Maar wie weet waar je op moet letten, kan écht het verschil maken — voor kinderen én volwassenen.
 
-## Zoekwoorden
+**Signalen die kunnen wijzen op een gepeste sporter:**
 
-> Nog te verwerken.
+- Is vaak stil, teruggetrokken of angstig;
+- Lijkt neerslachtig of gespannen;
+- Vermijdt de training of zegt er geen zin meer in te hebben;
+- Heeft beschadigde spullen of sportmateriaal;
+- Wordt genegeerd of als laatste gekozen bij teamverdelingen;
+- Vertoont overdreven of clownesk gedrag om aandacht af te leiden.
+
+Ook andere sporters kunnen belangrijke signalen geven. Een opmerking als "hij zat te huilen in de kleedkamer" is nooit zomaar iets.
+
+**Signalen van iemand die pest:**
+
+- Gedraagt zich dominant of agressief;
+- Toont weinig inlevingsvermogen;
+- Reageert tegendraads of kleinerend;
+- Heeft een opvallend sterk zelfbeeld.
+
+**Signalen uit het sportteam:**
+
+Soms verraadt de groepsdynamiek al veel. Let op als:
+
+- de sfeer gespannen of negatief aanvoelt;
+- er weinig motivatie of sportplezier is;
+- teamleden elkaar nauwelijks helpen of steunen;
+- de concurrentie onderling ongezond groot wordt.
+
+Pesten herkennen is geen exacte wetenschap. Maar wie goed oplet en openstaat voor signalen, ziet vaak meer dan je denkt.
+
+### Examenkort
+
+- Pesten is ongewenst, herhaald en opzettelijk negatief gedrag vanuit een machtsonevenwicht — geen onschuldig 'plagerijtje'.
+- Ongeveer 1 op 6 kinderen in Vlaanderen wordt tijdens hun jeugd gepest; cyberpesten gebeurt vaak anoniem maar heeft evenveel impact als 'klassiek' pesten.
+- Verschil met plagen: plagen is gelijkwaardig, spontaan en leuk voor iedereen; pesten gebeurt vanuit een machtsonevenwicht, herhaalt zich systematisch en kwetst het slachtoffer.
+- Signalen van een gepeste sporter: stil/teruggetrokken, vermijdt de training, beschadigde spullen, genegeerd of als laatste gekozen.
+- Signalen van iemand die pest: dominant of agressief gedrag, weinig inlevingsvermogen, kleinerende reacties.
+- Ook signalen op teamniveau (gespannen sfeer, weinig sportplezier, ongezonde concurrentie) kunnen wijzen op pesten.
+
+### Zoekwoorden
+
+pesten · plagen · plagerijtje · machtsonevenwicht · cyberpesten · gedragscodes VTS · signalen van pesten · gepeste sporter · pleger · groepsdynamiek
