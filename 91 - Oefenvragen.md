@@ -105,3 +105,31 @@ tags:
 ### 21. Wat houdt een multifactoriële aanpak in bij blessurepreventie?
 **Antwoord:** Dat je verschillende preventiestrategieën combineert en regelmatig samen toepast, in plaats van te vertrouwen op één losse maatregel.  
 **Bron:** [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen#get-fit-2-sport-model]]
+
+---
+
+## Bouwsteen Trainer: Omgaan met Pesten
+
+### 22. Wat is het verschil tussen plagen en pesten?
+**Antwoord:** Plagen gebeurt tussen gelijkwaardige partijen, is spontaan en zonder kwade bedoelingen — iedereen kan erom lachen. Pesten gebeurt vanuit een machtsonevenwicht, herhaalt zich systematisch en kwetst het slachtoffer.  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/04 - Omgaan met Pesten#plagen-of-pesten]]
+
+### 23. Hoe omschrijven de gedragscodes van VTS pesten?
+**Antwoord:** Als ongewenst, herhaald en opzettelijk negatief gedrag, meestal onder leeftijdsgenoten, gekenmerkt door een ongelijke (of als ongelijk ervaren) machtsverhouding.  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/04 - Omgaan met Pesten#vele-vormen-en-gradaties]]
+
+### 24. Welke signalen kunnen wijzen op een gepeste sporter?
+**Antwoord:** Onder andere: stil, teruggetrokken of angstig zijn; neerslachtig of gespannen lijken; de training vermijden; beschadigde spullen hebben; genegeerd of als laatste gekozen worden bij teamverdelingen; overdreven of clownesk gedrag vertonen om aandacht af te leiden.  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/04 - Omgaan met Pesten#signalen-van-pesten]]
+
+### 25. Wat houdt de No Blame-aanpak in?
+**Antwoord:** Een herstelgerichte methode om pesten aan te pakken zonder beschuldiging, met de focus op het vinden van oplossingen in plaats van het toewijzen van schuld.  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/04 - Omgaan met Pesten#als-trainer]]
+
+### 26. Welke rol speelt de sportclub, naast de trainer, in het voorkomen van pesten?
+**Antwoord:** De club voorziet onder andere een Aanspreekpersoon Integriteit (API), toegankelijke aanspreekpunten, duidelijke gedragscodes, actieve communicatie over waarden en verwachtingen, en bevordert een respectvolle cultuur.  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/04 - Omgaan met Pesten#als-club]]
+
+### 27. Bij welke organisaties kan je terecht voor hulp bij pestsituaties?
+**Antwoord:** Binnen de sportwereld: de club-API, de sportfederatie of Sportieq. Buiten de sportwereld: onder andere 1712, Grenswijs.be, Het Vlaamse Netwerk Kies Kleur tegen Pesten, Mediawijs, Tumult, Pimento en Childfocus.  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/04 - Omgaan met Pesten#hulp]]

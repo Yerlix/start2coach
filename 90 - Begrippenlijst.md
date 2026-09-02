@@ -13,6 +13,12 @@ Basisprincipe voor blessurepreventie: bouw oefeningen, trainingsbelasting of her
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen#de-10-strategieën-van-get-fit-2-sport]]
 
+## Aanspreekpersoon Integriteit (API)
+
+Een vertrouwenspersoon binnen de sportclub die sporters, ouders en trainers helpt bij pestpreventie, meldingen vertrouwelijk behandelt en zorgt voor passende opvolging.
+
+**Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/04 - Omgaan met Pesten#als-club]]
+
 ## ABC van motivatie
 
 De drie universele psychologische basisbehoeften die voldaan moeten zijn voor kwalitatieve, duurzame motivatie: **Autonomie** (A), **Verbondenheid** (B) en **Competentie** (C).
@@ -85,6 +91,12 @@ Demotiverende coachstijl met grote coachsturing waarbij de coach dwingend en ver
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#controle]]
 
+## Cyberpesten
+
+Online pesten via kwetsende berichten, foto's of memes die gedeeld worden op platformen zoals WhatsApp of Instagram. Gebeurt vaak anoniem en is moeilijker op te merken dan 'klassiek' pesten, maar heeft evenveel impact.
+
+**Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/04 - Omgaan met Pesten#vele-vormen-en-gradaties]]
+
 ## Didactisch model
 
 De rode draad van Start 2 Coach. Het model bestaat uit vijf bouwstenen: trainer, sporters, omgeving, leerdoelen en methoden.
@@ -151,6 +163,12 @@ De natuurlijke, gecontroleerde stand van de rug behouden tijdens oefeningen, bal
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen#get-fit-2-sport-model]]
 
+## No Blame-aanpak
+
+Herstelgerichte methode om pesten aan te pakken zonder beschuldiging, met de focus op het vinden van oplossingen in plaats van het toewijzen van schuld.
+
+**Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/04 - Omgaan met Pesten#als-trainer]]
+
 ## Omgevingsrisicofactoren
 
 Risicofactoren voor blessures die te maken hebben met de omstandigheden waarin gesport wordt, zoals trainingsbelasting, sportmateriaal, accommodatie, weersomstandigheden, spelregels en begeleiding.
@@ -168,6 +186,18 @@ De vijf thema’s die doorheen Start 2 Coach terugkomen: **Motiveren, Veilig spo
 Risicofactoren voor blessures die bij de sporter zelf liggen en van persoon tot persoon verschillen, zoals leeftijd, lichaamsbouw, fitheid, gezondheidstoestand en mentale ingesteldheid.
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen#hoe-ontstaan-sportblessures]]
+
+## Pesten
+
+Ongewenst, herhaald en opzettelijk negatief gedrag, meestal onder leeftijdsgenoten, gekenmerkt door een (als) ongelijk (ervaren) machtsverhouding. Geen onschuldig 'plagerijtje', maar grensoverschrijdend gedrag met mogelijk grote gevolgen voor het welzijn van het slachtoffer.
+
+**Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/04 - Omgaan met Pesten#pesten-of-niet]]
+
+## Plagen
+
+Gedrag tussen gelijkwaardige partijen dat af en toe en spontaan gebeurt, zonder kwade bedoelingen — in tegenstelling tot pesten, waarbij een machtsonevenwicht en herhaling meespelen.
+
+**Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/04 - Omgaan met Pesten#plagen-of-pesten]]
 
 ## Sportblessure
 

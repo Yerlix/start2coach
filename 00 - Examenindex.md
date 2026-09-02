@@ -7,7 +7,7 @@ tags:
 
 # Examenindex
 
-> Deze index bevat de verwerkte inhoud van de modules Introductie Start 2 Coach en Bouwsteen Trainer (Inleiding, Motiverend Coachen & Hoe blessures voorkomen).
+> Deze index bevat de verwerkte inhoud van de modules Introductie Start 2 Coach en Bouwsteen Trainer (Inleiding, Motiverend Coachen, Hoe blessures voorkomen & Omgaan met Pesten).
 
 ## Verwerkte onderwerpen
 
@@ -41,13 +41,18 @@ tags:
 | Belasting en belastbaarheid | Kern van blessurepreventie: wat het lichaam aankan tegenover wat je ervan vraagt | [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen#belasting-en-belastbaarheid]] |
 | Get Fit 2 Sport-model | Tien strategieën om sportblessures te voorkomen | [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen#get-fit-2-sport-model]] |
 | 10%-regel | Trainingsbelasting, oefeningen of hervatting na herstel geleidelijk opbouwen | [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen#de-10-strategieën-van-get-fit-2-sport]] |
+| Pesten | Ongewenst, herhaald en opzettelijk negatief gedrag vanuit een machtsonevenwicht — geen 'plagerijtje' | [[02 - Modules/02 - Bouwsteen Trainer/04 - Omgaan met Pesten#pesten-of-niet]] |
+| Plagen versus pesten | Plagen is gelijkwaardig en spontaan; pesten gebeurt vanuit een machtsonevenwicht en kwetst het slachtoffer | [[02 - Modules/02 - Bouwsteen Trainer/04 - Omgaan met Pesten#plagen-of-pesten]] |
+| Signalen van pesten | Signalen bij een gepeste sporter, bij een pester en op teamniveau | [[02 - Modules/02 - Bouwsteen Trainer/04 - Omgaan met Pesten#signalen-van-pesten]] |
+| No Blame-aanpak | Herstelgerichte, niet-beschuldigende aanpak van pesten, gericht op oplossingen | [[02 - Modules/02 - Bouwsteen Trainer/04 - Omgaan met Pesten#als-trainer]] |
+| Rol van de club bij pesten | API, toegankelijke aanspreekpunten, gedragscodes en een respectvolle cultuur | [[02 - Modules/02 - Bouwsteen Trainer/04 - Omgaan met Pesten#als-club]] |
+| Hulp bij pesten | Organisaties binnen (club-API, sportfederatie, Sportieq) en buiten de sportwereld (1712, Grenswijs, Tumult, ...) | [[02 - Modules/02 - Bouwsteen Trainer/04 - Omgaan met Pesten#hulp]] |
 
 ## Nog te verwerken
 
 | Thema | Module | Startpunt |
 |---|---|---|
 | Incidenten en foutlopen | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/03 - Wat als het foutloopt]] |
-| Pesten | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/04 - Omgaan met Pesten]] |
 | Discriminatie | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie]] |
 | Seksueel grensoverschrijdend gedrag | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag]] |
 | Voorbeeldfunctie | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie]] |
