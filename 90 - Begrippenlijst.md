@@ -97,11 +97,23 @@ Online pesten via kwetsende berichten, foto's of memes die gedeeld worden op pla
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/04 - Omgaan met Pesten#vele-vormen-en-gradaties]]
 
+## Demonstratie
+
+Een oefening (door jezelf of een paar sporters) laten voordoen zodat sporters de volledige beweging zien en de aandachtspunten beter begrijpen. Geef minstens één demonstratie op het juiste tempo, technisch verzorgd en van de volledige oefening.
+
+**Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#hulpmiddelen-om-je-non-verbale-communicatie-te-ondersteunen]]
+
 ## Didactisch model
 
 De rode draad van Start 2 Coach. Het model bestaat uit vijf bouwstenen: trainer, sporters, omgeving, leerdoelen en methoden.
 
 **Zie ook:** bouwstenen, pedagogische pijlers.
+
+## Didactische hulpmiddelen
+
+Visuele en praktische hulpmiddelen (bord, miniatuurveld, foto's, video's, PowerPoint, tablet) die een uitleg versterken, aandachtspunten benadrukken en inspelen op verschillende leerstijlen.
+
+**Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#hulpmiddelen-om-je-non-verbale-communicatie-te-ondersteunen]]
 
 ## Discretieplicht
 
@@ -126,6 +138,12 @@ Rekken met beweging, toegepast tijdens de opwarming ter voorbereiding op inspann
 Vorm van gecontroleerde motivatie waarbij gedrag gestuurd wordt door factoren van buitenaf (coach, ouders, beloningen verkrijgen, straf vermijden).
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#2-gecontroleerde-motivatie-moeten]]
+
+## Feedbackcirkel
+
+Cyclisch proces om feedback effectief te geven: observeren, herkennen, reageren en bijsturen.
+
+**Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#feedback-geven-en-ontvangen]]
 
 ## Fysieke veiligheid
 
@@ -163,6 +181,12 @@ Vorm van gecontroleerde motivatie waarbij de druk vanuit de sporter zelf komt (z
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#2-gecontroleerde-motivatie-moeten]]
 
+## Lichaamstaal
+
+Non-verbale communicatie via gebaren, mimiek, houding, positie in de ruimte en stemtoon. Weegt vaak zwaarder door dan woorden: bij tegenspraak tussen wat je zegt en uitstraalt, geloven sporters meestal wat ze zien.
+
+**Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#non-verbale-communicatie-of-lichaamstaal]]
+
 ## Lumbale bracing
 
 De romp doelgericht aanspannen om de onderrug en romp te stabiliseren, bijvoorbeeld tijdens rompstabilisatietraining.
@@ -198,6 +222,12 @@ De natuurlijke, gecontroleerde stand van de rug behouden tijdens oefeningen, bal
 Herstelgerichte methode om pesten aan te pakken zonder beschuldiging, met de focus op het vinden van oplossingen in plaats van het toewijzen van schuld.
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/04 - Omgaan met Pesten#als-trainer]]
+
+## Non-verbale communicatie
+
+Alles wat je zonder woorden laat zien of voelt: lichaamstaal, mimiek, houding, oogcontact en stemtoon. Geeft vaak de emotionele lading van een boodschap weer.
+
+**Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#wat-is-communiceren]]
 
 ## Omgevingsrisicofactoren
 
@@ -258,6 +288,12 @@ Motiverende coachstijl met grote coachsturing waarbij de coach duidelijke verwac
 Onafhankelijke Belgische instelling die discriminatie bestrijdt en gelijke kansen bevordert: ondersteuning bij meldingen, onderzoek en advies over juridische stappen, bemiddeling of doorverwijzing.
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie#hulp]]
+
+## Verbale communicatie
+
+Alles wat je met woorden overbrengt, gesproken of geschreven: oefeningen uitleggen, feedback geven, sporters moed inspreken of corrigeren.
+
+**Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#wat-is-communiceren]]
 
 ## Verbondenheid (Basisbehoefte)
 

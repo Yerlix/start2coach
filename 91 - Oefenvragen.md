@@ -201,3 +201,43 @@ tags:
 ### 42. Welke risicofactoren kunnen seksueel grensoverschrijdend gedrag in de hand werken?
 **Antwoord:** Gelegenheden met weinig toezicht, een win-at-all-cost-cultuur, angst voor gevolgen bij het melden, een te intense coach-sporterrelatie, ongelijke machtsrelaties, negatieve groepsdynamiek, en isolatie of weinig supervisie.  
 **Bron:** [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag#preventie]]
+
+---
+
+## Bouwsteen Trainer: Voorbeeldfunctie
+
+### 43. Welke drie rollen vervult een trainer vooral, naast het aanleren van vaardigheden?
+**Antwoord:** Motivator, bewaker van een veilig sportklimaat, en voorbeeld.  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#als-trainer-ben-je-een-voorbeeld]]
+
+### 44. Waarom is het beeld dat sporters van hun trainer hebben belangrijk?
+**Antwoord:** Het groeit niet in één moment, maar uit vele kleine interacties (een compliment, een aanmoediging, een corrigerende opmerking, interesse tonen). Al die interacties samen bepalen hoe sporters later op hun trainer terugkijken, en dat geeft de trainer de kans én de verantwoordelijkheid om een blijvend positief verschil te maken.  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#als-trainer-ben-je-een-voorbeeld]]
+
+### 45. Wat is het verschil tussen verbale en non-verbale communicatie?
+**Antwoord:** Verbale communicatie is alles wat je met woorden overbrengt, gesproken of geschreven. Non-verbale communicatie is alles wat je zonder woorden laat zien of voelt: lichaamstaal, mimiek, houding, oogcontact en stemtoon. Beide zijn onlosmakelijk verbonden; als ze elkaar tegenspreken, geloven sporters meestal de non-verbale signalen.  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#wat-is-communiceren]]
+
+### 46. Wat is het doel van goede mondelinge communicatie als trainer?
+**Antwoord:** Je boodschap zo volledig mogelijk overbrengen in zo min mogelijk tijd, zodat sporters ze begrijpen zoals jij ze bedoelt.  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#mondelinge-of-verbale-communicatie]]
+
+### 47. Noem drie tips voor duidelijke mondelinge communicatie.
+**Antwoord:** Bijvoorbeeld: vraag de aandacht van je sporters voordat je een boodschap geeft, houd je uitleg kort en beperk je tot de essentie, pas je taal aan je sporter aan, of geef concrete instructies (bv. "ga bij de gele kegel staan" in plaats van "ga ergens in de zaal staan").  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#mondelinge-of-verbale-communicatie]]
+
+### 48. Waarom weegt non-verbale communicatie vaak zwaarder door dan verbale communicatie?
+**Antwoord:** Als woorden en lichaamstaal elkaar tegenspreken, geloven sporters meestal wat ze zien. Lichaamstaal geeft vaak de emotionele lading van een boodschap weer en bepaalt in grote mate hoe sporters de woorden van hun trainer interpreteren.  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#non-verbale-communicatie-of-lichaamstaal]]
+
+### 49. Welke twee hulpmiddelen kan een trainer gebruiken om zijn boodschap kracht bij te zetten?
+**Antwoord:** Demonstratie (een oefening laten voordoen, minstens één keer volledig, op tempo en technisch correct) en didactische hulpmiddelen (bord, foto's, video's, PowerPoint, tablet).  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#hulpmiddelen-om-je-non-verbale-communicatie-te-ondersteunen]]
+
+### 50. Wat zijn de vier stappen van de feedbackcirkel?
+**Antwoord:** Observeren, herkennen, reageren en bijsturen.  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#feedback-geven-en-ontvangen]]
+
+### 51. Geef twee voorbeelden van een 'do' en twee van een 'don't' bij het geven van feedback.
+**Antwoord:** Do's: vertrekken vanuit de 'ik-persoon' en positief bekrachtigen (of: veranderbaar gedrag beschrijven, informeren naar het gevoel van de ontvanger). Don'ts: vertrekken vanuit de 'wij-vorm' en enkel kritiek geven (of: veralgemenen/etiketteren, geen ruimte laten voor een reactie).  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#feedback-geven-en-ontvangen]]

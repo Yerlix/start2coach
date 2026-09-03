@@ -7,7 +7,7 @@ tags:
 
 # Examenindex
 
-> Deze index bevat de verwerkte inhoud van de modules Introductie Start 2 Coach en Bouwsteen Trainer (Inleiding, Motiverend Coachen, Hoe blessures voorkomen, Omgaan met Pesten, Omgaan met Discriminatie & Omgaan met Seksueel Grensoverschrijdend Gedrag).
+> Deze index bevat de verwerkte inhoud van de modules Introductie Start 2 Coach en Bouwsteen Trainer (Inleiding, Motiverend Coachen, Hoe blessures voorkomen, Omgaan met Pesten, Omgaan met Discriminatie, Omgaan met Seksueel Grensoverschrijdend Gedrag & Voorbeeldfunctie).
 
 ## Verwerkte onderwerpen
 
@@ -63,13 +63,19 @@ tags:
 | Preventie van SGG (club) | Beleid en afspraken, meldprocedures, training, bespreekbaarheid en een aangestelde API | [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag#preventie]] |
 | Risicofactoren voor SGG | Gelegenheden, win-at-all-cost-cultuur, angst voor gevolgen, machtsrelaties, groepsdynamiek, isolatie | [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag#preventie]] |
 | Verantwoordelijkheid trainer bij SGG | Voorkomen, herkennen/signaleren, melden/handelen en een open aanspreekcultuur creëren | [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag#mijn-verantwoordelijkheid-als-trainer]] |
+| Voorbeeldfunctie van de trainer | Sporters spiegelen zich aan het gedrag van hun trainer; het beeld groeit uit vele kleine interacties | [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#als-trainer-ben-je-een-voorbeeld]] |
+| Verbale en non-verbale communicatie | Twee onlosmakelijk verbonden sporen; bij tegenspraak geloven sporters de non-verbale signalen | [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#wat-is-communiceren]] |
+| Tips mondelinge communicatie | Aandacht vragen, kort en concreet, rekening houden met vermoeidheid, taal aanpassen aan de sporter | [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#mondelinge-of-verbale-communicatie]] |
+| Non-verbale communicatie / lichaamstaal | Gebaren, mimiek, houding, positie en stemtoon wegen vaak zwaarder door dan woorden | [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#non-verbale-communicatie-of-lichaamstaal]] |
+| Hulpmiddelen ter ondersteuning | Demonstratie en didactische hulpmiddelen (bord, video, tablet, ...) versterken je boodschap | [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#hulpmiddelen-om-je-non-verbale-communicatie-te-ondersteunen]] |
+| Feedbackcirkel | Observeren, herkennen, reageren, bijsturen | [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#feedback-geven-en-ontvangen]] |
+| Do's en don'ts bij feedback | Concreet, positief en vanuit de 'ik-persoon' tegenover kritiek, verwijten en veralgemeningen | [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#feedback-geven-en-ontvangen]] |
 
 ## Nog te verwerken
 
 | Thema | Module | Startpunt |
 |---|---|---|
 | Incidenten en foutlopen | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/03 - Wat als het foutloopt]] |
-| Voorbeeldfunctie | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie]] |
 | Ontwikkeling | Bouwsteen Sporters | [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht]] |
 | Inclusie | Bouwsteen Sporters | [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie]] |
 | Omgeving | Bouwstenen Omgeving, Leerdoelen en Methoden | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/01 - Bouwsteen Omgeving]] |
