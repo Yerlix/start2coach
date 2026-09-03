@@ -241,3 +241,39 @@ tags:
 ### 51. Geef twee voorbeelden van een 'do' en twee van een 'don't' bij het geven van feedback.
 **Antwoord:** Do's: vertrekken vanuit de 'ik-persoon' en positief bekrachtigen (of: veranderbaar gedrag beschrijven, informeren naar het gevoel van de ontvanger). Don'ts: vertrekken vanuit de 'wij-vorm' en enkel kritiek geven (of: veralgemenen/etiketteren, geen ruimte laten voor een reactie).  
 **Bron:** [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#feedback-geven-en-ontvangen]]
+
+---
+
+## Bouwsteen Sporters: Ontwikkelingsgericht
+
+### 52. Wat blijft gelijk bij elke sporter, en wat verschilt, in de ontwikkeling van kind naar volwassene?
+**Antwoord:** Elke sporter doorloopt dezelfde ontwikkelingsfasen, maar de timing en de duur van die fasen verschillen — bepaald door aanleg, talent en de omgeving (prikkels).  
+**Bron:** [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#als-trainer-zet-je-je-sporters-centraal]]
+
+### 53. Wat is het verschil tussen onderbelasting en overbelasting bij ontwikkeling?
+**Antwoord:** Onderbelasting betekent te weinig prikkels om te groeien (risico op stilstand of terugval); overbelasting betekent meer dan de sporter op dat moment aankan (risico op blessures en overtraining). Evenwicht tussen belasting en belastbaarheid is de sleutel.  
+**Bron:** [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#ontwikkeling]]
+
+### 54. Welke drie ontwikkelingsvlakken onderscheid je, en geef telkens een voorbeeld?
+**Antwoord:** Lichaam (bv. een groeispurt met tijdelijk verminderde coördinatie), geest (bv. zelf analyseren wat er beter kan na een mislukte poging) en sociaal-emotioneel (bv. een nederlaag sportief verwerken).  
+**Bron:** [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#begrippen-binnen-de-ontwikkeling]]
+
+### 55. Welke vijf factoren in de omgeving beïnvloeden de ontwikkeling van een sporter?
+**Antwoord:** Omgevingsfactoren, economische factoren, persoonlijke voorkeur en motivatie, sportieve voorgeschiedenis en persoonlijke voorgeschiedenis.  
+**Bron:** [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#beïnvloedende-factoren-in-onze-omgeving]]
+
+### 56. Wat is het verschil tussen onderontwikkeling, optimale ontwikkeling en verstoorde ontwikkeling?
+**Antwoord:** Onderontwikkeling ontstaat door te weinig prikkels (negatief gevoel, geen ontwikkeling); optimale ontwikkeling door prikkels op maat (veilige, uitdagende omgeving); verstoorde ontwikkeling door te veel prikkels (versnelde ontwikkeling, verstoring tussen of binnen ontwikkelingsvlakken).  
+**Bron:** [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#ontwikkeling-van-je-sporters]]
+
+### 57. Geef twee voorbeelden van een 'do' en twee van een 'don't' bij ontwikkelingsgericht trainen.
+**Antwoord:** Do's: oefenstof aanpassen zodat sporters bewegingsvaardigheden ontwikkelen; communicatie aanpassen aan de ontwikkelingsleeftijd. Don'ts: leerdoelen enkel baseren op de kalenderleeftijd; iedereen dezelfde oefening laten doen binnen een leeftijdsgroep (of: sporters onderling vergelijken).  
+**Bron:** [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#ontwikkeling-van-je-sporters]]
+
+### 58. Wat is het LTD-model en waarmee houdt het rekening?
+**Antwoord:** Het LTD-model (vroeger LTAD-model, Long Term Athlete Development) is een gestructureerde aanpak die trainers helpt de juiste dingen op het juiste moment te doen. Het houdt rekening met de leeftijd (ontwikkelingsleeftijd versus kalenderleeftijd), het niveau (talent, ervaring, training) en de mogelijkheden (thuissituatie, financiële middelen, kansen) van de sporter.  
+**Bron:** [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#ltd-model-als-kapstok]]
+
+### 59. Welke vier ontwikkelingsfasen van het LTD-model komen aan bod in Start 2 Coach, en wat is hun kerndoelstelling?
+**Antwoord:** Actieve start (algemene bewegingsvaardigheden, leren door spel); FUNdamenten (basisbewegingsvaardigheden, brede motorische ontwikkeling); Leer trainen (sportspecifieke vaardigheden); Blijf actief (gezondheid, ontspanning en sociale verbondenheid).  
+**Bron:** [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#ltd-model-als-kapstok]]

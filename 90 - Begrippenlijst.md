@@ -163,6 +163,12 @@ Model met de tien belangrijkste strategieën om sportblessures te voorkomen, van
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen#get-fit-2-sport-model]]
 
+## Gevoelige trainingsperioden
+
+Momenten waarop bepaalde natuurlijke ontwikkelingsprocessen extra ontvankelijk zijn voor prikkels. Als trainer heb je maar gedeeltelijk invloed op de ontwikkeling van je sporters: sommige processen verlopen vanzelf, tijdens gevoelige periodes kan je extra inspelen op natuurlijke ontwikkelingskansen.
+
+**Zie ook:** [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#ontwikkeling-van-je-sporters]]
+
 ## Gezondheidsdriehoeken (De drie)
 
 De **bewegingsdriehoek** (actief bewegen versus stilzitten), **voedingsdriehoek** (voeding en drinken) en **geluksdriehoek** (gevoel, sociale steun, jezelf kunnen zijn), die samen gezond en duurzaam sporten ondersteunen.
@@ -186,6 +192,12 @@ Vorm van gecontroleerde motivatie waarbij de druk vanuit de sporter zelf komt (z
 Non-verbale communicatie via gebaren, mimiek, houding, positie in de ruimte en stemtoon. Weegt vaak zwaarder door dan woorden: bij tegenspraak tussen wat je zegt en uitstraalt, geloven sporters meestal wat ze zien.
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#non-verbale-communicatie-of-lichaamstaal]]
+
+## LTD-model
+
+Gestructureerde aanpak (vroeger het LTAD-model, Long Term Athlete Development) die trainers helpt de juiste dingen op het juiste moment te doen. Onderscheidt onder meer de fasen Actieve start, FUNdamenten, Leer trainen (en later Train to Train, Train to Compete, Train to Win) en Blijf actief.
+
+**Zie ook:** [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#ltd-model-als-kapstok]]
 
 ## Lumbale bracing
 
@@ -229,11 +241,41 @@ Alles wat je zonder woorden laat zien of voelt: lichaamstaal, mimiek, houding, o
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#wat-is-communiceren]]
 
+## Omgevingsfactoren (ontwikkeling)
+
+Verzamelnaam voor de externe invloeden die mee bepalen hoe de ontwikkeling van een sporter verloopt: de fysieke/sociale omgeving, economische factoren, persoonlijke voorkeur en motivatie, en de sportieve en persoonlijke voorgeschiedenis.
+
+**Zie ook:** [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#beïnvloedende-factoren-in-onze-omgeving]]
+
 ## Omgevingsrisicofactoren
 
 Risicofactoren voor blessures die te maken hebben met de omstandigheden waarin gesport wordt, zoals trainingsbelasting, sportmateriaal, accommodatie, weersomstandigheden, spelregels en begeleiding.
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen#hoe-ontstaan-sportblessures]]
+
+## Onderontwikkeling
+
+Gevolg van te weinig prikkels vanuit trainer of omgeving: de sporter kan zich niet ontwikkelen binnen de sportomgeving en krijgt een negatief gevoel.
+
+**Zie ook:** [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#ontwikkeling-van-je-sporters]]
+
+## Ontwikkelingsleeftijd
+
+De leeftijd die overeenkomt met het werkelijke ontwikkelingsniveau van een sporter, in tegenstelling tot de kalenderleeftijd. Trainers stemmen leerdoelen, methoden en communicatie best af op de ontwikkelingsleeftijd.
+
+**Zie ook:** [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#ontwikkeling-van-je-sporters]]
+
+## Ontwikkelingsvlakken
+
+De drie samenhangende vlakken waarop ontwikkeling zich afspeelt: **lichaam** (lengte, gewicht, spiergroei), **geest** (leervermogen, karakter, zelfreflectie) en **sociaal-emotioneel** (samenwerken, feedback, omgaan met winst/verlies). Elk vlak heeft zijn eigen tempo.
+
+**Zie ook:** [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#begrippen-binnen-de-ontwikkeling]]
+
+## Optimale ontwikkeling
+
+Gevolg van prikkels op maat van de sporter: hij ontwikkelt zich in een veilige en uitdagende omgeving, waarbij de trainer leerdoelen en methoden aanpast aan de sporter.
+
+**Zie ook:** [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#ontwikkeling-van-je-sporters]]
 
 ## Pedagogische Pijlers
 
@@ -258,6 +300,12 @@ Ongewenst, herhaald en opzettelijk negatief gedrag, meestal onder leeftijdsgenot
 Gedrag tussen gelijkwaardige partijen dat af en toe en spontaan gebeurt, zonder kwade bedoelingen — in tegenstelling tot pesten, waarbij een machtsonevenwicht en herhaling meespelen.
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/04 - Omgaan met Pesten#plagen-of-pesten]]
+
+## Prikkels
+
+Alle mogelijke impulsen die invloed hebben op een sporter: sportactiviteiten, trainingen, opdrachten van de trainer, voeding, druk of sportkleding. De hoeveelheid prikkels moet worden afgestemd op de sporter.
+
+**Zie ook:** [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#ontwikkeling-van-je-sporters]]
 
 ## Sportblessure
 
@@ -306,6 +354,12 @@ De psychologische basisbehoefte aan een warme, respectvolle en hechte band met a
 In Start 2 Coach: trainingen motiverend, veilig en op maat van de sporter geven.
 
 **Zie ook:** [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#wat-mag-ik-inhoudelijk-verwachten]]
+
+## Verstoorde ontwikkeling
+
+Gevolg van te veel prikkels vanuit trainer of omgeving: de sporter wordt verplicht snel "volwassen" te worden en doorloopt een versnelde ontwikkeling, met een verstoring tussen of binnen de ontwikkelingsvlakken.
+
+**Zie ook:** [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#ontwikkeling-van-je-sporters]]
 
 ## Vlaggensysteem
 

@@ -7,7 +7,7 @@ tags:
 
 # Examenindex
 
-> Deze index bevat de verwerkte inhoud van de modules Introductie Start 2 Coach en Bouwsteen Trainer (Inleiding, Motiverend Coachen, Hoe blessures voorkomen, Omgaan met Pesten, Omgaan met Discriminatie, Omgaan met Seksueel Grensoverschrijdend Gedrag & Voorbeeldfunctie).
+> Deze index bevat de verwerkte inhoud van de modules Introductie Start 2 Coach, Bouwsteen Trainer (Inleiding, Motiverend Coachen, Hoe blessures voorkomen, Omgaan met Pesten, Omgaan met Discriminatie, Omgaan met Seksueel Grensoverschrijdend Gedrag & Voorbeeldfunctie) en Bouwsteen Sporters (Ontwikkelingsgericht).
 
 ## Verwerkte onderwerpen
 
@@ -70,13 +70,20 @@ tags:
 | Hulpmiddelen ter ondersteuning | Demonstratie en didactische hulpmiddelen (bord, video, tablet, ...) versterken je boodschap | [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#hulpmiddelen-om-je-non-verbale-communicatie-te-ondersteunen]] |
 | Feedbackcirkel | Observeren, herkennen, reageren, bijsturen | [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#feedback-geven-en-ontvangen]] |
 | Do's en don'ts bij feedback | Concreet, positief en vanuit de 'ik-persoon' tegenover kritiek, verwijten en veralgemeningen | [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#feedback-geven-en-ontvangen]] |
+| Ontwikkelingsgericht trainen | Inspelen op de unieke groeicurve van elke sporter; dezelfde ontwikkelingsfasen, maar timing en tempo verschillen | [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#als-trainer-zet-je-je-sporters-centraal]] |
+| Prikkels en ontwikkeling | Te weinig prikkels → onderontwikkeling; prikkels op maat → optimale ontwikkeling; te veel prikkels → verstoorde ontwikkeling | [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#ontwikkeling-van-je-sporters]] |
+| Belasting en belastbaarheid (ontwikkeling) | Onderbelasting = stilstand; overbelasting = blessurerisico; evenwicht is de sleutel | [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#ontwikkeling]] |
+| Drie ontwikkelingsvlakken | Lichaam, geest en sociaal-emotioneel, elk met een eigen tempo | [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#begrippen-binnen-de-ontwikkeling]] |
+| Omgevingsfactoren bij ontwikkeling | Omgevings-, economische, persoonlijke voorkeur/motivatie-, sportieve en persoonlijke voorgeschiedenis-factoren | [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#beïnvloedende-factoren-in-onze-omgeving]] |
+| Gevoelige trainingsperioden | Momenten extra ontvankelijk voor prikkels; trainer heeft maar gedeeltelijk invloed op ontwikkeling | [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#ontwikkeling-van-je-sporters]] |
+| LTD-model | Long Term Athlete Development; helpt trainer de juiste dingen op het juiste moment te doen | [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#ltd-model-als-kapstok]] |
+| Fasen van het LTD-model | Actieve start, FUNdamenten, Leer trainen en Blijf actief (Start 2 Coach); Train to Train/Compete/Win in vervolgopleidingen | [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#ltd-model-als-kapstok]] |
 
 ## Nog te verwerken
 
 | Thema | Module | Startpunt |
 |---|---|---|
 | Incidenten en foutlopen | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/03 - Wat als het foutloopt]] |
-| Ontwikkeling | Bouwsteen Sporters | [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht]] |
 | Inclusie | Bouwsteen Sporters | [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie]] |
 | Omgeving | Bouwstenen Omgeving, Leerdoelen en Methoden | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/01 - Bouwsteen Omgeving]] |
 | Leerdoelen | Bouwstenen Omgeving, Leerdoelen en Methoden | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/02 - Bouwsteen Leerdoelen]] |
