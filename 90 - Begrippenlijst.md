@@ -103,6 +103,12 @@ De rode draad van Start 2 Coach. Het model bestaat uit vijf bouwstenen: trainer,
 
 **Zie ook:** bouwstenen, pedagogische pijlers.
 
+## Discretieplicht
+
+De verplichting om bij een melding van seksueel grensoverschrijdend gedrag enkel de mensen te betrekken die nodig zijn om de situatie op te volgen — in tegenstelling tot een beroepsgeheim (dat trainers niet hebben), waarbij niets gedeeld mag worden.
+
+**Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag#melding]]
+
 ## Discriminatie
 
 Ongewenst onderscheid, uitsluiting of kleinerende behandeling op basis van bv. afkomst, gender, seksuele geaardheid, leeftijd of beperking. Komt vaker voor dan gedacht — ook subtiel of onbewust — en ontstaat vaak uit onwetendheid, stereotypen, generaliseren of een gebrek aan respect.
@@ -162,6 +168,18 @@ Vorm van gecontroleerde motivatie waarbij de druk vanuit de sporter zelf komt (z
 De romp doelgericht aanspannen om de onderrug en romp te stabiliseren, bijvoorbeeld tijdens rompstabilisatietraining.
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen#get-fit-2-sport-model]]
+
+## Meldplicht
+
+De verplichting van het bestuur of de club-API om, zodra zij op de hoogte zijn van ernstige feiten van seksueel grensoverschrijdend gedrag, dit extern te melden (bv. bij politie of sportfederatie) — ook als het slachtoffer dit niet wil.
+
+**Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag#melding]]
+
+## Meldverantwoordelijkheid
+
+De verantwoordelijkheid van trainers en sportbegeleiders om een vermoeden van seksueel grensoverschrijdend gedrag intern te melden bij de club-API of het bestuur — ook tegen de wil van het slachtoffer in.
+
+**Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag#melding]]
 
 ## Multifactoriële aanpak
 
@@ -252,3 +270,9 @@ De psychologische basisbehoefte aan een warme, respectvolle en hechte band met a
 In Start 2 Coach: trainingen motiverend, veilig en op maat van de sporter geven.
 
 **Zie ook:** [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#wat-mag-ik-inhoudelijk-verwachten]]
+
+## Vlaggensysteem
+
+Instrument ('Sport met Grenzen', Sensoa/ICES) om seksueel (grensoverschrijdend) gedrag te beoordelen aan de hand van zes criteria en te classificeren met vier kleurvlaggen: groen, geel, rood of zwart.
+
+**Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag#vlaggensysteem]]

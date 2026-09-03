@@ -7,7 +7,7 @@ tags:
 
 # Examenindex
 
-> Deze index bevat de verwerkte inhoud van de modules Introductie Start 2 Coach en Bouwsteen Trainer (Inleiding, Motiverend Coachen, Hoe blessures voorkomen, Omgaan met Pesten & Omgaan met Discriminatie).
+> Deze index bevat de verwerkte inhoud van de modules Introductie Start 2 Coach en Bouwsteen Trainer (Inleiding, Motiverend Coachen, Hoe blessures voorkomen, Omgaan met Pesten, Omgaan met Discriminatie & Omgaan met Seksueel Grensoverschrijdend Gedrag).
 
 ## Verwerkte onderwerpen
 
@@ -54,13 +54,21 @@ tags:
 | Handelingsprotocol | Flexibel stappenplan voor het volledige traject, van melding tot nazorg; na elke zaak geëvalueerd | [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie#opvolgen-van-een-situatie]] |
 | Preventie van discriminatie (club) | Drie stappen: inclusief sportklimaat creëren, draagvlak creëren, samenwerken met andere clubs en partners | [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie#als-club]] |
 | Hulp bij discriminatie | Binnen sportwereld (club-API, sportfederatie, Sportieq, Dēmos) en buiten (Unia, RoSa/Çavaria/Grip vzw, Vlaams Sporttribunaal, politie) | [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie#hulp]] |
+| Seksueel grensoverschrijdend gedrag (SGG) | Elke vorm van gedrag met een seksuele ondertoon dat de waardigheid aantast of een kwetsende omgeving creëert; de grens ligt bij wie het ervaart | [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag#sgg-of-niet]] |
+| Gradaties van SGG | Van nafluiten/naroepen tot verkrachting (Sportieq-continuüm) | [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag#vele-vormen-en-gradaties]] |
+| Signalen van SGG | Gedragsverandering (fysiek, mentaal, in sportgedrag) is het belangrijkste signaal | [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag#signalen-van-sgg]] |
+| Vlaggensysteem | Sport met Grenzen (Sensoa/ICES): zes criteria en vier kleurvlaggen om gedrag te beoordelen | [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag#vlaggensysteem]] |
+| Functionele aanraking | Toegestaan als sporttechnisch/veiligheidshalve nodig, in een sportsituatie, met uitleg en toestemming | [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag#gedragsregels]] |
+| Melding van SGG | Trainers hebben meldverantwoordelijkheid, bestuur/club-API hebben meldplicht; geen beroepsgeheim, wel discretieplicht | [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag#melding]] |
+| Preventie van SGG (club) | Beleid en afspraken, meldprocedures, training, bespreekbaarheid en een aangestelde API | [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag#preventie]] |
+| Risicofactoren voor SGG | Gelegenheden, win-at-all-cost-cultuur, angst voor gevolgen, machtsrelaties, groepsdynamiek, isolatie | [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag#preventie]] |
+| Verantwoordelijkheid trainer bij SGG | Voorkomen, herkennen/signaleren, melden/handelen en een open aanspreekcultuur creëren | [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag#mijn-verantwoordelijkheid-als-trainer]] |
 
 ## Nog te verwerken
 
 | Thema | Module | Startpunt |
 |---|---|---|
 | Incidenten en foutlopen | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/03 - Wat als het foutloopt]] |
-| Seksueel grensoverschrijdend gedrag | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag]] |
 | Voorbeeldfunctie | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie]] |
 | Ontwikkeling | Bouwsteen Sporters | [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht]] |
 | Inclusie | Bouwsteen Sporters | [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie]] |

@@ -165,3 +165,39 @@ tags:
 ### 34. Bij welke organisatie kan je terecht als je buiten de sportwereld hulp zoekt bij discriminatie, en wat doet ze?
 **Antwoord:** Unia, de onafhankelijke Belgische instelling die discriminatie bestrijdt en gelijke kansen bevordert: ondersteuning bij meldingen, onderzoek en advies over juridische stappen, bemiddeling of doorverwijzing.  
 **Bron:** [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie#hulp]]
+
+---
+
+## Bouwsteen Trainer: Omgaan met Seksueel Grensoverschrijdend Gedrag
+
+### 35. Wat is de definitie van seksueel grensoverschrijdend gedrag (SGG)?
+**Antwoord:** Elke vorm van gedrag of toenadering — verbaal, non-verbaal, digitaal of fysiek — met een seksuele ondertoon, dat tot doel of gevolg heeft de waardigheid van een persoon aan te tasten of een bedreigende, vernederende of kwetsende omgeving te creëren.  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag#sgg-of-niet]]
+
+### 36. Waar ligt de grens bij het beoordelen of gedrag seksueel grensoverschrijdend is?
+**Antwoord:** Bij wie het gedrag ervaart. Voelt iemand zich ongemakkelijk, geïntimideerd of bedreigd, dan is het grensoverschrijdend — ongeacht de intentie van de ander.  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag#vele-vormen-en-gradaties]]
+
+### 37. Wat zijn de zes criteria en vier kleurvlaggen van het Vlaggensysteem?
+**Antwoord:** Zes beoordelingscriteria: wederzijdse toestemming, vrijwilligheid, gelijkwaardigheid, leeftijdsadequaat, contextgebonden en geen negatieve impact. Op basis daarvan krijgt gedrag een vlag: groen (oké), geel (twijfelachtig), rood (ernstig) of zwart (zeer ernstig).  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag#vlaggensysteem]]
+
+### 38. Wanneer wordt een functionele aanraking (bv. om een techniek te corrigeren) grensoverschrijdend?
+**Antwoord:** Wanneer ze te vaak of op een ongepaste manier gebeurt, gepaard gaat met dubbelzinnige opmerkingen, of te lang aanhoudt. Aanraken mag enkel als het sporttechnisch of veiligheidshalve nodig is, in een sportsituatie, met uitleg en toestemming van de sporter.  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag#gedragsregels]]
+
+### 39. Wat zijn de vijf feedbackregels om een collega aan te spreken op grensoverschrijdend gedrag?
+**Antwoord:** Benoem het feitelijke gedrag dat je hebt gezien, geef je eigen gevoel daarbij weer, reflecteer op het mogelijke effect op de sporter, vraag of je collega dit zelf herkent, en maak samen afspraken.  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag#gedragsregels]]
+
+### 40. Wat zijn de vier elementen van een goede reactie op een onthulling van SGG door een sporter?
+**Antwoord:** "Ik geloof wat je zegt", "het is niet jouw schuld", "ik ben blij dat je me dit vertelt" en "ik zal je zo goed mogelijk helpen".  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag#melding]]
+
+### 41. Wat is het verschil tussen de meldverantwoordelijkheid van een trainer en de meldplicht van het bestuur/de club-API?
+**Antwoord:** Trainers en sportbegeleiders hebben een meldverantwoordelijkheid: bij een vermoeden van SGG moeten ze dit intern melden bij de club-API of het bestuur, ook tegen de wil van het slachtoffer in. Bestuur en club-API hebben een meldplicht: zodra zij weten van ernstige feiten, zijn ze verplicht dit extern te melden (bv. bij politie of sportfederatie), ook als het slachtoffer dit niet wil.  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag#melding]]
+
+### 42. Welke risicofactoren kunnen seksueel grensoverschrijdend gedrag in de hand werken?
+**Antwoord:** Gelegenheden met weinig toezicht, een win-at-all-cost-cultuur, angst voor gevolgen bij het melden, een te intense coach-sporterrelatie, ongelijke machtsrelaties, negatieve groepsdynamiek, en isolatie of weinig supervisie.  
+**Bron:** [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag#preventie]]
