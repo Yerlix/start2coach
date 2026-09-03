@@ -85,6 +85,12 @@ Alles wat je van het lichaam vraagt tijdens en rond sport, bijvoorbeeld training
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen#belasting-en-belastbaarheid]]
 
+## Blijf in beweging
+
+Platform van Sport Vlaanderen rond spierkracht en evenwicht als sleutel om ouderen vitaal, zelfstandig en actief te houden. Biedt onder meer een platform, een inspiratiedag, een podcast en een factsheet als bronnen.
+
+**Zie ook:** [[02 - Modules/05 - Methodieken in de praktijk/01 - Start 2 Coach - Methodieken in de praktijk#platform-blijf-in-beweging]]
+
 ## Bouwstenen
 
 De vijf onderdelen van het didactisch model: **Trainer, Sporters, Omgeving, Leerdoelen en Methoden**. Samen vormen ze het fundament waarmee je elke training vormgeeft.
@@ -205,6 +211,12 @@ Minder duurzame vorm van motivatie ('moeten') gedreven door **interne druk** (sc
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#2-gecontroleerde-motivatie-moeten]]
 
+## Geef tieners een stem
+
+Project van Sport Vlaanderen dat sportclubs helpt om mét tieners te praten in plaats van over tieners, zodat tieners kunnen aangeven wat er goed of niet goed loopt. Biedt zes concrete tools, elk gekoppeld aan een specifieke vraag of behoefte van de trainer.
+
+**Zie ook:** [[02 - Modules/05 - Methodieken in de praktijk/01 - Start 2 Coach - Methodieken in de praktijk#tools-geef-tieners-een-stem]]
+
 ## Get Fit 2 Sport-model
 
 Model met de tien belangrijkste strategieën om sportblessures te voorkomen, van aangepast materiaal en opwarming tot balans-, kracht- en rompstabilisatietraining.
@@ -240,6 +252,12 @@ Het optimaal inzetten van ruimte, materiaal en de opstelling van trainer en spor
 Flexibel, levend stappenplan voor het interventie- en hulpverleningstraject bij een melding — van aankomst van de melding tot nazorg ("van A tot Z"). Wordt na elke afgehandelde zaak geëvalueerd en bijgestuurd.
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie#opvolgen-van-een-situatie]]
+
+## Impact op het hoofd
+
+Project dat wijst op het belang van hoofdblessures voorkomen en weten hoe te reageren wanneer ze zich toch voordoen, samengevat als "Sport slim, bescherm je hoofd." Biedt een informatieve video en een e-module (VTS-bijscholing).
+
+**Zie ook:** [[02 - Modules/05 - Methodieken in de praktijk/01 - Start 2 Coach - Methodieken in de praktijk#e-learning-een-impact-op-het-hoofd]]
 
 ## Inclusieve trainer
 

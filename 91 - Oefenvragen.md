@@ -413,3 +413,19 @@ tags:
 ### 89. Wat is het verschil tussen afspraken, spelregels en speelregels? Geef telkens een voorbeeld.
 **Antwoord:** Afspraken zijn regels die je als trainer met je sporters maakt om de training vlot te laten verlopen (bv. iedereen is 15 minuten op voorhand aanwezig). Spelregels zijn de officiële regels van de sport (bv. bij U9 wordt er 5v5 gespeeld). Speelregels zijn aangepaste of extra regels die je in je training gebruikt om het leerdoel beter te bereiken (bv. een bal mag 2x botsen bij tennis).  
 **Bron:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#afspraken-spelregels-en-speelregels]]
+
+---
+
+## Methodieken in de praktijk
+
+### 90. Wat is het doel van het project 'Geef tieners een stem', en wat biedt het aan trainers?
+**Antwoord:** Het project van Sport Vlaanderen zorgt ervoor dat er mét tieners gesproken wordt in plaats van over tieners, zodat zij kunnen aangeven wat er goed of niet goed loopt tijdens een training of in de clubwerking. Het biedt zes concrete tools, elk gekoppeld aan een specifieke vraag of behoefte van de trainer.  
+**Bron:** [[02 - Modules/05 - Methodieken in de praktijk/01 - Start 2 Coach - Methodieken in de praktijk#tools-geef-tieners-een-stem]]
+
+### 91. Wat is de kernboodschap van het project 'Een impact op het hoofd'?
+**Antwoord:** Dat sportclubs en trainers oog moeten hebben voor mogelijke (onzichtbare) hoofdblessures, deze zoveel mogelijk moeten voorkomen, en moeten weten hoe te reageren wanneer ze zich toch voordoen. Samengevat als: "Sport slim, bescherm je hoofd."  
+**Bron:** [[02 - Modules/05 - Methodieken in de praktijk/01 - Start 2 Coach - Methodieken in de praktijk#e-learning-een-impact-op-het-hoofd]]
+
+### 92. Waarop focust het platform 'Blijf in beweging'?
+**Antwoord:** Op spierkracht en evenwicht als sleutel om ouderen vitaal en fit te houden, en op hoe je ouderen niet enkel de kans geeft om actief te blijven, maar hen ook effectief stimuleert en ondersteunt — met een omgeving waarin bewegen vanzelfsprekend wordt voor iedereen.  
+**Bron:** [[02 - Modules/05 - Methodieken in de praktijk/01 - Start 2 Coach - Methodieken in de praktijk#platform-blijf-in-beweging]]

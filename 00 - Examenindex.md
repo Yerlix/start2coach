@@ -7,7 +7,7 @@ tags:
 
 # Examenindex
 
-> Deze index bevat de verwerkte inhoud van de modules Introductie Start 2 Coach, Bouwsteen Trainer (Inleiding, Motiverend Coachen, Hoe blessures voorkomen, Omgaan met Pesten, Omgaan met Discriminatie, Omgaan met Seksueel Grensoverschrijdend Gedrag & Voorbeeldfunctie), Bouwsteen Sporters (Ontwikkelingsgericht, Inclusie) en Bouwstenen Omgeving, Leerdoelen en Methoden (Omgeving, Leerdoelen, Methoden).
+> Deze index bevat de verwerkte inhoud van de modules Introductie Start 2 Coach, Bouwsteen Trainer (Inleiding, Motiverend Coachen, Hoe blessures voorkomen, Omgaan met Pesten, Omgaan met Discriminatie, Omgaan met Seksueel Grensoverschrijdend Gedrag & Voorbeeldfunctie), Bouwsteen Sporters (Ontwikkelingsgericht, Inclusie), Bouwstenen Omgeving, Leerdoelen en Methoden (Omgeving, Leerdoelen, Methoden) en Methodieken in de praktijk.
 
 ## Verwerkte onderwerpen
 
@@ -105,10 +105,12 @@ tags:
 | Differentiëren (methode) | Training aanpassen aan individueel niveau, ritme, mogelijkheden en interesses; sporters spelen een actieve rol | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#differentiëren]] |
 | Opbouwen en afdalen | Oefening stapsgewijs moeilijker (opbouwen) of makkelijker (afdalen) maken | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#opbouwen-en-afdalen]] |
 | Afspraken, spelregels en speelregels | Organisatorische regels, officiële sportregels en aangepaste/extra trainingsregels | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#afspraken-spelregels-en-speelregels]] |
+| Geef tieners een stem | Sport Vlaanderen-project: mét tieners praten in plaats van over tieners, met zes tools per vraag of behoefte | [[02 - Modules/05 - Methodieken in de praktijk/01 - Start 2 Coach - Methodieken in de praktijk#tools-geef-tieners-een-stem]] |
+| Impact op het hoofd | Hoofdblessures voorkomen en weten hoe te reageren — "Sport slim, bescherm je hoofd" | [[02 - Modules/05 - Methodieken in de praktijk/01 - Start 2 Coach - Methodieken in de praktijk#e-learning-een-impact-op-het-hoofd]] |
+| Blijf in beweging | Platform rond spierkracht en evenwicht om ouderen vitaal, zelfstandig en actief te houden | [[02 - Modules/05 - Methodieken in de praktijk/01 - Start 2 Coach - Methodieken in de praktijk#platform-blijf-in-beweging]] |
 
 ## Nog te verwerken
 
 | Thema | Module | Startpunt |
 |---|---|---|
 | Incidenten en foutlopen | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/03 - Wat als het foutloopt]] |
-| Methodieken | Methodieken in de praktijk | [[02 - Modules/05 - Methodieken in de praktijk/01 - Start 2 Coach - Methodieken in de praktijk]] |
