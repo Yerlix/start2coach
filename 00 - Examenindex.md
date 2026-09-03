@@ -7,7 +7,7 @@ tags:
 
 # Examenindex
 
-> Deze index bevat de verwerkte inhoud van de modules Introductie Start 2 Coach, Bouwsteen Trainer (Inleiding, Motiverend Coachen, Hoe blessures voorkomen, Omgaan met Pesten, Omgaan met Discriminatie, Omgaan met Seksueel Grensoverschrijdend Gedrag & Voorbeeldfunctie), Bouwsteen Sporters (Ontwikkelingsgericht, Inclusie) en Bouwstenen Omgeving, Leerdoelen en Methoden (Omgeving).
+> Deze index bevat de verwerkte inhoud van de modules Introductie Start 2 Coach, Bouwsteen Trainer (Inleiding, Motiverend Coachen, Hoe blessures voorkomen, Omgaan met Pesten, Omgaan met Discriminatie, Omgaan met Seksueel Grensoverschrijdend Gedrag & Voorbeeldfunctie), Bouwsteen Sporters (Ontwikkelingsgericht, Inclusie) en Bouwstenen Omgeving, Leerdoelen en Methoden (Omgeving, Leerdoelen).
 
 ## Verwerkte onderwerpen
 
@@ -92,6 +92,11 @@ tags:
 | Sporttakspecifiek versus didactisch materiaal | Sporttakspecifiek (bv. tennisracket, kimono) tegenover didactisch (bv. kegels, fluitjes, doeltjes) | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/01 - Bouwsteen Omgeving#het-aanwezige-materiaal]] |
 | Materiaal afstemmen op niveau | Verkeerd materiaal kan blessures veroorzaken; goed gekozen materiaal versterkt motivatie en zelfvertrouwen | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/01 - Bouwsteen Omgeving#het-aanwezige-materiaal]] |
 | Veilige en uitdagende omgeving | Veiligheid is de basis; oefeningen net boven niveau zorgen voor competentiegevoel en succesbeleving | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/01 - Bouwsteen Omgeving#een-veilige-en-uitdagende-omgeving]] |
+| Beginsituatie als uitgangspunt | Verwachtingen/motivatie, rugzak/drempels, ontwikkelingsniveau, sociale omgeving, fysieke omgeving | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/02 - Bouwsteen Leerdoelen#start-vanuit-de-beginsituatie]] |
+| Leerlijn | Richtlijn voor structuur en planning, geen strikte regel — individuele verschillen vragen aanpassing | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/02 - Bouwsteen Leerdoelen#start-vanuit-de-beginsituatie]] |
+| Indeling van leerdoelen | Naar tijdshorizon, haalbaarheid, ontwikkelingsvlak (lichamelijk/geestelijk/sociaal) en controleerbaarheid | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/02 - Bouwsteen Leerdoelen#verschillende-soorten-leerdoelen]] |
+| Vijf elementen van een glashelder leerdoel | Richting (wie), vaardigheden, soort situatie, minimale eis, tijd | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/02 - Bouwsteen Leerdoelen#verschillende-soorten-leerdoelen]] |
+| Drie delen van een training | Opwarming, kern en slot/cooling-down, elk met een eigen doel in het leerproces | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/02 - Bouwsteen Leerdoelen#een-weldoordachte-trainingsopbouw]] |
 
 ## Nog te verwerken
 

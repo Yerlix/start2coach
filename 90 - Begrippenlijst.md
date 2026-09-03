@@ -49,6 +49,12 @@ Kwalitatief hoogwaardige en duurzame vorm van motivatie ('willen'). Gevoed door 
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#3-autonome-motivatie-willen]]
 
+## Beginsituatie
+
+De uitgangspositie van een sporter: wie hij is, wat hij al kan en waar zijn uitdagingen liggen. Het belangrijkste uitgangspunt om leerdoelen te kiezen — bepaald aan de hand van verwachtingen/motivatie, rugzak/drempels, ontwikkelingsniveau, sociale omgeving en fysieke omgeving.
+
+**Zie ook:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/02 - Bouwsteen Leerdoelen#start-vanuit-de-beginsituatie]]
+
 ## Belastbaarheid
 
 Wat het lichaam van een sporter op een bepaald moment kan verdragen of aankan, bijvoorbeeld conditie, kracht, herstel, slaap, leeftijd en blessureverleden.
@@ -211,6 +217,18 @@ Vorm van gecontroleerde motivatie waarbij de druk vanuit de sporter zelf komt (z
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#2-gecontroleerde-motivatie-moeten]]
 
+## Leerdoel
+
+Een concreet, glashelder omschreven doel dat een sporter moet bereiken. Combineert best vijf elementen: richting (wie), de vaardigheden die je wilt bereiken, het soort situatie, de minimale eis en de tijd. Kan ingedeeld worden naar tijdshorizon, haalbaarheid, ontwikkelingsvlak (lichamelijk/geestelijk/sociaal) en controleerbaarheid.
+
+**Zie ook:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/02 - Bouwsteen Leerdoelen#verschillende-soorten-leerdoelen]]
+
+## Leerlijn
+
+Een structuur die helpt bij het plannen van leerdoelen en trainingen doorheen de tijd. Geeft een algemeen kader, maar is geen strikte regel: individuele verschillen tussen sporters vragen aanpassingen van leerdoelen en oefenstof.
+
+**Zie ook:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/02 - Bouwsteen Leerdoelen#start-vanuit-de-beginsituatie]]
+
 ## Lichaamstaal
 
 Non-verbale communicatie via gebaren, mimiek, houding, positie in de ruimte en stemtoon. Weegt vaak zwaarder door dan woorden: bij tegenspraak tussen wat je zegt en uitstraalt, geloven sporters meestal wat ze zien.
@@ -372,6 +390,12 @@ Een rekpositie aanhouden zonder beweging, toegepast tijdens de cooling-down of e
 Motiverende coachstijl met grote coachsturing waarbij de coach duidelijke verwachtingen communiceert, houvast biedt, passende feedback geeft en voldoende uitdaagt.
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#structuur]]
+
+## Trainingsopbouw
+
+De structuur van een training in drie delen: een opwarming (fysiek en psychisch), een kern (leren of beleving, met haltemomenten en feedback) en een slot of cooling-down (fysiek en mentaal tot rust komen). Elk deel heeft een eigen doel in het leerproces.
+
+**Zie ook:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/02 - Bouwsteen Leerdoelen#een-weldoordachte-trainingsopbouw]]
 
 ## Unia
 

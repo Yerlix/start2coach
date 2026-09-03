@@ -341,3 +341,35 @@ tags:
 ### 73. Waarom volstaat een veilige omgeving alleen niet, en waar let je op bij het creëren van uitdaging?
 **Antwoord:** Een veilige omgeving is de basis voor leren, maar sporters hebben ook uitdaging nodig: oefeningen net boven hun niveau vergroten hun competentiegevoel en zorgen voor succesbeleving. Daarbij houd je rekening met het niveau en de verschillen tussen sporters, en betrek je hen bij keuzes om hun autonomie en motivatie te versterken.  
 **Bron:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/01 - Bouwsteen Omgeving#een-veilige-en-uitdagende-omgeving]]
+
+---
+
+## Bouwstenen Omgeving, Leerdoelen en Methoden: Leerdoelen
+
+### 74. Wat is het belangrijkste uitgangspunt om leerdoelen te kiezen?
+**Antwoord:** De beginsituatie van de sporters — niet het beschikbare materiaal en niet de oefenstof die de trainer zelf het leukst vindt.  
+**Bron:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/02 - Bouwsteen Leerdoelen#leerdoelen]]
+
+### 75. Welke vijf factoren helpen je om de beginsituatie van je sporters goed in te schatten?
+**Antwoord:** Verwachtingen en motivatie, eventuele rugzak of drempels, ontwikkelings- en vaardigheidsniveau, sociale omgeving en fysieke omgeving.  
+**Bron:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/02 - Bouwsteen Leerdoelen#start-vanuit-de-beginsituatie]]
+
+### 76. Klopt de stelling: "Een leerlijn moet altijd door alle sporters van de groep gevolgd worden"? Waarom (niet)?
+**Antwoord:** Nee. Een leerlijn helpt bij het structureren van leerdoelen en het plannen van trainingen, maar geeft enkel een algemeen kader. Individuele verschillen in niveau, motivatie en achtergrond vragen aanpassingen van leerdoelen en oefenstof.  
+**Bron:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/02 - Bouwsteen Leerdoelen#start-vanuit-de-beginsituatie]]
+
+### 77. Langs welke vier assen kan je leerdoelen indelen?
+**Antwoord:** Naar tijdshorizon (kort/middellang/lang), naar haalbaarheid (bereikbaar/onbereikbaar), naar ontwikkelingsvlak (lichamelijk/geestelijk/sociaal) en naar controleerbaarheid (controleerbaar/oncontroleerbaar).  
+**Bron:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/02 - Bouwsteen Leerdoelen#verschillende-soorten-leerdoelen]]
+
+### 78. Waarom moeten leerdoelen tegelijk uitdagend én haalbaar zijn?
+**Antwoord:** Te makkelijke doelen leiden tot verveling en demotivatie; te moeilijke doelen tot frustratie en angst. Tijdens de training pas je doelen aan op basis van succeservaringen en feedback, zodat ze net boven het niveau van de sporter blijven.  
+**Bron:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/02 - Bouwsteen Leerdoelen#verschillende-soorten-leerdoelen]]
+
+### 79. Uit welke vijf elementen combineer je best een glashelder leerdoel? Illustreer met een voorbeeld.
+**Antwoord:** Richting (wie?), de vaardigheden die je wilt bereiken, het soort situatie, de minimale eis en de tijd. Bijvoorbeeld: "De kinderen (richting) kunnen scoren met lay-up (vaardigheid) in een wedstrijd drie tegen drie (situatie) minstens twee keer (minimale eis) tegen het einde van de lessenreeks (tijd)."  
+**Bron:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/02 - Bouwsteen Leerdoelen#verschillende-soorten-leerdoelen]]
+
+### 80. Uit welke drie delen bestaat een training, en wat is het doel van elk deel?
+**Antwoord:** De opwarming (fysiek en psychisch klaarmaken), de kern (leren of beleving centraal, met haltemomenten en gerichte feedback) en het slot of de cooling-down (fysiek en mentaal tot rust komen, eventueel een gesprek over de training).  
+**Bron:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/02 - Bouwsteen Leerdoelen#een-weldoordachte-trainingsopbouw]]
