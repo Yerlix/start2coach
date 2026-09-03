@@ -2,7 +2,7 @@
 title: Bouwsteen Methoden
 module: Bouwstenen Omgeving, Leerdoelen en Methoden
 onderdeel: Methoden
-status: in verwerking
+status: inhoudelijk voltooid
 bron: E-learning screenshots/HTML
 tags:
   - start2coach
@@ -121,10 +121,47 @@ Enkele concrete differentiatietechnieken:
 
 Kortom: differentiëren is flexibel inspelen op de verschillen tussen sporters, zodat iedereen maximaal leert én plezier beleeft.
 
+## Opbouwen en afdalen
+
+Bij **differentiëren** pas je de oefenstof aan het niveau van je sporters aan. Bij **opbouwen** en **afdalen** kijk je niet alleen naar het huidige niveau, maar ook naar de **vooruitgang** van je sporters.
+
+- **Opbouwen:** een oefening stapsgewijs moeilijker maken.
+- **Afdalen:** een oefening makkelijker maken, zodat een sporter toch succes ervaart.
+
+Bij opbouwen maak je een oefening dus stap voor stap moeilijker, zodat sporters extra uitdaging krijgen. Bij afdalen doe je net het omgekeerde: je vereenvoudigt de oefening om succes te garanderen.
+
+Een voorbeeld van opbouwen: een tegenstander toevoegen nadat de basis lukt. Een oefening eerst zonder tegenstander laten uitvoeren, de ruimte verkleinen, of een oefening verdelen in losse stappen zijn op zich geen voorbeelden van opbouwen — dat zijn eerder instructie- of differentiatietechnieken.
+
+## Afspraken, spelregels en speelregels
+
+Naast tijd, ruimte, groep, omgang en differentiatie zijn ook **afspraken, spelregels en speelregels** belangrijk als methode. De drie begrippen worden vaak verward, maar betekenen elk iets anders:
+
+| Begrip | Betekenis |
+|---|---|
+| **Afspraken** | Regels die je als trainer met je sporters maakt om de training vlot en gestructureerd te laten verlopen. |
+| **Spelregels** | Officiële regels van de sport die bepalen hoe wedstrijden gespeeld worden. |
+| **Speelregels** | Aangepaste of extra regels die je in je training gebruikt om het leerdoel beter te bereiken. |
+
+Enkele voorbeelden ter illustratie:
+
+| Afspraken | Spelregels | Speelregels |
+|---|---|---|
+| Materiaal wordt na de training opgeruimd. | Een team heeft maximaal 3 contacten om de bal over het net te spelen (volleybal). | Een bal mag 2x botsen (tennis). |
+| Op de training draagt iedereen (dezelfde) clubkledij. | Een bal mag 2x botsen (rolstoeltennis). | Je mag de bal maximaal 2x raken (voetbal). |
+| Twee sporters geven de (gekende) opwarming aan de groep. | Als je de bal vangt, mag je maximaal nog 2 passen zetten (basketbal). | Je mag de bal vangen en dan voor jezelf opgooien om te toetsen (volleybal). |
+| Iedereen is ten laatste 15 minuten voor de start van de training aanwezig. | Bij U9 wordt er 5v5 gespeeld (voetbal). | Je mag niet dribbelen (basketbal). |
+
 ## Examenkort
 
-> Nog te verwerken.
+- Methoden zijn de manier waarop je een leerdoel wil of kan bereiken. Een krachtige leeromgeving realiseer je via goed tijds-, ruimte- en groepsmanagement, aangepaste instructievormen, afgestemde omgangsvormen, opbouwende feedback, differentiëren, opbouwen/afdalen en speelregels.
+- Kleine groepen en meerdere speelvelden verhogen de actieve leertijd; bij tijdstekort schrap je een oefening of thema in plaats van de kwaliteit te verlagen.
+- Ruimtemanagement en een doordachte opstelling (vrije, frontrij, halve cirkel/hoefijzer, kolom) verhogen zicht- en hoorbaarheid; bij stations- of postenwerk is een logische opeenvolging van posten cruciaal.
+- Gedrag beïnvloed je door te belonen, negeren, verbieden of bestraffen — consequent reageren zorgt voor duidelijkheid en rechtvaardigheid.
+- Bewegingen leer je aan via een globale aanpak (in grote lijnen) of een analytische aanpak (in deelbewegingen), vaak gecombineerd.
+- Differentiëren betekent de training aanpassen aan het individuele niveau, ritme, mogelijkheden en interesses van elke sporter; sporters spelen hierin zelf een actieve rol.
+- Opbouwen maakt een oefening stapsgewijs moeilijker; afdalen maakt een oefening makkelijker zodat een sporter succes ervaart.
+- Afspraken (organisatorische regels), spelregels (officiële sportregels) en speelregels (aangepaste of extra regels voor je training) zijn drie verschillende begrippen.
 
 ## Zoekwoorden
 
-> Nog te verwerken.
+methoden · krachtige leeromgeving · tijdsmanagement · actieve leertijd · groepsmanagement · ruimtemanagement · opstellingsvormen · stations- en postenwerk · omgangsvormen · belonen · negeren · verbieden · bestraffen · globale en analytische aanpak · differentiëren · opbouwen · afdalen · afspraken · spelregels · speelregels
