@@ -2,7 +2,7 @@
 title: Voorbeeldfunctie
 module: Bouwsteen Trainer
 onderdeel: Voorbeeldfunctie
-status: in verwerking
+status: inhoudelijk voltooid
 bron: E-learning screenshots/HTML
 tags:
   - start2coach
@@ -163,6 +163,17 @@ Feedback kan zowel individueel als in groepsverband gegeven worden. Soms is het 
 
 Betrek je sporters ook bij het proces: leer hen hoe ze feedback kunnen geven en ontvangen. Dit bevordert niet alleen hun sporttechniek, maar ontwikkelt ook sociale vaardigheden zoals samenwerken, communiceren en zelfreflectie. Goed gebruik van feedback maakt je training dynamischer, effectiever en motiverender.
 
+**Do's en don'ts bij feedback**
+
+| Do | Don't |
+|---|---|
+| Vertrek vanuit de 'ik-persoon' | Vertrek vanuit de 'wij-vorm' |
+| Bekrachtig positief | Geef enkel bemerkingen of kritiek |
+| Beschrijf veranderbaar gedrag | Beschrijf tics, stotteren of andere onveranderbare kenmerken |
+| Informeer naar het gevoel van de ontvanger | Verwijt, eis of reageer vanuit je eigen emotie |
+| Bespreek een specifieke situatie, gedrag of houding | Veralgemeen, veroordeel of plak etiketten |
+| Reageer eerlijk, meteen na de situatie, kort en bondig | Laat geen ruimte voor de ontvanger om te reageren |
+
 ### Examenkort
 
 - Communicatie verloopt via twee sporen: verbale (woorden) en non-verbale (lichaamstaal) communicatie — ze zijn onlosmakelijk verbonden, en bij tegenspraak geloven sporters meestal de non-verbale signalen.
@@ -171,11 +182,8 @@ Betrek je sporters ook bij het proces: leer hen hoe ze feedback kunnen geven en 
 - Lichaamstaal (gebaren, mimiek, houding, positie, stemtoon) weegt vaak zwaarder door dan woorden; een trainer is voortdurend een voorbeeld, ook buiten de training (kleedkamer, oudervergadering, wedstrijd).
 - Hulpmiddelen om je boodschap te versterken: demonstratie (minstens één op tempo, technisch correct, volledig) en didactische hulpmiddelen (bord, video, tablet, ...) die inspelen op verschillende leerstijlen.
 - Feedbackcirkel: observeren → herkennen → reageren → bijsturen; feedback moet concreet, duidelijk en positief zijn, gericht op één aandachtspunt tegelijk.
+- Do's bij feedback: vertrek vanuit de 'ik-persoon', bekrachtig positief, beschrijf veranderbaar gedrag, informeer naar het gevoel van de ontvanger, bespreek een specifieke situatie, reageer eerlijk en kort. Don'ts: 'wij-vorm', enkel kritiek, onveranderbare kenmerken beschrijven, verwijten/eisen, veralgemenen/etiketteren, geen ruimte laten voor een reactie.
 
 ### Zoekwoorden
 
-Verbale communicatie · non-verbale communicatie · lichaamstaal · demonstratie · didactische hulpmiddelen · feedbackcirkel · observeren · herkennen · reageren · bijsturen
-
-## Zelfreflectie
-
-> Nog te verwerken.
+Verbale communicatie · non-verbale communicatie · lichaamstaal · demonstratie · didactische hulpmiddelen · feedbackcirkel · observeren · herkennen · reageren · bijsturen · do's en don'ts
