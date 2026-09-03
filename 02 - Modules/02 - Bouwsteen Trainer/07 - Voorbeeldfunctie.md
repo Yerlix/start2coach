@@ -76,7 +76,43 @@ Voorbeeldfunctie · rolmodel · motivator · veilig sportklimaat · goed voorbee
 
 ## Mondeling en niet-mondeling communiceren
 
-> Nog te verwerken.
+### Wat is communiceren?
+
+Als trainer ben je voortdurend bezig met het overbrengen van een boodschap: je geeft instructies, lost een conflict op of motiveert je sporters om dat beetje extra te geven. Communiceren gaat echter veel verder dan enkel woorden gebruiken — een knipoog, een boze blik of een schouderklopje kan soms meer impact hebben dan een lange uitleg. Als trainer kies je telkens opnieuw de juiste manier van communiceren, afgestemd op de situatie en de sporters voor je.
+
+Communicatie verloopt altijd via twee sporen:
+
+| Vorm | Wat houdt het in? |
+|---|---|
+| **Verbale communicatie** | Alles wat je met woorden overbrengt, gesproken of geschreven: oefeningen uitleggen, feedback geven, sporters moed inspreken of corrigeren. |
+| **Non-verbale communicatie** | Alles wat je zonder woorden laat zien of voelt: lichaamstaal, mimiek, houding, oogcontact en stemtoon. Geeft vaak de emotionele lading van je boodschap weer. |
+
+Beide vormen zijn onlosmakelijk met elkaar verbonden: een duidelijke uitleg komt niet over zoals bedoeld als je lichaamstaal iets anders uitstraalt. Daarom is het belangrijk om je bewust te zijn van zowel wat je zegt, als hoe je het zegt en uitstraalt.
+
+### Mondelinge of verbale communicatie
+
+Goed mondeling communiceren is een essentiële vaardigheid voor een trainer: het doel is om je boodschap zo volledig mogelijk over te brengen in zo min mogelijk tijd, zodat sporters ze begrijpen zoals jij ze bedoelt.
+
+Een boodschap begint bij wat jij wilt overbrengen en eindigt bij wat de sporter uitvoert. Tussen die twee punten zitten verschillende stappen, en bij elke stap kan er iets misgaan:
+
+- jij als trainer wilt iets uitleggen, maar brengt dit moeilijk over;
+- de sporter hoort niet de volledige uitleg;
+- de sporter begrijpt of onthoudt niet alles van wat hij heeft gehoord;
+- de sporter voert niet alles uit wat hij heeft onthouden.
+
+**Tips voor duidelijke mondelinge communicatie**
+
+| Tip | In de praktijk |
+|---|---|
+| Vraag de aandacht van je sporters voordat je een boodschap geeft | Klap in je handen, fluit of roep je sporters bij elkaar — gebruik telkens hetzelfde signaal |
+| Zorg dat iedereen jou kan zien en horen en dat sporters niet afgeleid worden | Plaats je sporters weg van het lawaai, dicht bij elkaar, en leg materiaal aan de kant |
+| Houd rekening met de vermoeidheid van je sporters | Geef een moeilijke, technische uitleg niet aan het einde van de training |
+| Houd je uitleg kort en beperk je tot de essentie | Te veel informatie kan leiden tot verwarring — verlies je niet in details |
+| Zorg dat je uitleg duidelijk en volledig is | Maak de organisatie van een oefening duidelijk en voeg stapsgewijs richtlijnen toe |
+| Verwoord je doelen en opdrachten zo duidelijk, makkelijk en concreet mogelijk | "Ga bij de gele kegel staan" in plaats van "Ga ergens in de zaal staan" |
+| Geef de juiste instructies op het juiste moment | Geef aan: wie, wat, waar, waarmee, wanneer, en wat er na de oefening moet gebeuren |
+| Pas je taal aan je sporter aan | "Loop van de groene kegel naar de gele kegel" i.p.v. "Loop diagonaal" (bij jonge kinderen) |
+| Ga na of je sporters alles begrepen hebben — herhaal kort, vat samen of stel vragen | Let op de mimiek van je sporters: zijn er veel/geen vragen, aarzelt men om te starten? |
 
 ## Zelfreflectie
 
