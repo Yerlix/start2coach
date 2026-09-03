@@ -114,6 +114,68 @@ Een boodschap begint bij wat jij wilt overbrengen en eindigt bij wat de sporter 
 | Pas je taal aan je sporter aan | "Loop van de groene kegel naar de gele kegel" i.p.v. "Loop diagonaal" (bij jonge kinderen) |
 | Ga na of je sporters alles begrepen hebben — herhaal kort, vat samen of stel vragen | Let op de mimiek van je sporters: zijn er veel/geen vragen, aarzelt men om te starten? |
 
+### Non-verbale communicatie of lichaamstaal
+
+> Stel: een sporter vraagt na de training om feedback. De trainer zegt dat hij tijd heeft, maar kijkt constant op zijn horloge en wiebelt zenuwachtig heen en weer. Al snel krijgt de sporter het gevoel dat de trainer eigenlijk geen tijd voor hem heeft.
+
+In dit voorbeeld botsen de verbale en non-verbale communicatie van de trainer met elkaar. Naast woorden breng je ook via je lichaamstaal een boodschap over: gebaren, gezichtsuitdrukkingen, houding, positie in de ruimte, manier van spreken, enzovoort.
+
+> **Non-verbale communicatie weegt vaak zwaarder door dan verbale communicatie.** Als woorden en lichaamstaal elkaar tegenspreken, geloven sporters meestal wat ze zien. Een eenvoudige duim, een schouderklopje of een applausje kan al wonderen doen voor het gevoel van competentie van je sporters.
+
+Van een trainer wordt verwacht dat hij hierin het goede voorbeeld geeft — bewustzijn van je eigen gebaren en de indruk die ze achterlaten is cruciaal. Denk maar aan je eigen sportcarrière: de trainer die actief en betrokken naast je stond, met armen en handen aanwijzingen gaf en zich vrij over het veld verplaatste, is meestal degene aan wie je de mooiste herinneringen — en het meeste — te danken hebt, eerder dan de trainer die met de handen in de zakken slenterde of altijd op dezelfde plek bleef staan.
+
+Twee aandachtspunten:
+
+- **Het zit hem in de kleine dingen:** sporters — zeker jonge sporters — kijken op naar jou en nemen (gedeeltelijk) je gedrag en manier van praten over. Het beeld dat ze van jou hebben, wordt beetje bij beetje gevormd door kleine dingen: een aanmoediging, een compliment, een corrigerende opmerking, een schouderklopje of een welgemeende "Hoe gaat het met je?"
+- **Bewuste voorbeeldrol:** je loopt overal in de kijker — voor, tijdens en na trainingen en wedstrijden, op het oefenterrein, in de kleedkamer, tijdens infovergaderingen voor ouders. Als trainer met positief gedrag schep je een positieve sfeer, en dat geeft je ook het recht om hetzelfde gedrag van anderen te verwachten.
+
+> Jouw lichaamstaal zegt minstens zoveel als je woorden. Zorg dat je sporters zien dat je erbij bent, dat je betrokken bent en dat je hun prestaties waardeert.
+
+### Hulpmiddelen om je non-verbale communicatie te ondersteunen
+
+Naast je woorden kan je als trainer je boodschap kracht bijzetten door non-verbale communicatie en visuele ondersteuning:
+
+| Hulpmiddel | Toelichting |
+|---|---|
+| **Demonstratie** | Laat een paar sporters de oefening voordoen zodat ze de volledige beweging zien en de aandachtspunten beter begrijpen; jij kan dan volledig focussen op uitleg en feedback. Zorg dat iedereen de demonstratie goed kan zien in een veilige omgeving. Toon onderdelen eventueel apart of vertraagd, maar geef minstens één demonstratie op het juiste tempo, technisch verzorgd en van de volledige oefening. |
+| **Didactische hulpmiddelen** | Gebruik een bord, miniatuurveld, foto's, video's, PowerPoint of een tablet om je boodschap te versterken. Zo benadruk je belangrijke details, speel je in op verschillende leerstijlen en houd je de training duidelijk en boeiend. |
+
+Deze hulpmiddelen versterken je boodschap, laten je aandachtspunten extra benadrukken en spelen in op de verschillen tussen sporters — de ene heeft meer aan mondelinge uitleg, de andere aan een beeldfragment of een demonstratie.
+
+Na demonstraties en didactische hulpmiddelen is de volgende stap om sporters gericht te begeleiden tijdens het oefenen: feedback geven en ontvangen helpt hen om bewegingen en gedrag beter te begrijpen en zichzelf verder te ontwikkelen.
+
+### Feedback geven en ontvangen
+
+> Met feedback probeer je ervoor te zorgen dat je sporter informatie krijgt die hij kan gebruiken om het nadien beter, anders of op eenzelfde manier te doen.
+
+Als trainer geef je continu feedback: je licht bewegingen toe, bespreekt gedrag, bespreekt aandachtspunten met de groep of laat een sporter via een filmpje zien hoe het beter kan. Feedback helpt sporters groeien, hun vaardigheden verbeteren en inzicht krijgen in zowel techniek als sociaal gedrag.
+
+Om feedback effectief te geven, gebruik je de **feedbackcirkel**: een cyclisch proces van observeren, herkennen, reageren en bijsturen.
+
+| Stap | Wat houdt het in? |
+|---|---|
+| **Observeren** | Kijk gericht naar bewegingen of gedrag die aansluiten bij je leerdoel. Filter wat je ziet en let op wat echt belangrijk is voor de sporter. |
+| **Herkennen** | Besef welke aandachtspunten van toepassing zijn en welke verbeteringen nodig zijn. |
+| **Reageren** | Geef op het juiste moment een teken of korte aanwijzing — bijvoorbeeld een duim omhoog, naam roepen, fluitsignaal of naar de sporter toelopen. |
+| **Bijsturen** | Help je sporter vooruit met mondelinge kernboodschappen, demonstraties, vragen, alternatieven of fysieke ondersteuning. |
+
+Feedback kan zowel individueel als in groepsverband gegeven worden. Soms is het aanpassen van de oefensituatie of het opdelen van een beweging in kleine stappen de meest effectieve correctie. Zorg dat je concreet, duidelijk en positief bent: richt je telkens op één aandachtspunt, geef niet te veel tegelijk en benadruk wat goed gaat.
+
+Betrek je sporters ook bij het proces: leer hen hoe ze feedback kunnen geven en ontvangen. Dit bevordert niet alleen hun sporttechniek, maar ontwikkelt ook sociale vaardigheden zoals samenwerken, communiceren en zelfreflectie. Goed gebruik van feedback maakt je training dynamischer, effectiever en motiverender.
+
+### Examenkort
+
+- Communicatie verloopt via twee sporen: verbale (woorden) en non-verbale (lichaamstaal) communicatie — ze zijn onlosmakelijk verbonden, en bij tegenspraak geloven sporters meestal de non-verbale signalen.
+- Een boodschap kan op elke stap tussen bedoeling en uitvoering misgaan: moeilijk overbrengen, niet volledig horen, niet begrijpen/onthouden, niet uitvoeren.
+- Tips voor mondelinge communicatie: aandacht vragen, zorgen dat iedereen ziet/hoort zonder afleiding, rekening houden met vermoeidheid, kort en to-the-point, duidelijk en volledig, concreet verwoorden, juiste instructies op het juiste moment, taal aanpassen aan de sporter, begrip nagaan.
+- Lichaamstaal (gebaren, mimiek, houding, positie, stemtoon) weegt vaak zwaarder door dan woorden; een trainer is voortdurend een voorbeeld, ook buiten de training (kleedkamer, oudervergadering, wedstrijd).
+- Hulpmiddelen om je boodschap te versterken: demonstratie (minstens één op tempo, technisch correct, volledig) en didactische hulpmiddelen (bord, video, tablet, ...) die inspelen op verschillende leerstijlen.
+- Feedbackcirkel: observeren → herkennen → reageren → bijsturen; feedback moet concreet, duidelijk en positief zijn, gericht op één aandachtspunt tegelijk.
+
+### Zoekwoorden
+
+Verbale communicatie · non-verbale communicatie · lichaamstaal · demonstratie · didactische hulpmiddelen · feedbackcirkel · observeren · herkennen · reageren · bijsturen
+
 ## Zelfreflectie
 
 > Nog te verwerken.
