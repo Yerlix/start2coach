@@ -103,6 +103,12 @@ Een oefening (door jezelf of een paar sporters) laten voordoen zodat sporters de
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#hulpmiddelen-om-je-non-verbale-communicatie-te-ondersteunen]]
 
+## Didactisch materiaal
+
+Hulpmiddelen die het leerproces ondersteunen, zoals fluitjes, kegels, markeermateriaal, partijvestjes, doeltjes, springplanken of clipboards. Staat tegenover sporttakspecifiek materiaal.
+
+**Zie ook:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/01 - Bouwsteen Omgeving#het-aanwezige-materiaal]]
+
 ## Didactisch model
 
 De rode draad van Start 2 Coach. Het model bestaat uit vijf bouwstenen: trainer, sporters, omgeving, leerdoelen en methoden.
@@ -348,6 +354,12 @@ Een blessure die **acuut** (plots, bv. verzwikte enkel) of **geleidelijk** door 
 Blessures voorkomen en tijdig ingrijpen vóór kleine klachten groter worden, door de belasting af te stemmen op de belastbaarheid van de sporter.
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen#preventie-van-sportblessures]]
+
+## Sporttakspecifiek materiaal
+
+Materiaal dat eigen is aan een bepaalde sport, zoals een tennisracket, kimono, voetbal of klimgordel. Staat tegenover didactisch materiaal.
+
+**Zie ook:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/01 - Bouwsteen Omgeving#het-aanwezige-materiaal]]
 
 ## Statisch stretchen
 

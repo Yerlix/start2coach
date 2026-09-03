@@ -313,3 +313,31 @@ tags:
 ### 67. Noem vier van de acht tips om als trainer inclusief te werken.
 **Antwoord:** Bijvoorbeeld: sporters gelijkwaardig behandelen, een band opbouwen om te motiveren, de emotionele tank vullen met positieve opmerkingen, en positieve aandacht geven (of: duidelijkheid en voorspelbaarheid bieden, sporters altijd laten 'winnen' ook bij verlies, ouders positief betrekken, verbondenheid in de groep creëren).  
 **Bron:** [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#de-inclusieve-trainer]]
+
+---
+
+## Bouwstenen Omgeving, Leerdoelen en Methoden: Omgeving
+
+### 68. Waaruit bestaat de sportomgeving van een trainer, en waarom is die belangrijk?
+**Antwoord:** Uit de fysieke omgeving (veld, zaal, zwembad, piste) en het materiaal dat de trainer gebruikt. Samen bepalen ze of sporters zich veilig voelen, voldoende uitdaging ervaren en of het leerproces optimaal gestimuleerd wordt.  
+**Bron:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/01 - Bouwsteen Omgeving#omgeving]]
+
+### 69. Geef twee factoren die typisch meespelen bij buiten trainen, en twee die typisch meespelen bij binnen trainen.
+**Antwoord:** Buiten: weersomstandigheden en de staat van het terrein (of: grootte van het terrein, andere sporters op het terrein). Binnen: de beschikbare ruimte en de kwaliteit van de zaal of accommodatie (of: andere sporters in de zaal, beschikbare vaste infrastructuur).  
+**Bron:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/01 - Bouwsteen Omgeving#de-invloed-van-de-locatie]]
+
+### 70. Waarom is het belangrijk om de grootte, het gedeelde gebruik en de staat van je ruimte en infrastructuur te kennen?
+**Antwoord:** Omdat dit voor een groot stuk bepaalt welke oefenstof je kan geven. Op een klein stukje veld train je anders dan op een volledige ruimte, en een slecht onderhouden veld of gladde zaalvloer maakt de technische uitvoering moeilijker en vraagt aanpassing van je oefenstof.  
+**Bron:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/01 - Bouwsteen Omgeving#de-invloed-van-de-locatie]]
+
+### 71. Wat is het verschil tussen sporttakspecifiek en didactisch materiaal? Geef telkens een voorbeeld.
+**Antwoord:** Sporttakspecifiek materiaal is eigen aan een bepaalde sport (bv. een tennisracket, kimono of klimgordel). Didactisch materiaal ondersteunt het leerproces, ongeacht de sport (bv. kegels, fluitjes, doeltjes of markeermateriaal).  
+**Bron:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/01 - Bouwsteen Omgeving#het-aanwezige-materiaal]]
+
+### 72. Waarom is het belangrijk om materiaal af te stemmen op het niveau van je sporters?
+**Antwoord:** Omdat verkeerd materiaal blessures kan veroorzaken of demotiverend werken (bv. te lange ski's of een te hoog doel), terwijl goed gekozen materiaal de motivatie, inzet en het zelfvertrouwen van sporters vergroot.  
+**Bron:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/01 - Bouwsteen Omgeving#het-aanwezige-materiaal]]
+
+### 73. Waarom volstaat een veilige omgeving alleen niet, en waar let je op bij het creëren van uitdaging?
+**Antwoord:** Een veilige omgeving is de basis voor leren, maar sporters hebben ook uitdaging nodig: oefeningen net boven hun niveau vergroten hun competentiegevoel en zorgen voor succesbeleving. Daarbij houd je rekening met het niveau en de verschillen tussen sporters, en betrek je hen bij keuzes om hun autonomie en motivatie te versterken.  
+**Bron:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/01 - Bouwsteen Omgeving#een-veilige-en-uitdagende-omgeving]]

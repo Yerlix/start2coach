@@ -7,7 +7,7 @@ tags:
 
 # Examenindex
 
-> Deze index bevat de verwerkte inhoud van de modules Introductie Start 2 Coach, Bouwsteen Trainer (Inleiding, Motiverend Coachen, Hoe blessures voorkomen, Omgaan met Pesten, Omgaan met Discriminatie, Omgaan met Seksueel Grensoverschrijdend Gedrag & Voorbeeldfunctie) en Bouwsteen Sporters (Ontwikkelingsgericht, Inclusie).
+> Deze index bevat de verwerkte inhoud van de modules Introductie Start 2 Coach, Bouwsteen Trainer (Inleiding, Motiverend Coachen, Hoe blessures voorkomen, Omgaan met Pesten, Omgaan met Discriminatie, Omgaan met Seksueel Grensoverschrijdend Gedrag & Voorbeeldfunctie), Bouwsteen Sporters (Ontwikkelingsgericht, Inclusie) en Bouwstenen Omgeving, Leerdoelen en Methoden (Omgeving).
 
 ## Verwerkte onderwerpen
 
@@ -86,13 +86,18 @@ tags:
 | Emotionele tank | Vult door aanmoediging, complimenten, luisterbereidheid en waardering; leegt door veroordelen, negeren, kritiek en uitlachen | [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#gevolgen]] |
 | Opvallend gedrag | Storend of niet-storend gedrag als signaal van een lege emotionele tank, niet als opzettelijke frustratie van de trainer | [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#gevolgen]] |
 | Acht tips van de inclusieve trainer | Gelijkwaardigheid, band opbouwen, emotionele tank vullen, duidelijkheid bieden, positieve aandacht, ouders betrekken, verbondenheid creëren | [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#de-inclusieve-trainer]] |
+| Fysieke omgeving en materiaal | Bepalen samen veiligheid, uitdaging en leerproces van je training | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/01 - Bouwsteen Omgeving#omgeving]] |
+| Binnen of buiten trainen | Buiten: weer, terrein, andere sporters; binnen: ruimte, accommodatie, andere sporters | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/01 - Bouwsteen Omgeving#de-invloed-van-de-locatie]] |
+| Ruimte en infrastructuur | Grootte, gedeeld gebruik en staat van de infrastructuur bepalen mee je oefenstof | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/01 - Bouwsteen Omgeving#de-invloed-van-de-locatie]] |
+| Sporttakspecifiek versus didactisch materiaal | Sporttakspecifiek (bv. tennisracket, kimono) tegenover didactisch (bv. kegels, fluitjes, doeltjes) | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/01 - Bouwsteen Omgeving#het-aanwezige-materiaal]] |
+| Materiaal afstemmen op niveau | Verkeerd materiaal kan blessures veroorzaken; goed gekozen materiaal versterkt motivatie en zelfvertrouwen | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/01 - Bouwsteen Omgeving#het-aanwezige-materiaal]] |
+| Veilige en uitdagende omgeving | Veiligheid is de basis; oefeningen net boven niveau zorgen voor competentiegevoel en succesbeleving | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/01 - Bouwsteen Omgeving#een-veilige-en-uitdagende-omgeving]] |
 
 ## Nog te verwerken
 
 | Thema | Module | Startpunt |
 |---|---|---|
 | Incidenten en foutlopen | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/03 - Wat als het foutloopt]] |
-| Omgeving | Bouwstenen Omgeving, Leerdoelen en Methoden | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/01 - Bouwsteen Omgeving]] |
 | Leerdoelen | Bouwstenen Omgeving, Leerdoelen en Methoden | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/02 - Bouwsteen Leerdoelen]] |
 | Methoden | Bouwstenen Omgeving, Leerdoelen en Methoden | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden]] |
 | Methodieken | Methodieken in de praktijk | [[02 - Modules/05 - Methodieken in de praktijk/01 - Start 2 Coach - Methodieken in de praktijk]] |
