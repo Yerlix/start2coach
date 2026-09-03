@@ -2,7 +2,7 @@
 title: Inclusie
 module: Bouwsteen Sporters
 onderdeel: Inclusie
-status: in verwerking
+status: inhoudelijk voltooid
 bron: E-learning screenshots/HTML
 tags:
   - start2coach
@@ -65,10 +65,79 @@ Bij het omgaan met anderen is het belangrijk om rekening te houden met een aanta
 
 Bij de ene sporter is de rugzak dus licht, bij de andere zwaar. Je probeert als trainer die rugzak samen met je sporter lichter te maken: je gaat er samen mee om en creëert een omgeving waar iedereen plezier kan maken en zich welkom voelt. Voor mensen met een zware rugzak is sport soms een middel om de rugzak te verlichten.
 
-## Examenkort
+### Drempels
 
-> Nog te verwerken.
+Een zware rugzak maakt het moeilijker om drempels te overwinnen. Om die drempels in kaart te brengen, gebruik je als trainer het **kader van de zeven B's**: zeven mogelijke obstakels die iemand ervan kunnen weerhouden om te (blijven) sporten.
 
-## Zoekwoorden
+| B | Betekenis | Voorbeeld |
+|---|---|---|
+| **Betaalbaarheid** | De kostprijs van lidgeld, materiaal of verplaatsingen weegt te zwaar. | Suzy kan het lidgeld voor volleybal niet betalen. |
+| **Bereikbaarheid** | De sportclub of -locatie is fysiek moeilijk te bereiken. | Emilie woont te ver van de club en heeft geen vervoer. |
+| **Bekendheid** | Mensen weten niet dat de sport of club bestaat of voor hen toegankelijk is. | De atletiekclub moet extra bekendmakingsacties voeren omdat ze te weinig gekend is. |
+| **Begrijpbaarheid** | Informatie, regels of reglementen zijn niet duidelijk of niet aangepast. | Peter begrijpt het reglement niet; pictogrammen zouden helpen. |
+| **Betrouwbaarheid** | Onzekerheid over de organisatie ondermijnt het vertrouwen om deel te nemen. | Wim twijfelt om te starten omdat trainer Lesley al meermaals trainingen annuleerde. |
+| **Beschikbaarheid** | Er is geen passend aanbod op het juiste moment of niveau. | Silke vindt geen aanbod dat past bij het niveau van Leen. |
+| **Bruikbaarheid** | Het aanbod is niet afgestemd op de leeftijd of situatie van de sporter. | John vindt geen ploeg die past bij senioren. |
 
-> Nog te verwerken.
+Drempels kunnen **zichtbaar** zijn (bijvoorbeeld een fysieke beperking) of **minder zichtbaar** (bijvoorbeeld een moeilijke thuissituatie). Ook sporters zonder "grote problemen" kunnen drempels ervaren, bijvoorbeeld:
+
+- een sporter die net verhuisd is en de nieuwe omgeving nog niet kent;
+- sporters die onderling ruzie hebben;
+- een trainer die onbewust minder aandacht geeft aan een sporter met weinig talent.
+
+Er is een verschil tussen **drempels om te starten** en **drempels om te blijven**. Ook wie eenmaal is ingestapt, kan drempels blijven ervaren: kwetsende opmerkingen, pestgedrag of ongelijke machtsverhoudingen binnen de groep kunnen ervoor zorgen dat een sporter afhaakt.
+
+Drempels wegen niet voor iedereen even zwaar. Hoeveel last iemand van een drempel ondervindt, hangt af van zijn rugzak, karakter en omgeving. Niet elke vrouw of elke sporter met een andere achtergrond wordt uitgesloten, maar de kans daarop is groter — en omgekeerd kunnen ook andere sporters negatieve ervaringen hebben.
+
+### Gevolgen
+
+De gevolgen van een zware rugzak en drempels uiten zich vooral op twee manieren: een **lege 'emotionele tank'** en **opvallend gedrag**.
+
+Een **lege emotionele tank** betekent dat een sporter weinig positieve emotionele energie (meer) heeft: hij voelt zich niet gesteund, gewaardeerd of gezien. Louis bijvoorbeeld krijgt thuis en op training weinig aanmoediging, waardoor zijn emotionele tank leegloopt.
+
+**Opvallend gedrag** is gedrag dat afwijkt van wat je normaal van een sporter verwacht, bijvoorbeeld een sporter die plots duwt of zich afzondert van de groep. Opvallend gedrag kan **niet-storend** zijn (bijvoorbeeld terugtrekken) of **storend/negatief** (bijvoorbeeld agressief reageren).
+
+De emotionele tank raakt gevuld of leeg naargelang wat een sporter meemaakt:
+
+| Vult de emotionele tank | Leegt de emotionele tank |
+|---|---|
+| Aanmoediging | Veroordelen |
+| Een gemeend compliment | Negeren |
+| Luisterbereidheid | Kritiek geven |
+| Waardering | Uitlachen |
+
+Sporters met een lege emotionele tank tonen sneller opvallend gedrag. Negatief gedrag versterkt bovendien zichzelf en kan uitgroeien tot een gewoonte. Belangrijk om te onthouden: opvallend gedrag is meestal niet bedoeld om de trainer te frustreren — het is vaak een signaal van hoe de sporter zich emotioneel voelt.
+
+### De inclusieve trainer
+
+Als trainer speel je een cruciale rol in het vullen van de emotionele tank van je sporters en in het herkennen van rugzakken en onzichtbare drempels. Dat doe je door tijd te nemen voor je sporters, een open houding aan te nemen, een vertrouwensband op te bouwen, echt te luisteren, iedereen gelijkwaardig te behandelen en je afspraken na te komen.
+
+Acht concrete tips om als trainer inclusief te werken:
+
+- **Behandel je sporters gelijkwaardig** — maak geen onderscheid op basis van afkomst, geslacht, niveau of andere kenmerken.
+- **Creëer een band om te motiveren** — een vertrouwensband zorgt dat sporters zich durven openstellen en gemotiveerd blijven.
+- **Vul de emotionele tank met positieve opmerkingen** — aanmoediging en waardering wegen zwaar door.
+- **Bied herkenbaarheid, voorspelbaarheid en duidelijkheid** — een vaste structuur geeft sporters houvast.
+- **Zorg dat sporters altijd winnen, ook bij verlies** — leg de focus op inzet en groei, niet enkel op resultaat.
+- **Geef positieve aandacht** — beloon en benoem positief gedrag, ook al lijkt het klein.
+- **Betrek positieve ouders en grijp in bij negatief gedrag** — ouders kunnen de emotionele tank mee vullen of leegmaken.
+- **Creëer verbondenheid in de groep** — een hechte groep maakt dat elke sporter zich welkom voelt.
+
+Twee voorbeelden illustreren dit. Bij **Nuria** blijkt dat negatief gedrag zichzelf versterkt: hoe meer ze aandacht krijgt voor wat misloopt, hoe meer het misloopt — daarom richt de trainer zich beter op wat wél goed gaat, hoe klein ook. Bij **Jan** blijkt dat één negatieve opmerking vaak pas in balans komt met minstens vijf positieve opmerkingen, en dat sporters met een zware rugzak vaak ook een lege emotionele tank hebben.
+
+Als trainer kun je écht het verschil maken door technische begeleiding te combineren met emotionele ondersteuning: zo verlaag je drempels en maak je de rugzak van je sporters lichter.
+
+### Examenkort
+
+- Iedere sporter draagt een rugzak vol ervaringen; positieve ervaringen verlichten, negatieve verzwaren de rugzak.
+- Negatieve ervaringen staan zelden op zichzelf en kunnen elkaar versterken; een zware rugzak gaat vaak samen met weinig zelfvertrouwen.
+- De zeven B's beschrijven drempels om te (blijven) sporten: Betaalbaarheid, Bereikbaarheid, Bekendheid, Begrijpbaarheid, Betrouwbaarheid, Beschikbaarheid, Bruikbaarheid.
+- Drempels zijn niet voor iedereen even zwaar; ze hangen af van iemands rugzak, karakter en omgeving.
+- Gevolgen van een zware rugzak: een lege 'emotionele tank' (weinig positieve emotionele energie) en opvallend gedrag (storend of niet-storend) — vaak een signaal van de emotionele toestand, geen opzettelijke frustratie van de trainer.
+- Negatief gedrag versterkt zichzelf en kan een gewoonte worden; positieve aandacht op klein positief gedrag doorbreekt dat patroon.
+- Eén negatieve opmerking weegt vaak pas op tegen minstens vijf positieve.
+- Een inclusieve trainer behandelt sporters gelijkwaardig, bouwt een vertrouwensband op, vult de emotionele tank, biedt duidelijkheid en structuur, benadrukt inzet ook bij verlies, geeft positieve aandacht, betrekt ouders positief en creëert verbondenheid in de groep.
+
+### Zoekwoorden
+
+rugzak · drempels · zeven B's · betaalbaarheid · bereikbaarheid · bekendheid · begrijpbaarheid · betrouwbaarheid · beschikbaarheid · bruikbaarheid · emotionele tank · opvallend gedrag · inclusieve trainer · positieve aandacht · verbondenheid
