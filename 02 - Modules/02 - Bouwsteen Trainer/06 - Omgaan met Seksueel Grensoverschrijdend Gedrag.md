@@ -42,3 +42,26 @@ Deze definitie is breed, en of gedrag oké is of niet, is niet altijd op het eer
 - **Een kleuter die nieuwsgierig onder een kleedhokje gluurt** — hoort bij haar ontwikkeling en is voor haar niet seksueel bedoeld; benoem wel dat anderen dit niet fijn vinden, zodat ze haar grenzen leert kennen.
 
 > Jonge sporters met een beperking lopen het meeste risico om seksueel grensoverschrijdend gedrag mee te maken — houd deze sporters dus zeker extra in de gaten.
+
+### Vele vormen en gradaties
+
+Seksueel grensoverschrijdend gedrag komt in vele vormen en gradaties voor. Soms is het overduidelijk, maar vaak bevindt het zich in een grijze zone: een ongepaste opmerking, een dubbelzinnige grap, een aanraking die net te lang duurt of een privébericht dat een ongemakkelijk gevoel geeft.
+
+> **Gradaties van SGG (gebaseerd op Sportieq), van meest naar minst extreem:**
+>
+> 1. Verkrachting
+> 2. Poging tot verkrachting
+> 3. Ongewenste seksuele berichten
+> 4. Gevraagd alleen te zijn met iemand
+> 5. Gedwongen zoenen
+> 6. Ongewenst tonen van geslachtsdelen
+> 7. Ongewenste seksuele betastingen
+> 8. Ongewenste aanrakingen
+> 9. Seksuele blikken
+> 10. Seksueel getinte opmerkingen
+> 11. Seksistische opmerkingen
+> 12. Nafluiten / naroepen
+
+Nafluiten, naroepen, seksistische grappen, seksueel getinte opmerkingen en ongewenste aanrakingen of betastingen zijn de meest voorkomende vormen van (seksueel) grensoverschrijdend gedrag. Wat voor de één onschuldig lijkt, kan voor de ander intimiderend, ongemakkelijk of zelfs bedreigend aanvoelen. Daarom is het belangrijk niet alleen stil te staan bij de **intentie**, maar vooral bij de **impact** van het gedrag. Wanneer wordt een onschuldige aanraking, een compliment of een grap ongepast? Het antwoord op die vraag is vaak minder eenduidig dan het lijkt.
+
+> **De grens ligt bij wie het gedrag ervaart.** Voelt iemand zich ongemakkelijk, geïntimideerd of bedreigd? Dan is het grensoverschrijdend — ongeacht de bedoeling erachter. Neem dit als trainer altijd serieus en wees extra alert op signalen.
