@@ -127,11 +127,23 @@ Ongewenst onderscheid, uitsluiting of kleinerende behandeling op basis van bv. a
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie#discriminatie]]
 
+## Drempels
+
+Obstakels die iemand ervan weerhouden om te (blijven) sporten. Worden in kaart gebracht met het kader van de zeven B's, en wegen niet voor iedereen even zwaar — afhankelijk van iemands rugzak, karakter en omgeving.
+
+**Zie ook:** [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#drempels]]
+
 ## Dynamisch stretchen
 
 Rekken met beweging, toegepast tijdens de opwarming ter voorbereiding op inspanning.
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen#de-10-strategieën-van-get-fit-2-sport]]
+
+## Emotionele tank
+
+Metafoor voor de hoeveelheid positieve emotionele energie van een sporter. Wordt gevuld door aanmoediging, gemeende complimenten, luisterbereidheid en waardering, en geleegd door veroordelen, negeren, kritiek geven en uitlachen.
+
+**Zie ook:** [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#gevolgen]]
 
 ## Externe druk
 
@@ -180,6 +192,12 @@ De **bewegingsdriehoek** (actief bewegen versus stilzitten), **voedingsdriehoek*
 Flexibel, levend stappenplan voor het interventie- en hulpverleningstraject bij een melding — van aankomst van de melding tot nazorg ("van A tot Z"). Wordt na elke afgehandelde zaak geëvalueerd en bijgestuurd.
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/05 - Omgaan met Discriminatie#opvolgen-van-een-situatie]]
+
+## Inclusieve trainer
+
+Trainer die sporters gelijkwaardig behandelt, een vertrouwensband opbouwt, de emotionele tank vult met positieve opmerkingen, duidelijkheid en structuur biedt, positieve aandacht geeft, ouders positief betrekt en verbondenheid in de groep creëert.
+
+**Zie ook:** [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#de-inclusieve-trainer]]
 
 ## Interne druk
 
@@ -277,6 +295,12 @@ Gevolg van prikkels op maat van de sporter: hij ontwikkelt zich in een veilige e
 
 **Zie ook:** [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#ontwikkeling-van-je-sporters]]
 
+## Opvallend gedrag
+
+Gedrag dat afwijkt van wat je normaal van een sporter verwacht, bijvoorbeeld duwen of zich afzonderen van de groep. Kan niet-storend of storend/negatief zijn, en is meestal een signaal van de emotionele toestand van de sporter — niet bedoeld om de trainer te frustreren.
+
+**Zie ook:** [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#gevolgen]]
+
 ## Pedagogische Pijlers
 
 De vijf thema’s die doorheen Start 2 Coach terugkomen: **Motiveren, Veilig sportklimaat, Voorbeeldfunctie, Ontwikkeling en Inclusie**.
@@ -306,6 +330,12 @@ Gedrag tussen gelijkwaardige partijen dat af en toe en spontaan gebeurt, zonder 
 Alle mogelijke impulsen die invloed hebben op een sporter: sportactiviteiten, trainingen, opdrachten van de trainer, voeding, druk of sportkleding. De hoeveelheid prikkels moet worden afgestemd op de sporter.
 
 **Zie ook:** [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#ontwikkeling-van-je-sporters]]
+
+## Rugzak
+
+Metafoor voor alle ervaringen — positief en negatief — die een sporter met zich meedraagt. Positieve ervaringen verlichten de rugzak, negatieve ervaringen (bv. pesterijen, discriminatie) verzwaren ze en bepalen mee hoe kwetsbaar een sporter zich voelt en hoe zwaar drempels wegen.
+
+**Zie ook:** [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#iedereen-heeft-een-rugzak]]
 
 ## Sportblessure
 
@@ -366,3 +396,9 @@ Gevolg van te veel prikkels vanuit trainer of omgeving: de sporter wordt verplic
 Instrument ('Sport met Grenzen', Sensoa/ICES) om seksueel (grensoverschrijdend) gedrag te beoordelen aan de hand van zes criteria en te classificeren met vier kleurvlaggen: groen, geel, rood of zwart.
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag#vlaggensysteem]]
+
+## Zeven B's
+
+Kader om drempels om te (blijven) sporten in kaart te brengen: Betaalbaarheid, Bereikbaarheid, Bekendheid, Begrijpbaarheid, Betrouwbaarheid, Beschikbaarheid en Bruikbaarheid.
+
+**Zie ook:** [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#drempels]]

@@ -7,7 +7,7 @@ tags:
 
 # Examenindex
 
-> Deze index bevat de verwerkte inhoud van de modules Introductie Start 2 Coach, Bouwsteen Trainer (Inleiding, Motiverend Coachen, Hoe blessures voorkomen, Omgaan met Pesten, Omgaan met Discriminatie, Omgaan met Seksueel Grensoverschrijdend Gedrag & Voorbeeldfunctie) en Bouwsteen Sporters (Ontwikkelingsgericht).
+> Deze index bevat de verwerkte inhoud van de modules Introductie Start 2 Coach, Bouwsteen Trainer (Inleiding, Motiverend Coachen, Hoe blessures voorkomen, Omgaan met Pesten, Omgaan met Discriminatie, Omgaan met Seksueel Grensoverschrijdend Gedrag & Voorbeeldfunctie) en Bouwsteen Sporters (Ontwikkelingsgericht, Inclusie).
 
 ## Verwerkte onderwerpen
 
@@ -78,13 +78,20 @@ tags:
 | Gevoelige trainingsperioden | Momenten extra ontvankelijk voor prikkels; trainer heeft maar gedeeltelijk invloed op ontwikkeling | [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#ontwikkeling-van-je-sporters]] |
 | LTD-model | Long Term Athlete Development; helpt trainer de juiste dingen op het juiste moment te doen | [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#ltd-model-als-kapstok]] |
 | Fasen van het LTD-model | Actieve start, FUNdamenten, Leer trainen en Blijf actief (Start 2 Coach); Train to Train/Compete/Win in vervolgopleidingen | [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#ltd-model-als-kapstok]] |
+| Rollen van de trainer bij inclusie | Sporter centraal stellen, instaan voor ontwikkeling, zorgen voor inclusie | [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#als-trainer-zet-je-je-sporters-centraal]] |
+| Rugzak | Elke sporter draagt ervaringen mee die zijn rugzak verzwaren (negatief) of verlichten (positief) | [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#iedereen-heeft-een-rugzak]] |
+| Nuances bij de rugzak | Verwevenheid, versterkend effect, kwetsbaarheid en persoonlijk verschil spelen mee in hoe zwaar een rugzak weegt | [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#iedereen-heeft-een-rugzak]] |
+| Zeven B's | Kader van drempels om te (blijven) sporten: Betaalbaarheid, Bereikbaarheid, Bekendheid, Begrijpbaarheid, Betrouwbaarheid, Beschikbaarheid, Bruikbaarheid | [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#drempels]] |
+| Drempels om te starten en te blijven | Drempels stoppen niet bij de instap; kwetsende opmerkingen, pestgedrag of machtsverhoudingen kunnen ook nadien tot afhaken leiden | [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#drempels]] |
+| Emotionele tank | Vult door aanmoediging, complimenten, luisterbereidheid en waardering; leegt door veroordelen, negeren, kritiek en uitlachen | [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#gevolgen]] |
+| Opvallend gedrag | Storend of niet-storend gedrag als signaal van een lege emotionele tank, niet als opzettelijke frustratie van de trainer | [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#gevolgen]] |
+| Acht tips van de inclusieve trainer | Gelijkwaardigheid, band opbouwen, emotionele tank vullen, duidelijkheid bieden, positieve aandacht, ouders betrekken, verbondenheid creëren | [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#de-inclusieve-trainer]] |
 
 ## Nog te verwerken
 
 | Thema | Module | Startpunt |
 |---|---|---|
 | Incidenten en foutlopen | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/03 - Wat als het foutloopt]] |
-| Inclusie | Bouwsteen Sporters | [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie]] |
 | Omgeving | Bouwstenen Omgeving, Leerdoelen en Methoden | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/01 - Bouwsteen Omgeving]] |
 | Leerdoelen | Bouwstenen Omgeving, Leerdoelen en Methoden | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/02 - Bouwsteen Leerdoelen]] |
 | Methoden | Bouwstenen Omgeving, Leerdoelen en Methoden | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden]] |

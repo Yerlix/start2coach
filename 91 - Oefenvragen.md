@@ -277,3 +277,39 @@ tags:
 ### 59. Welke vier ontwikkelingsfasen van het LTD-model komen aan bod in Start 2 Coach, en wat is hun kerndoelstelling?
 **Antwoord:** Actieve start (algemene bewegingsvaardigheden, leren door spel); FUNdamenten (basisbewegingsvaardigheden, brede motorische ontwikkeling); Leer trainen (sportspecifieke vaardigheden); Blijf actief (gezondheid, ontspanning en sociale verbondenheid).  
 **Bron:** [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#ltd-model-als-kapstok]]
+
+---
+
+## Bouwsteen Sporters: Inclusie
+
+### 60. Welke drie rollen vervult de trainer ten opzichte van zijn sporters op vlak van inclusie?
+**Antwoord:** De sporter centraal stellen, instaan voor zijn ontwikkeling, en zorgen voor inclusie — een sportomgeving waarin elke sporter zich welkom, gewaardeerd en veilig voelt.  
+**Bron:** [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#als-trainer-zet-je-je-sporters-centraal]]
+
+### 61. Wat wordt bedoeld met de 'rugzak' van een sporter?
+**Antwoord:** Alle ervaringen — positief en negatief — die een sporter met zich meedraagt. Positieve ervaringen (bv. steun, succes) verlichten de rugzak, negatieve ervaringen (bv. pesterijen, discriminatie) verzwaren ze.  
+**Bron:** [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#iedereen-heeft-een-rugzak]]
+
+### 62. Welke vier nuances houd je als trainer in gedachten bij het omgaan met de rugzak van je sporters?
+**Antwoord:** Verwevenheid (negatieve ervaringen staan zelden op zichzelf), versterkend effect (ervaringen kunnen elkaar versterken), kwetsbaarheid (een zware rugzak gaat vaak samen met weinig zelfvertrouwen) en persoonlijk verschil (wat voor de ene zwaar weegt, weegt voor de andere minder).  
+**Bron:** [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#iedereen-heeft-een-rugzak]]
+
+### 63. Wat zijn de zeven B's en waarvoor gebruik je ze?
+**Antwoord:** Een kader om drempels om te (blijven) sporten in kaart te brengen: Betaalbaarheid, Bereikbaarheid, Bekendheid, Begrijpbaarheid, Betrouwbaarheid, Beschikbaarheid en Bruikbaarheid.  
+**Bron:** [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#drempels]]
+
+### 64. Wat is het verschil tussen 'drempels om te starten' en 'drempels om te blijven'?
+**Antwoord:** Drempels om te starten weerhouden iemand ervan om te beginnen sporten. Drempels om te blijven ontstaan ook ná de instap, bijvoorbeeld door kwetsende opmerkingen, pestgedrag of ongelijke machtsverhoudingen, en kunnen ervoor zorgen dat een sporter afhaakt.  
+**Bron:** [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#drempels]]
+
+### 65. Wat zijn de twee manieren waarop de gevolgen van een zware rugzak zich uiten, en wat houden ze in?
+**Antwoord:** Een lege 'emotionele tank' (weinig positieve emotionele energie: de sporter voelt zich niet gesteund, gewaardeerd of gezien) en opvallend gedrag (gedrag dat afwijkt van wat je normaal verwacht, niet-storend of storend/negatief).  
+**Bron:** [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#gevolgen]]
+
+### 66. Waarom is opvallend gedrag meestal geen opzettelijke frustratie van de trainer?
+**Antwoord:** Omdat opvallend gedrag meestal een signaal is van hoe de sporter zich emotioneel voelt (bv. een lege emotionele tank), en niet bedoeld is om de trainer te dwarsbomen. Negatief gedrag versterkt bovendien zichzelf en kan uitgroeien tot een gewoonte.  
+**Bron:** [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#gevolgen]]
+
+### 67. Noem vier van de acht tips om als trainer inclusief te werken.
+**Antwoord:** Bijvoorbeeld: sporters gelijkwaardig behandelen, een band opbouwen om te motiveren, de emotionele tank vullen met positieve opmerkingen, en positieve aandacht geven (of: duidelijkheid en voorspelbaarheid bieden, sporters altijd laten 'winnen' ook bij verlies, ouders positief betrekken, verbondenheid in de groep creëren).  
+**Bron:** [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#de-inclusieve-trainer]]
