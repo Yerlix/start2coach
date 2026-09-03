@@ -373,3 +373,43 @@ tags:
 ### 80. Uit welke drie delen bestaat een training, en wat is het doel van elk deel?
 **Antwoord:** De opwarming (fysiek en psychisch klaarmaken), de kern (leren of beleving centraal, met haltemomenten en gerichte feedback) en het slot of de cooling-down (fysiek en mentaal tot rust komen, eventueel een gesprek over de training).  
 **Bron:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/02 - Bouwsteen Leerdoelen#een-weldoordachte-trainingsopbouw]]
+
+---
+
+## Bouwstenen Omgeving, Leerdoelen en Methoden: Methoden
+
+### 81. Wat wordt bedoeld met 'methoden' als bouwsteen, en hoe realiseer je een krachtige leeromgeving?
+**Antwoord:** Methoden zijn de manier waarop je een leerdoel wil of kan bereiken. Een krachtige leeromgeving realiseer je via goed management van tijd, ruimte en groep, aangepaste instructievormen, afgestemde omgangsvormen, opbouwende feedback, differentiëren, opbouwen/afdalen en speelregels.  
+**Bron:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#methoden]]
+
+### 82. Waarom verhogen kleine groepen en meerdere speelvelden tegelijk de actieve leertijd, en wat doe je bij tijdstekort?
+**Antwoord:** Omdat sporters minder moeten wachten en effectiever kunnen oefenen dan bij lange demonstraties, veel vooraf uitgelegde regels of een wachtrij. Bij tijdstekort schrap je best een oefening of een nieuw thema, in plaats van herhalingen toe te voegen, sneller uit te leggen zonder pauzes of de hele groep te laten wachten.  
+**Bron:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#tijdsmanagement]]
+
+### 83. Welke vier opstellingsvormen zijn er, en waarom is de frontrijopstelling minder geschikt voor een grote groep?
+**Antwoord:** De vrije opstelling, de opstelling in frontrij, de halve cirkel- of hoefijzeropstelling en de kolomopstelling. De frontrijopstelling is minder geschikt voor een grote groep omdat sporters aan de buitenzijde de uitleg vaak slecht horen; een halve cirkel of hoefijzer geeft een betere zicht- en hoorbaarheid.  
+**Bron:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#groepsmanagement]]
+
+### 84. Waarom is een logische opeenvolging van posten belangrijk bij stations- of postenwerk?
+**Antwoord:** Omdat dit de actieve leertijd maximaliseert en de wachttijd minimaliseert — belangrijker dan vrije keuze van posten, alle sporters dezelfde oefening tegelijk laten doen, of altijd een frontrijopstelling gebruiken.  
+**Bron:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#groepsmanagement]]
+
+### 85. Welke vier manieren heb je om gedrag van sporters te beïnvloeden, en waarom is consequent reageren daarbij belangrijk?
+**Antwoord:** Belonen, negeren, verbieden en bestraffen. Consequent reageren is belangrijk omdat hetzelfde gedrag dezelfde reactie vraagt, zodat sporters duidelijkheid en een gevoel van rechtvaardigheid ervaren.  
+**Bron:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#omgang]]
+
+### 86. Wat is het verschil tussen de globale en de analytische aanpak om een beweging aan te leren?
+**Antwoord:** Bij de globale aanpak voer je de volledige beweging uit in grote lijnen. Bij de analytische aanpak deel je de beweging op in kleinere deelbewegingen. In de praktijk worden beide vaak gecombineerd voor het beste leereffect.  
+**Bron:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#globale-en-analytische-omgang]]
+
+### 87. Wat betekent differentiëren, en welke rol spelen sporters daar zelf in?
+**Antwoord:** Differentiëren betekent de training aanpassen aan het individuele ritme, de mogelijkheden en de interesses van elke sporter — niet enkel technisch, maar ook persoonlijk, sociaal en verstandelijk. Sporters spelen hierin zelf een actieve rol: ze leren omgaan met verschillen, helpen elkaar en krijgen inzicht in hun eigen niveau.  
+**Bron:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#differentiëren]]
+
+### 88. Wat is het verschil tussen opbouwen en afdalen? Geef een voorbeeld van opbouwen.
+**Antwoord:** Opbouwen maakt een oefening stap voor stap moeilijker, zodat een sporter extra uitdaging krijgt. Afdalen maakt een oefening makkelijker, zodat een sporter toch succes ervaart. Voorbeeld van opbouwen: een tegenstander toevoegen nadat de basis lukt.  
+**Bron:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#opbouwen-en-afdalen]]
+
+### 89. Wat is het verschil tussen afspraken, spelregels en speelregels? Geef telkens een voorbeeld.
+**Antwoord:** Afspraken zijn regels die je als trainer met je sporters maakt om de training vlot te laten verlopen (bv. iedereen is 15 minuten op voorhand aanwezig). Spelregels zijn de officiële regels van de sport (bv. bij U9 wordt er 5v5 gespeeld). Speelregels zijn aangepaste of extra regels die je in je training gebruikt om het leerdoel beter te bereiken (bv. een bal mag 2x botsen bij tennis).  
+**Bron:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#afspraken-spelregels-en-speelregels]]

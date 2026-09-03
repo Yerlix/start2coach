@@ -7,7 +7,7 @@ tags:
 
 # Examenindex
 
-> Deze index bevat de verwerkte inhoud van de modules Introductie Start 2 Coach, Bouwsteen Trainer (Inleiding, Motiverend Coachen, Hoe blessures voorkomen, Omgaan met Pesten, Omgaan met Discriminatie, Omgaan met Seksueel Grensoverschrijdend Gedrag & Voorbeeldfunctie), Bouwsteen Sporters (Ontwikkelingsgericht, Inclusie) en Bouwstenen Omgeving, Leerdoelen en Methoden (Omgeving, Leerdoelen).
+> Deze index bevat de verwerkte inhoud van de modules Introductie Start 2 Coach, Bouwsteen Trainer (Inleiding, Motiverend Coachen, Hoe blessures voorkomen, Omgaan met Pesten, Omgaan met Discriminatie, Omgaan met Seksueel Grensoverschrijdend Gedrag & Voorbeeldfunctie), Bouwsteen Sporters (Ontwikkelingsgericht, Inclusie) en Bouwstenen Omgeving, Leerdoelen en Methoden (Omgeving, Leerdoelen, Methoden).
 
 ## Verwerkte onderwerpen
 
@@ -97,12 +97,18 @@ tags:
 | Indeling van leerdoelen | Naar tijdshorizon, haalbaarheid, ontwikkelingsvlak (lichamelijk/geestelijk/sociaal) en controleerbaarheid | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/02 - Bouwsteen Leerdoelen#verschillende-soorten-leerdoelen]] |
 | Vijf elementen van een glashelder leerdoel | Richting (wie), vaardigheden, soort situatie, minimale eis, tijd | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/02 - Bouwsteen Leerdoelen#verschillende-soorten-leerdoelen]] |
 | Drie delen van een training | Opwarming, kern en slot/cooling-down, elk met een eigen doel in het leerproces | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/02 - Bouwsteen Leerdoelen#een-weldoordachte-trainingsopbouw]] |
+| Methoden | De manier waarop je een leerdoel wil of kan bereiken; krachtige leeromgeving via tijd-, ruimte- en groepsmanagement, instructie, omgang, feedback, differentiëren, opbouwen/afdalen en speelregels | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#methoden]] |
+| Tijdsmanagement | Kleine groepen en meerdere speelvelden verhogen de actieve leertijd; bij tijdstekort een oefening of thema schrappen | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#tijdsmanagement]] |
+| Groepsmanagement en opstellingsvormen | Vrije, frontrij-, halve cirkel/hoefijzer- en kolomopstelling; stations-/postenwerk vraagt een logische opeenvolging van posten | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#groepsmanagement]] |
+| Omgangsvormen | Belonen, negeren, verbieden, bestraffen — consequent reageren zorgt voor duidelijkheid en rechtvaardigheid | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#omgang]] |
+| Globale en analytische aanpak | Volledige beweging in grote lijnen versus opdelen in deelbewegingen; vaak gecombineerd | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#globale-en-analytische-omgang]] |
+| Differentiëren (methode) | Training aanpassen aan individueel niveau, ritme, mogelijkheden en interesses; sporters spelen een actieve rol | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#differentiëren]] |
+| Opbouwen en afdalen | Oefening stapsgewijs moeilijker (opbouwen) of makkelijker (afdalen) maken | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#opbouwen-en-afdalen]] |
+| Afspraken, spelregels en speelregels | Organisatorische regels, officiële sportregels en aangepaste/extra trainingsregels | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#afspraken-spelregels-en-speelregels]] |
 
 ## Nog te verwerken
 
 | Thema | Module | Startpunt |
 |---|---|---|
 | Incidenten en foutlopen | Bouwsteen Trainer | [[02 - Modules/02 - Bouwsteen Trainer/03 - Wat als het foutloopt]] |
-| Leerdoelen | Bouwstenen Omgeving, Leerdoelen en Methoden | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/02 - Bouwsteen Leerdoelen]] |
-| Methoden | Bouwstenen Omgeving, Leerdoelen en Methoden | [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden]] |
 | Methodieken | Methodieken in de praktijk | [[02 - Modules/05 - Methodieken in de praktijk/01 - Start 2 Coach - Methodieken in de praktijk]] |

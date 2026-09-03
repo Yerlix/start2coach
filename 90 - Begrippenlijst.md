@@ -25,11 +25,29 @@ De drie universele psychologische basisbehoeften die voldaan moeten zijn voor kw
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#abc-van-motivatie]]
 
+## Actieve leertijd
+
+De tijd die sporters daadwerkelijk actief bezig zijn met bewegen en oefenen tijdens een training. Wordt verhoogd door kleine groepen, meerdere speelvelden tegelijk, een logische opeenvolging van posten en een vlotte overgang tussen oefeningen.
+
+**Zie ook:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#tijdsmanagement]]
+
+## Afspraken
+
+Regels die je als trainer met je sporters maakt om de training vlot en gestructureerd te laten verlopen, bijvoorbeeld rond aanwezigheid, kledij of het opruimen van materiaal. Staat tegenover spelregels en speelregels.
+
+**Zie ook:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#afspraken-spelregels-en-speelregels]]
+
 ## Amotivatie
 
 Een totaal gebrek aan motivatie ('niet kunnen'). Ontstaat wanneer een sporter geen zelfvertrouwen heeft of het gevoel heeft dat zijn/haar acties geen kans op succes hebben.
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#1-amotivatie-niet-kunnen]]
+
+## Analytische aanpak
+
+Een beweging aanleren door ze op te delen in kleinere deelbewegingen. Staat tegenover de globale aanpak; in de praktijk vaak gecombineerd voor het beste leereffect.
+
+**Zie ook:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#globale-en-analytische-omgang]]
 
 ## Autonomie (Basisbehoefte)
 
@@ -127,6 +145,12 @@ Visuele en praktische hulpmiddelen (bord, miniatuurveld, foto's, video's, PowerP
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#hulpmiddelen-om-je-non-verbale-communicatie-te-ondersteunen]]
 
+## Differentiëren
+
+De training aanpassen aan het individuele ritme, de mogelijkheden en de interesses van elke sporter — niet enkel op technisch vlak, maar ook persoonlijk, sociaal en verstandelijk. Sporters spelen hierin zelf een actieve rol.
+
+**Zie ook:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#differentiëren]]
+
 ## Discretieplicht
 
 De verplichting om bij een melding van seksueel grensoverschrijdend gedrag enkel de mensen te betrekken die nodig zijn om de situatie op te volgen — in tegenstelling tot een beroepsgeheim (dat trainers niet hebben), waarbij niets gedeeld mag worden.
@@ -198,6 +222,18 @@ Momenten waarop bepaalde natuurlijke ontwikkelingsprocessen extra ontvankelijk z
 De **bewegingsdriehoek** (actief bewegen versus stilzitten), **voedingsdriehoek** (voeding en drinken) en **geluksdriehoek** (gevoel, sociale steun, jezelf kunnen zijn), die samen gezond en duurzaam sporten ondersteunen.
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen#de-drie-gezondheidsdriehoeken]]
+
+## Globale aanpak
+
+Een beweging aanleren door de volledige beweging in grote lijnen uit te voeren. Staat tegenover de analytische aanpak; in de praktijk vaak gecombineerd voor het beste leereffect.
+
+**Zie ook:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#globale-en-analytische-omgang]]
+
+## Groepsmanagement
+
+Het optimaal inzetten van ruimte, materiaal en de opstelling van trainer en sporters, zodat oefeningen vlot en veilig verlopen. Omvat onder meer ruimtemanagement, opstellingsvormen (vrije, frontrij-, halve cirkel/hoefijzer- en kolomopstelling) en stations- of postenwerk.
+
+**Zie ook:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#groepsmanagement]]
 
 ## Handelingsprotocol
 
@@ -283,6 +319,12 @@ Alles wat je zonder woorden laat zien of voelt: lichaamstaal, mimiek, houding, o
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/07 - Voorbeeldfunctie#wat-is-communiceren]]
 
+## Omgangsvormen
+
+De manier waarop je als trainer met je sporters omgaat en hen motiveert. Je kan gedrag beïnvloeden door te belonen, negeren, verbieden of bestraffen; consequent reageren zorgt voor duidelijkheid en een gevoel van rechtvaardigheid.
+
+**Zie ook:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#omgang]]
+
 ## Omgevingsfactoren (ontwikkeling)
 
 Verzamelnaam voor de externe invloeden die mee bepalen hoe de ontwikkeling van een sporter verloopt: de fysieke/sociale omgeving, economische factoren, persoonlijke voorkeur en motivatie, en de sportieve en persoonlijke voorgeschiedenis.
@@ -312,6 +354,12 @@ De leeftijd die overeenkomt met het werkelijke ontwikkelingsniveau van een sport
 De drie samenhangende vlakken waarop ontwikkeling zich afspeelt: **lichaam** (lengte, gewicht, spiergroei), **geest** (leervermogen, karakter, zelfreflectie) en **sociaal-emotioneel** (samenwerken, feedback, omgaan met winst/verlies). Elk vlak heeft zijn eigen tempo.
 
 **Zie ook:** [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#begrippen-binnen-de-ontwikkeling]]
+
+## Opbouwen en afdalen
+
+Twee tegengestelde manieren om een oefening aan te passen aan de vooruitgang van een sporter: **opbouwen** maakt een oefening stapsgewijs moeilijker (extra uitdaging), **afdalen** maakt een oefening makkelijker zodat een sporter toch succes ervaart.
+
+**Zie ook:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#opbouwen-en-afdalen]]
 
 ## Optimale ontwikkeling
 
@@ -360,6 +408,24 @@ Alle mogelijke impulsen die invloed hebben op een sporter: sportactiviteiten, tr
 Metafoor voor alle ervaringen — positief en negatief — die een sporter met zich meedraagt. Positieve ervaringen verlichten de rugzak, negatieve ervaringen (bv. pesterijen, discriminatie) verzwaren ze en bepalen mee hoe kwetsbaar een sporter zich voelt en hoe zwaar drempels wegen.
 
 **Zie ook:** [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#iedereen-heeft-een-rugzak]]
+
+## Ruimtemanagement
+
+Het optimaal inzetten van de beschikbare ruimte en materialen — niet alleen qua oppervlakte en materiaal, maar ook voor een vlotte overgang tussen oefeningen en veiligheid.
+
+**Zie ook:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#groepsmanagement]]
+
+## Speelregels
+
+Aangepaste of extra regels die je in je training gebruikt om het leerdoel beter te bereiken, bijvoorbeeld een bal die twee keer mag stuiten. Staat tegenover spelregels en afspraken.
+
+**Zie ook:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#afspraken-spelregels-en-speelregels]]
+
+## Spelregels
+
+Officiële regels van de sport die bepalen hoe wedstrijden gespeeld worden. Staat tegenover speelregels en afspraken.
+
+**Zie ook:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#afspraken-spelregels-en-speelregels]]
 
 ## Sportblessure
 
