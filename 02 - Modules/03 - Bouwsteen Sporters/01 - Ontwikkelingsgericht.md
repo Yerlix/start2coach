@@ -43,6 +43,15 @@ Bij het opbouwen van trainingen speelt het evenwicht tussen belasting en belastb
 
 Evenwicht tussen belasting en belastbaarheid is de sleutel tot gezonde ontwikkeling: voldoende uitdaging om te groeien, zonder de sporter te overvragen.
 
+**Onderbelasting en overbelasting op spierniveau.** Dezelfde begrippen worden ook gebruikt in een meer letterlijke, fysieke betekenis: hoe een spier of gewricht op zich reageert wanneer die te weinig of net te veel wordt aangesproken.
+
+| Begrip | Betekenis | Voorbeeld |
+|---|---|---|
+| **Onderbelasting (spier)** | Een spier of lichaamsdeel wordt te weinig gebruikt, waardoor kracht en functioneren afnemen. | Linde kan haar been na zes weken gips nauwelijks nog bewegen: haar spieren zijn sterk verzwakt. |
+| **Overbelasting (spier)** | Een spier of gewricht wordt te veel of eenzijdig belast, met pijn, blessures of bewegingsbeperkingen tot gevolg. | Peter krijgt schouderpijn door overmatige bicepsoefeningen en kan zijn ellebogen niet meer volledig strekken. |
+
+Verderop in deze les (zie "Hoeveelheid prikkels" onder Ontwikkelingsgericht training geven) keren onder- en overbelasting terug op het niveau van de hele sporter en zijn ontwikkeling, niet enkel van één spier: in beide gevallen blijft evenwicht tussen wat gevraagd wordt en wat het lichaam aankan de sleutel.
+
 ### Begrippen binnen de ontwikkeling
 
 Ontwikkeling is een totaalproces dat zich afspeelt op drie samenhangende vlakken. Elk vlak heeft zijn eigen tempo, en dat tempo verschilt van sporter tot sporter.
@@ -81,12 +90,13 @@ Ontwikkeling gebeurt dus altijd in wisselwerking met de omgeving: als trainer ho
 - Elke sporter ontwikkelt zich op zijn eigen tempo — vermijd één aanpak voor iedereen.
 - Ontwikkeling begint voor de geboorte en stopt nooit, ook niet bij volwassenen.
 - Onderbelasting = te weinig prikkels (stilstand); overbelasting = te veel prikkels (blessurerisico). Evenwicht is de sleutel.
+- Onderbelasting en overbelasting bestaan ook op spierniveau: een spier die te weinig (bv. na gips) of te veel/eenzijdig (bv. door overmatige bicepsoefeningen) wordt gebruikt, verliest kracht of raakt geblesseerd.
 - Ontwikkeling speelt zich af op drie vlakken: lichaam, geest en sociaal-emotioneel — elk met een eigen tempo, samen een totaalproces.
 - Ontwikkeling gebeurt nooit los van de omgeving: omgevingsfactoren, economische factoren, persoonlijke voorkeur en motivatie, sportieve voorgeschiedenis en persoonlijke voorgeschiedenis beïnvloeden ze mee.
 
 ### Zoekwoorden
 
-ontwikkeling · sporter centraal · inclusie · totaalproces · belasting · belastbaarheid · onderbelasting · overbelasting · lichaam · geest · sociaal-emotioneel · omgevingsfactoren · economische factoren · persoonlijke voorkeur en motivatie · sportieve voorgeschiedenis · persoonlijke voorgeschiedenis
+ontwikkeling · sporter centraal · inclusie · totaalproces · belasting · belastbaarheid · onderbelasting · overbelasting · onderbelasting spierniveau · overbelasting spierniveau · lichaam · geest · sociaal-emotioneel · omgevingsfactoren · economische factoren · persoonlijke voorkeur en motivatie · sportieve voorgeschiedenis · persoonlijke voorgeschiedenis
 
 ## Ontwikkelingsgericht training geven
 
@@ -159,6 +169,16 @@ Het LTD-model onderscheidt verschillende ontwikkelingsfasen. Start 2 Coach behan
 
 **Voorbeelden per levensfase:** een beweegschool waar kleuters en hun ouders samen bewegen en spelen; Multimove, waarbij kinderen kennismaken met verschillende bewegingen in een sportcontext; de overgang van individuele sport naar teamsport; volwassenensport als middel om actief te blijven en plezier te beleven; en seniorensport, gericht op ontwikkeling binnen de eigen mogelijkheden en levenslang sporten en bewegen.
 
+#### Veelzijdig bewegen: Multimove en Coach 4 Skills
+
+In elke fase van het LTD-model geldt: hoe **veelzijdiger** en **gevarieerder** een sporter beweegt, hoe breder zijn motorische basis. Dat verbetert niet alleen de kwaliteit van bewegen, maar vergroot ook de kans dat sporters levenslang blijven sporten, er meer plezier aan beleven en minder snel geblesseerd raken.
+
+**Multimove** is het kader waarmee kleuters kennismaken met een brede, evenwaardige waaier van bewegingsvaardigheden. Het onderscheidt **12 FUNdamentele bewegingsvaardigheden**: dribbelen, glijden, heffen en dragen, klimmen, roteren, slaan, springen en landen, trappen, trekken en duwen, vangen en werpen, wandelen en lopen, en zwaaien.
+
+Naarmate kinderen ouder worden, wordt bewegen complexer: vaardigheden worden gecombineerd en elementen als *samen* en *tegen* komen erbij. Dat vervolgtraject heet **Coach 4 Skills**: de fundamentele bewegingsvaardigheden verfijnen zich verder binnen **11 bewegingsfamilies** — evenwicht (glijden en steunen), doelspelen en terugslagspelen, springen en landen, heffen en dragen/trekken en duwen, werpen, vangen en rollen, trappen en stoten, zwaaien (schommelen, hangen en slingeren), wandelen en lopen, klauteren/klimmen/sluipen en kruipen, ritmisch en expressief bewegen, en roteren (rollen en radwenden).
+
+Multimove en Coach 4 Skills zijn dus opeenvolgende kaders binnen hetzelfde principe van veelzijdig bewegen: eerst een brede basis van 12 losse vaardigheden bij kleuters, daarna de verdere verfijning en combinatie ervan binnen 11 bewegingsfamilies naarmate kinderen ouder worden.
+
 ### Examenkort
 
 - Elke sporter doorloopt dezelfde ontwikkelingsfasen, maar timing en tempo verschillen — bepaald door aanleg, talent én omgeving (prikkels).
@@ -168,7 +188,8 @@ Het LTD-model onderscheidt verschillende ontwikkelingsfasen. Start 2 Coach behan
 - Het LTD-model (vroeger LTAD-model) helpt trainers de juiste dingen op het juiste moment te doen, rekening houdend met leeftijd, niveau en mogelijkheden van de sporter.
 - Start 2 Coach behandelt fase 1 (Actieve start), fase 2 (FUNdamenten), fase 3 (Leer trainen) en fase 7 (Blijf actief); fase 4-5-6 (Train to Train/Compete/Win) komen in vervolgopleidingen aan bod.
 - Vanuit fase 3 kan direct worden doorgestroomd naar fase 7; sporters in fase 5 of 6 kunnen altijd overstappen naar fase 7.
+- Multimove reikt kleuters 12 FUNdamentele bewegingsvaardigheden aan (dribbelen, glijden, heffen en dragen, klimmen, roteren, slaan, springen en landen, trappen, trekken en duwen, vangen en werpen, wandelen en lopen, zwaaien); Coach 4 Skills bouwt daarop verder met 11 bewegingsfamilies naarmate kinderen ouder worden.
 
 ### Zoekwoorden
 
-prikkels · onderontwikkeling · optimale ontwikkeling · verstoorde ontwikkeling · ontwikkelingsgericht trainen · ontwikkelingsleeftijd · kalenderleeftijd · gevoelige trainingsperioden · LTD-model · LTAD-model · Long Term Athlete Development · actieve start · FUNdamenten · leer trainen · blijf actief · train to train · train to compete · train to win · periodisering · Multimove
+prikkels · onderontwikkeling · optimale ontwikkeling · verstoorde ontwikkeling · ontwikkelingsgericht trainen · ontwikkelingsleeftijd · kalenderleeftijd · gevoelige trainingsperioden · LTD-model · LTAD-model · Long Term Athlete Development · actieve start · FUNdamenten · leer trainen · blijf actief · train to train · train to compete · train to win · periodisering · Multimove · 12 FUNdamentele bewegingsvaardigheden · Coach 4 Skills · 11 bewegingsfamilies · veelzijdig bewegen

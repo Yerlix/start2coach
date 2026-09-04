@@ -103,6 +103,12 @@ Demotiverende coachstijl met weinig sturing en onvoldoende structuur. De coach i
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/01 - Motiverend Coachen#chaos]]
 
+## Coach 4 Skills
+
+Vervolgtraject op Multimove voor oudere kinderen: de fundamentele bewegingsvaardigheden worden verder verfijnd en gecombineerd binnen 11 bewegingsfamilies, met meer aandacht voor 'samen' en 'tegen'.
+
+**Zie ook:** [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#veelzijdig-bewegen-multimove-en-coach-4-skills]]
+
 ## Coachkompas
 
 Model dat coachgedrag indeelt volgens twee assen (motiverend vs. demotiverend; grote vs. beperkte coachsturing) in vier kwadranten: **Autonomie, Structuur, Controle en Chaos**.
@@ -319,6 +325,12 @@ Blessurepreventie opbouwen uit een combinatie van meerdere strategieën die rege
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen#get-fit-2-sport-model]]
 
+## Multimove
+
+Kader waarmee kleuters kennismaken met 12 FUNdamentele bewegingsvaardigheden (o.a. dribbelen, klimmen, springen en landen, vangen en werpen), als brede basis voor een veelzijdige motorische ontwikkeling.
+
+**Zie ook:** [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#veelzijdig-bewegen-multimove-en-coach-4-skills]]
+
 ## Neutrale rugkromming
 
 De natuurlijke, gecontroleerde stand van de rug behouden tijdens oefeningen, balansoefeningen, sprongen en landingen.
@@ -355,6 +367,12 @@ Risicofactoren voor blessures die te maken hebben met de omstandigheden waarin g
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/02 - Hoe blessures voorkomen#hoe-ontstaan-sportblessures]]
 
+## Onderbelasting (spierniveau)
+
+Een spier of lichaamsdeel wordt te weinig gebruikt, waardoor kracht en functioneren afnemen — bijvoorbeeld een been dat na weken in het gips verzwakt is. Niet te verwarren met onderontwikkeling (te weinig prikkels op het niveau van de hele sporter).
+
+**Zie ook:** [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#ontwikkeling]]
+
 ## Onderontwikkeling
 
 Gevolg van te weinig prikkels vanuit trainer of omgeving: de sporter kan zich niet ontwikkelen binnen de sportomgeving en krijgt een negatief gevoel.
@@ -390,6 +408,12 @@ Gevolg van prikkels op maat van de sporter: hij ontwikkelt zich in een veilige e
 Gedrag dat afwijkt van wat je normaal van een sporter verwacht, bijvoorbeeld duwen of zich afzonderen van de groep. Kan niet-storend of storend/negatief zijn, en is meestal een signaal van de emotionele toestand van de sporter — niet bedoeld om de trainer te frustreren.
 
 **Zie ook:** [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#gevolgen]]
+
+## Overbelasting (spierniveau)
+
+Een spier of gewricht wordt te veel of eenzijdig belast, met pijn, blessures of bewegingsbeperkingen tot gevolg — bijvoorbeeld schouderpijn door overmatige bicepsoefeningen. Niet te verwarren met verstoorde ontwikkeling (te veel prikkels op het niveau van de hele sporter).
+
+**Zie ook:** [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#ontwikkeling]]
 
 ## Pedagogische Pijlers
 
