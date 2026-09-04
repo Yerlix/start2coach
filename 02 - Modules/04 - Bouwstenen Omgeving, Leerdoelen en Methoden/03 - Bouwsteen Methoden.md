@@ -58,7 +58,9 @@ De **opstelling** van trainer en sporters is cruciaal. Een strategische positie 
 
 De **frontrijopstelling** is minder geschikt voor een grote groep: sporters aan de buitenzijde horen de uitleg vaak slecht. Alternatieven zoals de halve cirkel of de hoefijzeropstelling geven een betere zicht- en hoorbaarheid.
 
-Bij **stations- of postenwerk** verdeel je de groep over verschillende materialen of posten. Belangrijk is een **logische opeenvolging van posten**: dit maximaliseert de actieve leertijd en minimaliseert de wachttijd — niet zozeer vrije keuze van posten, alle sporters dezelfde oefening tegelijk laten doen, of altijd een frontrijopstelling gebruiken. Afhankelijk van de oefenstof en de ruimte kunnen sporters op signaal doorschuiven, direct van post wisselen, of vrij tussen posten "vlinderen".
+Naast deze opstellingsvormen kies je ook een **organisatievorm** waarin sporters hun oefeningen uitvoeren. Enkele klassieke vormen: de **omgangsbaan** en de **bewegingsbaan** (sporters doorlopen na elkaar een vaste reeks bewegingen of oefeningen), **werken in twee-, drie- of viertallen**, en een **parcours of hindernissenbaan**.
+
+Bij **stations- of postenwerk** verdeel je de groep over verschillende materialen of posten. Belangrijk is een **logische opeenvolging van posten**: dit maximaliseert de actieve leertijd en minimaliseert de wachttijd — niet zozeer vrije keuze van posten, alle sporters dezelfde oefening tegelijk laten doen, of altijd een frontrijopstelling gebruiken. Afhankelijk van de oefenstof en de ruimte kunnen sporters op signaal doorschuiven, direct van post wisselen, of vrij tussen posten "vlinderen". Loopt een post vast of is een sporter klaar voordat de groep doorschuift, dan kan je een **by-pass** voorzien: een uitwijkmogelijkheid die wachtrijen aan een post vermijdt.
 
 Als trainer draag je actief bij aan een vlotte overgang tussen oefeningen door vooraf materiaal slim neer te zetten en de groep goed te positioneren — in plaats van materiaal pas tijdens de oefening te plaatsen, sporters te laten wachten tot iedereen klaar is, of altijd dezelfde opstelling te gebruiken ongeacht de oefening. Dit bespaart tijd, verhoogt de actieve leertijd, en maakt je training veiliger en efficiënter.
 
@@ -155,7 +157,8 @@ Enkele voorbeelden ter illustratie:
 
 - Methoden zijn de manier waarop je een leerdoel wil of kan bereiken. Een krachtige leeromgeving realiseer je via goed tijds-, ruimte- en groepsmanagement, aangepaste instructievormen, afgestemde omgangsvormen, opbouwende feedback, differentiëren, opbouwen/afdalen en speelregels.
 - Kleine groepen en meerdere speelvelden verhogen de actieve leertijd; bij tijdstekort schrap je een oefening of thema in plaats van de kwaliteit te verlagen.
-- Ruimtemanagement en een doordachte opstelling (vrije, frontrij, halve cirkel/hoefijzer, kolom) verhogen zicht- en hoorbaarheid; bij stations- of postenwerk is een logische opeenvolging van posten cruciaal.
+- Ruimtemanagement en een doordachte opstelling (vrije, frontrij, halve cirkel/hoefijzer, kolom) verhogen zicht- en hoorbaarheid; bij stations- of postenwerk is een logische opeenvolging van posten cruciaal, eventueel met een by-pass om wachtrijen te vermijden.
+- Naast opstellingsvormen bestaan er ook organisatievormen voor oefeningen, zoals de omgangs- of bewegingsbaan, werken in twee-/drie-/viertallen en een parcours of hindernissenbaan.
 - Gedrag beïnvloed je door te belonen, negeren, verbieden of bestraffen — consequent reageren zorgt voor duidelijkheid en rechtvaardigheid.
 - Bewegingen leer je aan via een globale aanpak (in grote lijnen) of een analytische aanpak (in deelbewegingen), vaak gecombineerd.
 - Differentiëren betekent de training aanpassen aan het individuele niveau, ritme, mogelijkheden en interesses van elke sporter; sporters spelen hierin zelf een actieve rol.
@@ -164,4 +167,4 @@ Enkele voorbeelden ter illustratie:
 
 ## Zoekwoorden
 
-methoden · krachtige leeromgeving · tijdsmanagement · actieve leertijd · groepsmanagement · ruimtemanagement · opstellingsvormen · stations- en postenwerk · omgangsvormen · belonen · negeren · verbieden · bestraffen · globale en analytische aanpak · differentiëren · opbouwen · afdalen · afspraken · spelregels · speelregels
+methoden · krachtige leeromgeving · tijdsmanagement · actieve leertijd · groepsmanagement · ruimtemanagement · opstellingsvormen · organisatievormen · omgangsbaan · bewegingsbaan · parcours · hindernissenbaan · stations- en postenwerk · by-pass · omgangsvormen · belonen · negeren · verbieden · bestraffen · globale en analytische aanpak · differentiëren · opbouwen · afdalen · afspraken · spelregels · speelregels

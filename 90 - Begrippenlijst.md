@@ -409,6 +409,12 @@ Gedrag dat afwijkt van wat je normaal van een sporter verwacht, bijvoorbeeld duw
 
 **Zie ook:** [[02 - Modules/03 - Bouwsteen Sporters/02 - Inclusie#gevolgen]]
 
+## Organisatievorm (oefeningen)
+
+De manier waarop sporters hun oefeningen uitvoeren, naast de opstellingsvorm van de groep — bijvoorbeeld de omgangs- of bewegingsbaan, werken in twee-, drie- of viertallen, of een parcours of hindernissenbaan.
+
+**Zie ook:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/03 - Bouwsteen Methoden#groepsmanagement]]
+
 ## Overbelasting (spierniveau)
 
 Een spier of gewricht wordt te veel of eenzijdig belast, met pijn, blessures of bewegingsbeperkingen tot gevolg — bijvoorbeeld schouderpijn door overmatige bicepsoefeningen. Niet te verwarren met verstoorde ontwikkeling (te veel prikkels op het niveau van de hele sporter).
@@ -444,6 +450,18 @@ Gedrag tussen gelijkwaardige partijen dat af en toe en spontaan gebeurt, zonder 
 Alle mogelijke impulsen die invloed hebben op een sporter: sportactiviteiten, trainingen, opdrachten van de trainer, voeding, druk of sportkleding. De hoeveelheid prikkels moet worden afgestemd op de sporter.
 
 **Zie ook:** [[02 - Modules/03 - Bouwsteen Sporters/01 - Ontwikkelingsgericht#ontwikkeling-van-je-sporters]]
+
+## Product- en procesevaluatie
+
+Twee manieren om een leerdoel te controleren: het **product** is het resultaat dat een sporter op een bepaald moment behaalt, het **proces** is de vooruitgang die hij sinds de start geboekt heeft. Vooral bij moeilijker bereikbare doelen werkt het tonen van vooruitgang (proces) sterk motiverend.
+
+**Zie ook:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/02 - Bouwsteen Leerdoelen#verschillende-soorten-leerdoelen]]
+
+## Reflectiefiches (Globale)
+
+Reflectie-instrument gestructureerd volgens de vijf bouwstenen van het didactisch model, waarmee je zowel voor als na een training je eigen handelen en de impact ervan op je sporters bekijkt.
+
+**Zie ook:** [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#reflecteren-na-de-training]]
 
 ## Rugzak
 
@@ -486,6 +504,12 @@ Blessures voorkomen en tijdig ingrijpen vóór kleine klachten groter worden, do
 Materiaal dat eigen is aan een bepaalde sport, zoals een tennisracket, kimono, voetbal of klimgordel. Staat tegenover didactisch materiaal.
 
 **Zie ook:** [[02 - Modules/04 - Bouwstenen Omgeving, Leerdoelen en Methoden/01 - Bouwsteen Omgeving#het-aanwezige-materiaal]]
+
+## STARR-methode
+
+Reflectiemethode voor specifieke, concrete situaties, opgebouwd uit vijf fasen: Situatie, Taak, Actie, Resultaat en Reflectie.
+
+**Zie ook:** [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#reflecteren-na-de-training]]
 
 ## Statisch stretchen
 
@@ -540,6 +564,12 @@ Gevolg van te veel prikkels vanuit trainer of omgeving: de sporter wordt verplic
 Instrument ('Sport met Grenzen', Sensoa/ICES) om seksueel (grensoverschrijdend) gedrag te beoordelen aan de hand van zes criteria en te classificeren met vier kleurvlaggen: groen, geel, rood of zwart.
 
 **Zie ook:** [[02 - Modules/02 - Bouwsteen Trainer/06 - Omgaan met Seksueel Grensoverschrijdend Gedrag#vlaggensysteem]]
+
+## Voorbereidingsformulier
+
+Hulpmiddel om het didactisch model concreet toe te passen op een training: een herbruikbare checklist per bouwsteen, plus de uitgewerkte trainingsvoorbereiding (leerdoelen, oefenstof en materiaal per opwarming, kern en cooling-down).
+
+**Zie ook:** [[02 - Modules/01 - Introductie Start 2 Coach/01 - Start 2 Coach - Introductie#het-voorbereidingsformulier]]
 
 ## Zeven B's
 

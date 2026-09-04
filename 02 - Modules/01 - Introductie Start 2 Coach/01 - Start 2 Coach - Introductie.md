@@ -72,6 +72,65 @@ Deze vijf thema’s — **Motiveren, Veilig sportklimaat, Voorbeeldfunctie, Ontw
 
 rode draad · didactisch model · bouwstenen · trainer · sporters · omgeving · leerdoelen · methoden · pedagogische pijlers · motiveren · veilig sportklimaat · voorbeeldfunctie · ontwikkeling · inclusie · VTS Connect
 
+## Het voorbereidingsformulier
+
+Een training geven zonder voorbereiding loopt algauw mis: te weinig oefenstof, een onveilige opstelling van materiaal, sporters die verveeld of verloren rondlopen. Het **voorbereidingsformulier** is het hulpmiddel waarmee je de bouwstenen van het didactisch model concreet toepast op een training.
+
+Het formulier bestaat uit twee delen:
+
+1. **Een checklist vooraf** — een reeks vaste aandachtspunten per bouwsteen, die voor langere tijd geldig blijft en die je voor verschillende trainingen kan hergebruiken.
+2. **De uitgewerkte trainingsvoorbereiding** — waarin je stap voor stap plant wat er tijdens de training gebeurt, opgedeeld in opwarming, kern en cooling-down.
+
+| Bouwsteen | Kernaandachtspunt in de checklist |
+|---|---|
+| **Omgeving** | Ken je locatie en materiaal, en maak het uitdagend én veilig. |
+| **Trainer** | Zorg voor motivatie, structuur, blessurepreventie/EHBO en een veilig klimaat; geef het goede voorbeeld. |
+| **Sporters** | Houd rekening met aantal, ontwikkelingsleeftijd, niveau en verleden van je sporters; zorg voor verbondenheid. |
+| **Leerdoelen** | Kies een uitdagend en bereikbaar doel, hou rekening met de leerlijn, formuleer het duidelijk. |
+| **Methoden** | Verzorg tijd, ruimte en groep; kies aangepaste omgangs- en instructievormen; differentieer. |
+
+In de uitgewerkte trainingsvoorbereiding komen deze bouwstenen samen in een tabel met de kolommen **Leerdoelen · Oefenstof (Trainer/Methoden/Sporters) · Materiaal (Omgeving)**, telkens ingevuld voor opwarming, kern en cooling-down.
+
+Volg je Start 2 Coach als losse module, dan leer je een trainingsvoorbereiding vooral **interpreteren** — je stelt er zelf nog geen volledige op. Het formulier is bovendien een **hulpmiddel, geen keurslijf**: tijdens de training zelf stuur je bij als de situatie dat vraagt (bv. een ander aantal sporters, een ander tempo, ontbrekend materiaal).
+
+### Examenkort
+
+- Het voorbereidingsformulier past het didactisch model concreet toe op een training en bestaat uit twee delen: een herbruikbare checklist per bouwsteen, en de uitgewerkte trainingsvoorbereiding.
+- De uitgewerkte voorbereiding is een tabel met leerdoelen, oefenstof en materiaal, ingevuld per fase van de training (opwarming, kern, cooling-down).
+- Bij Start 2 Coach als losse module leer je een trainingsvoorbereiding interpreteren, niet zelf volledig opstellen.
+- Het formulier is een hulpmiddel: tijdens de training mag en moet je bijsturen als de situatie dat vraagt.
+
+### Zoekwoorden
+
+voorbereidingsformulier · checklist per bouwsteen · trainingsvoorbereiding · leerdoelen oefenstof materiaal · interpreteren versus opstellen
+
+## Reflecteren na de training
+
+Een goede voorbereiding maakt het ook mogelijk om achteraf gericht na te denken over hoe de training verliep. Zo sluit de cirkel: **voorbereiden → geven → reflecteren → meenemen naar de volgende voorbereiding.**
+
+Twee hulpmiddelen ondersteunen je daarbij:
+
+- **Globale reflectiefiches** — gestructureerd volgens de vijf bouwstenen van het didactisch model. Ze helpen je telkens door een andere bril naar je eigen handelen en de impact ervan op je sporters te kijken, zowel voor de voorbereiding als het verloop van de training. Vraag hierbij ook actief feedback aan een begeleider of andere trainer.
+- **De STARR-methode** — voor specifieke, concrete situaties waar je langer bij wil stilstaan (bv. een ruzie, een gesprek met ouders, een niet-bereikt leerdoel). Vijf fasen:
+
+| Fase | Vraag die je jezelf stelt |
+|---|---|
+| **S**ituatie | Wat gebeurde er, wie was erbij betrokken? |
+| **T**aak | Wat was mijn taak of rol, wat werd er van mij verwacht? |
+| **A**ctie | Wat heb ik gedaan, en waarom? |
+| **R**esultaat | Wat leverde mijn actie op? |
+| **R**eflectie | Wat leer ik hieruit, wat zou ik een volgende keer anders doen? |
+
+### Examenkort
+
+- Reflecteren sluit de cirkel: voorbereiden → geven → reflecteren → meenemen naar de volgende voorbereiding.
+- Globale reflectiefiches zijn gestructureerd volgens de vijf bouwstenen en helpen je vanuit verschillende invalshoeken naar je eigen handelen te kijken.
+- De STARR-methode helpt je specifieke situaties te ontleden in vijf fasen: Situatie, Taak, Actie, Resultaat, Reflectie.
+
+### Zoekwoorden
+
+reflecteren · globale reflectiefiches · STARR-methode · situatie taak actie resultaat reflectie · feedback vragen
+
 ## Niet-opgenomen hoofdstuk
 
 Het derde hoofdstuk over het gebruik van het e-learningplatform is niet inhoudelijk verwerkt, omdat het geen relevante cursusinhoud voor het examen bevat.

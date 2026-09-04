@@ -93,6 +93,17 @@ Zorg dat je leerdoel glashelder is: zo weten je sporters wat er van hen verwacht
 
 Samen vormen deze vijf elementen bijvoorbeeld het leerdoel: *"De kinderen kunnen tegen het einde van de lessenreeks minstens twee keer scoren met lay-up in een wedstrijd drie tegen drie."*
 
+**Een leerdoel controleren**
+
+Nadat je een leerdoel hebt geformuleerd, moet je ook kunnen nagaan of het bereikt is. Dat kan op verschillende manieren:
+
+- **Observatie** tijdens de training of een wedstrijd — eventueel ondersteund door een observatiefiche of kijkwijzer.
+- **Een test.**
+- Sporters **zichzelf laten inschatten.**
+- **Een gesprek**, aan de hand van gerichte deelvragen.
+
+Je kan daarbij zowel het **product** als het **proces** evalueren: het product is het resultaat dat een sporter op een bepaald moment behaalt, het proces is de vooruitgang die hij sinds de start geboekt heeft. Vooral bij doelen die moeilijker te bereiken zijn, werkt het tonen van vooruitgang (proces) sterk motiverend — ook als het eindresultaat (product) nog niet volledig behaald is.
+
 ## Een weldoordachte trainingsopbouw
 
 Als trainer wil je specifieke leerdoelen bereiken tijdens je training. De **opbouw van je training** is daarbij ook belangrijk. Een training bestaat uit **drie delen** — een opwarming of inleiding, een kern en een slot of cooling-down — en elk deel heeft zijn eigen doel in het leerproces. Pas dus je oefeningen aan aan het moment waarop ze in de training voorkomen.
@@ -113,8 +124,9 @@ Als trainer bepaal je dus leerdoelen op basis van het niveau, de motivatie en de
 - Leerdoelen kunnen ingedeeld worden op tijdshorizon (kort/middellang/lang), haalbaarheid (bereikbaar/onbereikbaar), ontwikkelingsvlak (lichamelijk/geestelijk/sociaal) en controleerbaarheid (controleerbaar/oncontroleerbaar).
 - Combineer verschillende soorten leerdoelen in één training om sporters fysiek, mentaal én sociaal te ontwikkelen.
 - Een glashelder leerdoel combineert vijf elementen: richting (wie), vaardigheden, soort situatie, minimale eis en tijd.
+- Een leerdoel controleer je via observatie (eventueel met een observatiefiche/kijkwijzer), een test, zelfinschatting door de sporter of een gesprek; daarbij evalueer je zowel het product (behaald resultaat) als het proces (vooruitgang).
 - Een training bestaat uit drie delen — opwarming, kern en slot/cooling-down — elk met een eigen doel in het leerproces.
 
 ## Zoekwoorden
 
-leerdoelen · beginsituatie · rugzak · leerlijn · korte/middellange/lange termijn · bereikbaar · lichamelijk geestelijk sociaal · controleerbaar · glashelder leerdoel · opwarming · kern · cooling-down
+leerdoelen · beginsituatie · rugzak · leerlijn · korte/middellange/lange termijn · bereikbaar · lichamelijk geestelijk sociaal · controleerbaar · glashelder leerdoel · observatiefiche · kijkwijzer · product versus proces · opwarming · kern · cooling-down
